@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Editor / OS
+.DS_Store
+.Rhistory
+.claude/settings.local.json
+
+# Scratch output
+temporary screenshots/
+project-root/logs/
+project-root/reports/

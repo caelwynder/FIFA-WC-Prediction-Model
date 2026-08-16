@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Australia,Cameroon,Friendly,Random Forest,H,0.66333,0.26,0.07667,Home Win
+2026-03-27,Australia,Cameroon,Friendly,XGBoost,H,0.63977,0.32205,0.03818,Home Win

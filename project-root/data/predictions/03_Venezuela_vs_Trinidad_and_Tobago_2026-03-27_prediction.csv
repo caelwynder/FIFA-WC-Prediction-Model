@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Venezuela,Trinidad and Tobago,Friendly,Random Forest,H,0.71667,0.12667,0.15667,Home Win
+2026-03-27,Venezuela,Trinidad and Tobago,Friendly,XGBoost,H,0.91221,0.05883,0.02896,Home Win

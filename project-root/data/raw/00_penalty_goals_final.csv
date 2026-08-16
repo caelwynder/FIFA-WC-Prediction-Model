@@ -1,0 +1,3259 @@
+date,home_team,away_team,team,minute
+1916-07-06,Argentina,Chile,Argentina,60.0
+1916-07-06,Argentina,Chile,Argentina,62.0
+1917-09-30,Uruguay,Chile,Uruguay,62.0
+1917-10-03,Argentina,Brazil,Brazil,39.0
+1917-10-03,Argentina,Brazil,Argentina,56.0
+1917-10-03,Argentina,Brazil,Argentina,58.0
+1920-09-18,Brazil,Uruguay,Uruguay,26.0
+1922-09-23,Chile,Uruguay,Uruguay,19.0
+1922-10-15,Brazil,Argentina,Brazil,86.0
+1922-10-18,Argentina,Paraguay,Argentina,79.0
+1924-05-25,Switzerland,Lithuania,Switzerland,63.0
+1924-05-25,United States,Estonia,United States,15.0
+1924-05-27,Netherlands,Romania,Netherlands,69.0
+1924-05-28,Switzerland,Czechoslovakia,Czechoslovakia,21.0
+1924-06-06,Uruguay,Netherlands,Uruguay,81.0
+1924-06-09,Sweden,Netherlands,Netherlands,43.0
+1926-10-17,Chile,Uruguay,Chile,65.0
+1926-11-01,Paraguay,Uruguay,Uruguay,47.0
+1926-11-01,Paraguay,Uruguay,Paraguay,58.0
+1927-10-30,Argentina,Bolivia,Argentina,24.0
+1927-11-20,Argentina,Uruguay,Argentina,56.0
+1928-05-28,Egypt,Turkey,Egypt,20.0
+1928-07-26,Estonia,Lithuania,Estonia,1.0
+1929-08-14,Latvia,Lithuania,Lithuania,89.0
+1930-07-19,Argentina,Mexico,Mexico,42.0
+1933-10-29,Switzerland,Romania,Switzerland,80.0
+1934-01-28,Haiti,Cuba,Cuba,20.0
+1934-01-28,Haiti,Cuba,Haiti,85.0
+1934-02-01,Haiti,Cuba,Haiti,25.0
+1934-03-11,Spain,Portugal,Spain,14.0
+1934-03-25,Bulgaria,Hungary,Hungary,61.0
+1934-04-15,Luxembourg,France,France,89.0
+1934-05-27,Austria,France,France,116.0
+1934-05-27,Brazil,Spain,Spain,18.0
+1934-05-31,Austria,Hungary,Hungary,60.0
+1936-08-31,Latvia,Estonia,Latvia,41.0
+1936-08-31,Latvia,Estonia,Estonia,73.0
+1937-01-02,Paraguay,Uruguay,Paraguay,38.0
+1937-06-20,Sweden,Estonia,Sweden,49.0
+1937-09-03,Lithuania,Latvia,Latvia,45.0
+1937-11-07,Bulgaria,Czechoslovakia,Bulgaria,89.0
+1938-02-20,Greece,Israel,Greece,88.0
+1938-03-25,Hungary,Greece,Hungary,23.0
+1938-05-01,Switzerland,Portugal,Portugal,72.0
+1938-06-05,Brazil,Poland,Poland,23.0
+1938-06-12,Brazil,Czechoslovakia,Czechoslovakia,65.0
+1938-06-16,Brazil,Italy,Italy,60.0
+1939-01-22,Peru,Chile,Peru,65.0
+1939-02-05,Chile,Ecuador,Chile,19.0
+1939-02-05,Paraguay,Uruguay,Uruguay,40.0
+1942-01-31,Brazil,Ecuador,Ecuador,19.0
+1946-02-03,Brazil,Chile,Chile,84.0
+1947-07-13,Mexico,United States,Mexico,78.0
+1949-04-13,Brazil,Chile,Brazil,49.0
+1949-04-13,Brazil,Chile,Chile,89.0
+1949-04-13,Paraguay,Peru,Paraguay,38.0
+1949-04-17,Bolivia,Uruguay,Bolivia,47.0
+1949-04-17,Brazil,Colombia,Brazil,24.0
+1949-04-20,Paraguay,Uruguay,Paraguay,65.0
+1949-04-25,Bolivia,Ecuador,Bolivia,14.0
+1949-04-27,Bolivia,Peru,Peru,77.0
+1949-04-30,Brazil,Uruguay,Brazil,40.0
+1949-04-30,Brazil,Uruguay,Brazil,89.0
+1949-05-08,Chile,Uruguay,Chile,83.0
+1949-06-02,Sweden,Republic of Ireland,Sweden,17.0
+1949-08-21,Yugoslavia,Israel,Yugoslavia,83.0
+1949-09-08,Republic of Ireland,Finland,Republic of Ireland,44.0
+1949-10-01,Northern Ireland,Scotland,Scotland,31.0
+1949-11-13,Republic of Ireland,Sweden,Republic of Ireland,61.0
+1949-12-11,France,Yugoslavia,Yugoslavia,84.0
+1950-06-28,Mexico,Yugoslavia,Mexico,89.0
+1950-07-02,Chile,United States,United States,48.0
+1950-07-09,Brazil,Sweden,Sweden,67.0
+1953-03-01,Bolivia,Brazil,Bolivia,73.0
+1953-09-06,Bulgaria,Czechoslovakia,Bulgaria,55.0
+1953-09-27,Austria,Portugal,Austria,68.0
+1953-10-03,Northern Ireland,Scotland,Northern Ireland,72.0
+1953-10-04,Republic of Ireland,France,Republic of Ireland,58.0
+1953-10-25,Romania,Czechoslovakia,Czechoslovakia,38.0
+1953-10-28,Republic of Ireland,Luxembourg,Republic of Ireland,48.0
+1954-03-28,Saarland,Germany,Saarland,68.0
+1954-04-03,Haiti,United States,Haiti,60.0
+1954-06-19,France,Mexico,France,88.0
+1954-06-20,Belgium,Italy,Italy,41.0
+1954-06-27,Brazil,Hungary,Brazil,18.0
+1954-06-27,Brazil,Hungary,Hungary,60.0
+1954-06-30,Austria,Germany,Germany,54.0
+1954-06-30,Austria,Germany,Germany,64.0
+1954-07-03,Austria,Uruguay,Austria,16.0
+1955-03-02,Argentina,Paraguay,Argentina,18.0
+1955-03-06,Chile,Peru,Peru,63.0
+1955-03-09,Paraguay,Uruguay,Uruguay,86.0
+1955-03-16,Ecuador,Paraguay,Paraguay,32.0
+1956-09-09,Hong Kong,Vietnam Republic,Hong Kong,59.0
+1956-09-15,Korea Republic,Vietnam Republic,Korea Republic,41.0
+1956-10-03,Republic of Ireland,Denmark,Republic of Ireland,45.0
+1957-02-10,Sudan,Egypt,Egypt,21.0
+1957-03-07,Ecuador,Uruguay,Uruguay,29.0
+1957-03-07,Ecuador,Uruguay,Ecuador,40.0
+1957-03-08,Sudan,Syria,Sudan,78.0
+1957-03-10,Peru,Ecuador,Peru,37.0
+1957-03-13,Argentina,Colombia,Argentina,16.0
+1957-03-13,Argentina,Colombia,Colombia,34.0
+1957-03-13,Argentina,Colombia,Argentina,53.0
+1957-03-21,Brazil,Ecuador,Brazil,34.0
+1957-03-21,Brazil,Ecuador,Ecuador,80.0
+1957-03-24,Chile,Ecuador,Ecuador,25.0
+1957-03-24,Chile,Ecuador,Chile,26.0
+1957-03-27,Peru,Colombia,Colombia,57.0
+1957-03-28,Argentina,Chile,Argentina,83.0
+1957-03-31,Peru,Brazil,Brazil,73.0
+1957-04-01,Colombia,Ecuador,Colombia,19.0
+1957-04-01,Colombia,Ecuador,Ecuador,32.0
+1957-05-01,Northern Ireland,Portugal,Northern Ireland,70.0
+1957-05-08,Scotland,Spain,Scotland,41.0
+1957-05-26,Austria,Netherlands,Austria,89.0
+1957-06-05,Belgium,Iceland,Belgium,44.0
+1957-06-22,Canada,United States,United States,35.0
+1957-06-30,Uruguay,Colombia,Uruguay,89.0
+1957-11-03,Romania,Greece,Romania,51.0
+1958-06-08,England,Russia,England,85.0
+1958-06-08,France,Paraguay,Paraguay,44.0
+1958-06-08,Sweden,Mexico,Sweden,57.0
+1958-06-11,Argentina,Northern Ireland,Argentina,37.0
+1958-06-11,Czechoslovakia,Germany,Czechoslovakia,24.0
+1958-06-15,Argentina,Czechoslovakia,Argentina,65.0
+1958-06-28,France,Germany,France,27.0
+1959-03-11,Chile,Paraguay,Chile,34.0
+1959-03-18,Argentina,Peru,Argentina,18.0
+1959-04-05,Republic of Ireland,Czechoslovakia,Republic of Ireland,42.0
+1959-04-26,Turkey,Romania,Turkey,54.0
+1959-05-10,Czechoslovakia,Republic of Ireland,Czechoslovakia,4.0
+1959-09-23,Austria,Norway,Austria,25.0
+1959-12-06,Ecuador,Uruguay,Uruguay,1.0
+1959-12-09,Argentina,Paraguay,Argentina,89.0
+1959-12-16,Argentina,Uruguay,Uruguay,9.0
+1959-12-16,Argentina,Uruguay,Uruguay,55.0
+1960-03-27,Austria,France,France,83.0
+1960-09-10,Nigeria,Ghana,Nigeria,75.0
+1960-09-25,Finland,France,Finland,36.0
+1960-10-19,Israel,Vietnam Republic,Vietnam Republic,68.0
+1960-10-30,Morocco,Tunisia,Morocco,60.0
+1960-11-03,United States,Mexico,United States,31.0
+1960-11-27,Israel,Cyprus,Cyprus,89.0
+1960-12-04,Ecuador,Argentina,Argentina,5.0
+1960-12-17,Argentina,Ecuador,Argentina,55.0
+1961-05-07,Peru,Colombia,Peru,3.0
+1961-05-14,Czechoslovakia,Scotland,Czechoslovakia,15.0
+1961-06-04,Yugoslavia,Poland,Yugoslavia,42.0
+1961-06-16,Finland,Bulgaria,Bulgaria,75.0
+1961-10-15,Israel,Italy,Italy,53.0
+1962-01-14,Ethiopia,Tunisia,Ethiopia,32.0
+1962-05-30,Colombia,Uruguay,Colombia,19.0
+1962-05-31,England,Hungary,England,60.0
+1962-06-02,Argentina,England,England,17.0
+1962-06-02,Uruguay,Yugoslavia,Yugoslavia,25.0
+1962-06-06,Chile,Germany,Germany,21.0
+1962-06-07,Czechoslovakia,Mexico,Mexico,90.0
+1962-06-13,Chile,Brazil,Chile,61.0
+1962-06-13,Czechoslovakia,Yugoslavia,Czechoslovakia,84.0
+1962-10-03,England,France,England,57.0
+1962-11-04,Yugoslavia,Belgium,Yugoslavia,32.0
+1962-11-21,German DR,Czechoslovakia,German DR,80.0
+1963-03-20,Wales,Hungary,Wales,23.0
+1963-03-20,Wales,Hungary,Hungary,77.0
+1963-03-23,Guatemala,Panama,Panama,73.0
+1963-03-27,Guatemala,Nicaragua,Guatemala,14.0
+1963-03-28,Costa Rica,Curaçao,Costa Rica,38.0
+1963-03-28,Jamaica,Mexico,Mexico,35.0
+1963-06-29,Denmark,Albania,Denmark,18.0
+1963-10-13,Republic of Ireland,Austria,Republic of Ireland,89.0
+1963-11-03,Hungary,German DR,Hungary,51.0
+1963-12-01,Ghana,Sudan,Ghana,62.0
+1964-05-24,Netherlands,Albania,Netherlands,48.0
+1964-05-29,Israel,India,Israel,29.0
+1964-06-20,Hungary,Denmark,Hungary,107.0
+1964-10-14,Northern Ireland,Switzerland,Northern Ireland,64.0
+1965-02-21,Costa Rica,Trinidad and Tobago,Costa Rica,28.0
+1965-04-08,Costa Rica,El Salvador,Costa Rica,63.0
+1965-05-02,Romania,Turkey,Romania,72.0
+1965-05-02,Switzerland,Albania,Switzerland,10.0
+1965-05-07,Northern Ireland,Albania,Northern Ireland,61.0
+1965-05-09,Belgium,Israel,Belgium,24.0
+1965-08-07,Colombia,Chile,Colombia,67.0
+1965-08-22,Chile,Ecuador,Chile,10.0
+1965-09-05,Hungary,Austria,Hungary,70.0
+1965-11-12,DR Congo,Ghana,DR Congo,45.0
+1965-11-19,Ethiopia,Senegal,Ethiopia,12.0
+1965-11-21,Korea DPR,Australia,Australia,70.0
+1966-07-12,Germany,Switzerland,Germany,77.0
+1966-07-15,Brazil,Hungary,Hungary,73.0
+1966-07-15,Chile,Korea DPR,Chile,26.0
+1966-07-15,France,Uruguay,France,15.0
+1966-07-23,Korea DPR,Portugal,Portugal,43.0
+1966-07-23,Korea DPR,Portugal,Portugal,59.0
+1966-07-26,England,Portugal,Portugal,82.0
+1966-07-28,Portugal,Russia,Portugal,12.0
+1966-09-21,Hungary,Denmark,Hungary,9.0
+1966-11-30,Chile,Colombia,Chile,40.0
+1966-12-21,Ecuador,Paraguay,Paraguay,85.0
+1967-01-18,Argentina,Paraguay,Argentina,89.0
+1967-03-08,Haiti,Trinidad and Tobago,Haiti,33.0
+1967-03-08,Haiti,Trinidad and Tobago,Trinidad and Tobago,52.0
+1967-04-08,Germany,Albania,Germany,80.0
+1967-05-10,Hungary,Netherlands,Hungary,8.0
+1967-06-04,Denmark,German DR,Denmark,65.0
+1967-07-16,Russia,Greece,Russia,72.0
+1967-09-06,Finland,Russia,Finland,18.0
+1967-09-06,Finland,Russia,Russia,56.0
+1967-10-04,Denmark,Netherlands,Denmark,43.0
+1967-10-04,Greece,Austria,Greece,34.0
+1967-10-11,German DR,Denmark,German DR,35.0
+1967-10-21,Wales,England,England,90.0
+1967-11-05,Sweden,Norway,Norway,57.0
+1967-11-08,Switzerland,Cyprus,Switzerland,56.0
+1967-11-18,Switzerland,Italy,Italy,85.0
+1967-11-22,Czechoslovakia,Republic of Ireland,Republic of Ireland,86.0
+1968-01-12,Congo,DR Congo,DR Congo,27.0
+1968-01-12,Ethiopia,Uganda,Ethiopia,
+1968-01-14,DR Congo,Ghana,Ghana,17.0
+1968-01-16,Ethiopia,Algeria,Ethiopia,27.0
+1968-01-19,Ghana,Ivory Coast,Ivory Coast,
+1968-04-06,Bulgaria,Italy,Bulgaria,11.0
+1968-05-19,Austria,Cyprus,Austria,4.0
+1968-05-19,Austria,Cyprus,Austria,76.0
+1968-10-09,Belgium,Finland,Belgium,16.0
+1968-10-09,Belgium,Finland,Finland,88.0
+1968-10-27,Bulgaria,Netherlands,Bulgaria,45.0
+1968-11-17,Algeria,Tunisia,Algeria,29.0
+1969-04-23,Bulgaria,Luxembourg,Bulgaria,49.0
+1969-04-23,Bulgaria,Luxembourg,Luxembourg,50.0
+1969-10-10,Luxembourg,Poland,Poland,54.0
+1969-10-15,Republic of Ireland,Denmark,Denmark,84.0
+1969-10-15,Sweden,France,Sweden,32.0
+1969-11-01,France,Sweden,France,41.0
+1969-11-08,Nigeria,Morocco,Nigeria,67.0
+1969-12-03,Czechoslovakia,Hungary,Czechoslovakia,44.0
+1969-12-03,Czechoslovakia,Hungary,Hungary,90.0
+1969-12-04,Costa Rica,Trinidad and Tobago,Costa Rica,85.0
+1969-12-07,Luxembourg,Bulgaria,Luxembourg,58.0
+1970-02-07,Egypt,Guinea,Guinea,25.0
+1970-02-07,Egypt,Guinea,Egypt,73.0
+1970-02-09,DR Congo,Guinea,Guinea,55.0
+1970-06-03,Belgium,El Salvador,Belgium,76.0
+1970-06-06,Czechoslovakia,Romania,Romania,75.0
+1970-06-07,Bulgaria,Germany,Germany,52.0
+1970-06-11,Czechoslovakia,England,England,50.0
+1970-06-11,Mexico,Belgium,Mexico,14.0
+1970-10-11,Netherlands,Yugoslavia,Netherlands,50.0
+1970-10-14,Republic of Ireland,Sweden,Republic of Ireland,44.0
+1970-10-17,Germany,Turkey,Germany,37.0
+1970-12-08,Italy,Republic of Ireland,Italy,22.0
+1970-12-20,Malta,Switzerland,Malta,55.0
+1971-02-03,Belgium,Scotland,Belgium,85.0
+1971-02-03,Cyprus,Northern Ireland,Northern Ireland,86.0
+1971-02-17,Belgium,Portugal,Belgium,64.0
+1971-04-21,Wales,Czechoslovakia,Wales,49.0
+1971-04-24,Hungary,France,Hungary,70.0
+1971-05-12,England,Malta,England,46.0
+1971-05-30,Republic of Ireland,Austria,Austria,4.0
+1971-05-30,Republic of Ireland,Austria,Republic of Ireland,46.0
+1971-06-09,Norway,Bulgaria,Bulgaria,42.0
+1971-09-22,Finland,Romania,Romania,64.0
+1971-10-10,Austria,Republic of Ireland,Austria,41.0
+1971-11-10,France,Bulgaria,Bulgaria,54.0
+1971-11-21,Portugal,Belgium,Portugal,90.0
+1971-11-21,Trinidad and Tobago,Honduras,Honduras,36.0
+1971-11-24,Spain,Cyprus,Spain,47.0
+1971-11-26,Trinidad and Tobago,Mexico,Mexico,85.0
+1971-11-28,Cuba,Mexico,Mexico,15.0
+1972-02-24,Mali,Togo,Togo,45.0
+1972-03-04,Cameroon,DR Congo,Cameroon,4.0
+1972-03-12,Guinea,Algeria,Guinea,54.0
+1972-04-29,England,Germany,Germany,84.0
+1972-05-12,Korea Republic,Kuwait,Korea Republic,2.0
+1972-05-13,Belgium,Italy,Italy,86.0
+1972-05-22,Belgium,Iceland,Belgium,30.0
+1972-05-22,Belgium,Iceland,Belgium,49.0
+1972-06-17,Belgium,Hungary,Hungary,53.0
+1972-07-02,Ghana,Benin,Ghana,72.0
+1972-08-03,Norway,Iceland,Norway,55.0
+1972-10-04,Norway,Belgium,Belgium,58.0
+1972-10-15,Austria,Hungary,Austria,58.0
+1972-10-15,Sweden,Malta,Sweden,35.0
+1972-10-15,Sweden,Malta,Sweden,57.0
+1972-10-18,Bulgaria,Northern Ireland,Bulgaria,18.0
+1972-10-18,Bulgaria,Northern Ireland,Bulgaria,85.0
+1972-11-01,Netherlands,Norway,Netherlands,80.0
+1972-12-10,Turkey,Luxembourg,Turkey,79.0
+1973-02-10,Nigeria,Ghana,Ghana,18.0
+1973-02-11,Tunisia,Ivory Coast,Tunisia,48.0
+1973-02-25,Ivory Coast,Tunisia,Ivory Coast,85.0
+1973-02-27,DR Congo,Cameroon,DR Congo,88.0
+1973-03-21,Iraq,Indonesia,Iraq,22.0
+1973-03-28,Northern Ireland,Portugal,Portugal,84.0
+1973-04-15,Zambia,Ethiopia,Zambia,62.0
+1973-04-15,Zambia,Ethiopia,Ethiopia,79.0
+1973-05-06,Albania,Romania,Romania,57.0
+1973-05-13,Iran,Kuwait,Iran,60.0
+1973-08-05,Ghana,DR Congo,Ghana,35.0
+1973-08-19,DR Congo,Ghana,DR Congo,89.0
+1973-08-29,Netherlands,Iceland,Netherlands,48.0
+1973-10-07,Argentina,Paraguay,Argentina,32.0
+1973-10-10,Albania,Finland,Albania,25.0
+1973-10-17,Czechoslovakia,Scotland,Czechoslovakia,15.0
+1973-10-17,England,Poland,England,63.0
+1973-10-20,Italy,Switzerland,Italy,39.0
+1973-10-31,Belgium,Norway,Belgium,32.0
+1973-10-31,Belgium,Norway,Belgium,85.0
+1973-11-11,Malta,Sweden,Sweden,35.0
+1973-11-27,Austria,Sweden,Sweden,28.0
+1974-03-07,Congo,Guinea,Guinea,60.0
+1974-06-23,Bulgaria,Netherlands,Netherlands,5.0
+1974-06-23,Bulgaria,Netherlands,Netherlands,44.0
+1974-06-30,Germany,Sweden,Germany,89.0
+1974-06-30,Poland,Yugoslavia,Poland,24.0
+1974-07-07,Germany,Netherlands,Netherlands,2.0
+1974-07-07,Germany,Netherlands,Germany,25.0
+1974-09-08,Iceland,Belgium,Belgium,87.0
+1974-09-25,Denmark,Spain,Spain,28.0
+1974-09-25,Denmark,Spain,Denmark,48.0
+1974-09-25,Finland,Netherlands,Netherlands,51.0
+1974-10-13,Luxembourg,Hungary,Luxembourg,43.0
+1975-04-02,Russia,Turkey,Russia,25.0
+1975-04-02,Russia,Turkey,Russia,56.0
+1975-04-20,Czechoslovakia,Cyprus,Czechoslovakia,50.0
+1975-04-27,Bulgaria,Germany,Bulgaria,71.0
+1975-04-27,Bulgaria,Germany,Germany,75.0
+1975-05-01,Luxembourg,Wales,Luxembourg,39.0
+1975-05-01,Luxembourg,Wales,Wales,83.0
+1975-06-04,Greece,Malta,Greece,34.0
+1975-06-05,Finland,Italy,Italy,26.0
+1975-06-11,Bulgaria,Malta,Bulgaria,68.0
+1975-06-30,Sweden,Norway,Norway,54.0
+1975-06-30,Sweden,Norway,Sweden,65.0
+1975-08-06,Brazil,Argentina,Brazil,55.0
+1975-08-07,Peru,Bolivia,Peru,7.0
+1975-08-07,Peru,Bolivia,Bolivia,58.0
+1975-09-24,Hungary,Austria,Austria,16.0
+1975-10-01,Uruguay,Colombia,Uruguay,17.0
+1975-10-12,German DR,France,German DR,77.0
+1975-10-15,Austria,Luxembourg,Austria,76.0
+1975-11-16,Romania,Spain,Romania,72.0
+1976-02-28,Germany,Malta,Germany,41.0
+1976-02-29,Egypt,Guinea,Guinea,44.0
+1976-03-01,Morocco,Sudan,Sudan,79.0
+1976-03-01,Nigeria,DR Congo,Nigeria,37.0
+1976-03-13,Burkina Faso,Mauritania,Mauritania,68.0
+1976-04-25,Netherlands,Belgium,Netherlands,79.0
+1976-05-22,Wales,Yugoslavia,Yugoslavia,19.0
+1976-09-22,Finland,Luxembourg,Finland,82.0
+1976-10-09,Switzerland,Sweden,Switzerland,40.0
+1976-10-10,Spain,Yugoslavia,Spain,86.0
+1976-10-17,Congo,Cameroon,Congo,66.0
+1976-10-27,Denmark,Cyprus,Denmark,60.0
+1976-10-27,Denmark,Cyprus,Denmark,68.0
+1976-10-30,Nigeria,Sierra Leone,Sierra Leone,88.0
+1976-10-31,Poland,Cyprus,Poland,24.0
+1976-11-17,German DR,Turkey,German DR,3.0
+1976-11-17,German DR,Turkey,Turkey,31.0
+1976-12-05,Cyprus,Portugal,Cyprus,74.0
+1977-02-27,Guinea,Togo,Guinea,40.0
+1977-02-28,Hong Kong,Indonesia,Hong Kong,61.0
+1977-03-07,Thailand,Indonesia,Thailand,30.0
+1977-03-17,Bahrain,Kuwait,Kuwait,56.0
+1977-03-19,Qatar,Bahrain,Bahrain,73.0
+1977-03-20,Brazil,Paraguay,Brazil,6.0
+1977-03-21,Qatar,Kuwait,Qatar,82.0
+1977-03-30,England,Luxembourg,England,79.0
+1977-04-03,Korea Republic,Japan,Korea Republic,84.0
+1977-07-10,Nigeria,Ivory Coast,Nigeria,56.0
+1977-07-14,Brazil,Bolivia,Brazil,27.0
+1977-08-31,Netherlands,Iceland,Netherlands,89.0
+1977-09-21,Poland,Denmark,Denmark,66.0
+1977-10-09,Denmark,Portugal,Denmark,45.0
+1977-10-12,Canada,Suriname,Suriname,40.0
+1977-10-12,Guatemala,Haiti,Haiti,20.0
+1977-10-12,Wales,Scotland,Scotland,78.0
+1977-10-15,Mexico,Suriname,Suriname,23.0
+1977-10-19,Mexico,Guatemala,Mexico,28.0
+1977-10-20,El Salvador,Suriname,Suriname,89.0
+1977-10-29,German DR,Malta,German DR,63.0
+1977-10-30,Hong Kong,Australia,Australia,39.0
+1977-11-25,Egypt,Tunisia,Egypt,26.0
+1977-11-30,Bolivia,Hungary,Bolivia,45.0
+1978-05-24,Denmark,Republic of Ireland,Denmark,79.0
+1978-06-02,Mexico,Tunisia,Mexico,45.0
+1978-06-03,Iran,Netherlands,Netherlands,40.0
+1978-06-03,Iran,Netherlands,Netherlands,78.0
+1978-06-06,Argentina,France,Argentina,45.0
+1978-06-06,Hungary,Italy,Hungary,81.0
+1978-06-07,Austria,Sweden,Austria,42.0
+1978-06-11,Iran,Peru,Peru,36.0
+1978-06-11,Iran,Peru,Peru,39.0
+1978-06-11,Netherlands,Scotland,Netherlands,34.0
+1978-06-11,Netherlands,Scotland,Scotland,46.0
+1978-06-14,Austria,Netherlands,Netherlands,35.0
+1978-06-14,Brazil,Peru,Brazil,72.0
+1978-09-20,Denmark,England,Denmark,25.0
+1978-09-20,Netherlands,Iceland,Netherlands,63.0
+1978-10-04,German DR,Iceland,Iceland,14.0
+1978-10-04,Sweden,Czechoslovakia,Sweden,15.0
+1978-10-11,Greece,Finland,Greece,75.0
+1978-10-25,Romania,Yugoslavia,Yugoslavia,22.0
+1978-10-25,Romania,Yugoslavia,Romania,75.0
+1978-10-25,Scotland,Norway,Scotland,87.0
+1978-11-15,Netherlands,German DR,Netherlands,72.0
+1979-03-28,Belgium,Austria,Belgium,21.0
+1979-04-01,Cyprus,Yugoslavia,Yugoslavia,82.0
+1979-04-04,Czechoslovakia,France,Czechoslovakia,67.0
+1979-04-04,Romania,Spain,Romania,57.0
+1979-05-02,Poland,Netherlands,Poland,64.0
+1979-06-07,Sweden,Luxembourg,Sweden,54.0
+1979-07-26,Bolivia,Brazil,Brazil,30.0
+1979-07-26,Bolivia,Brazil,Bolivia,36.0
+1979-08-23,Argentina,Brazil,Brazil,65.0
+1979-08-29,Austria,Norway,Austria,46.0
+1979-08-29,Chile,Venezuela,Chile,54.0
+1979-08-29,Ecuador,Paraguay,Ecuador,64.0
+1979-09-05,Ecuador,Uruguay,Uruguay,79.0
+1979-09-12,Iceland,German DR,German DR,66.0
+1979-09-26,Uruguay,Paraguay,Uruguay,54.0
+1979-10-10,Poland,Iceland,Poland,74.0
+1979-10-17,Northern Ireland,England,Northern Ireland,50.0
+1979-10-23,Luxembourg,Sweden,Luxembourg,4.0
+1979-10-31,Brazil,Paraguay,Brazil,61.0
+1979-11-21,German DR,Netherlands,German DR,33.0
+1980-02-24,Vanuatu,Papua New Guinea,Papua New Guinea,82.0
+1980-02-25,New Zealand,Tahiti,New Zealand,47.0
+1980-02-27,Germany,Malta,Germany,19.0
+1980-03-19,Algeria,Egypt,Algeria,55.0
+1980-03-26,Cyprus,Republic of Ireland,Cyprus,74.0
+1980-03-26,Scotland,Portugal,Scotland,83.0
+1980-06-02,Iceland,Wales,Wales,61.0
+1980-06-11,Netherlands,Greece,Netherlands,65.0
+1980-06-14,Germany,Netherlands,Netherlands,79.0
+1980-06-18,Spain,England,Spain,48.0
+1980-06-22,Belgium,Germany,Belgium,75.0
+1980-06-22,Guinea,Lesotho,Guinea,52.0
+1980-07-05,Kenya,Tanzania,Kenya,80.0
+1980-07-13,DR Congo,Mozambique,DR Congo,30.0
+1980-07-13,DR Congo,Mozambique,DR Congo,82.0
+1980-07-27,Mozambique,DR Congo,Mozambique,55.0
+1980-09-16,Korea DPR,Bangladesh,Bangladesh,60.0
+1980-09-18,Kuwait,Malaysia,Kuwait,53.0
+1980-09-18,Kuwait,Malaysia,Kuwait,77.0
+1980-09-24,Korea Republic,United Arab Emirates,Korea Republic,78.0
+1980-09-24,Turkey,Iceland,Turkey,72.0
+1980-09-25,Kuwait,Qatar,Kuwait,50.0
+1980-09-27,Yugoslavia,Denmark,Denmark,5.0
+1980-09-27,Yugoslavia,Denmark,Yugoslavia,18.0
+1980-09-28,Korea Republic,Korea DPR,Korea DPR,19.0
+1980-10-11,Cyprus,France,France,40.0
+1980-10-11,Cyprus,France,France,76.0
+1980-10-15,Romania,England,Romania,75.0
+1980-10-15,Wales,Turkey,Wales,37.0
+1980-11-15,Italy,Yugoslavia,Italy,40.0
+1980-11-19,Belgium,Netherlands,Belgium,48.0
+1980-11-19,Denmark,Luxembourg,Denmark,41.0
+1980-11-19,Republic of Ireland,Cyprus,Republic of Ireland,10.0
+1980-12-03,Bulgaria,Germany,Germany,36.0
+1980-12-28,Japan,Macau,Japan,80.0
+1981-02-08,Venezuela,Brazil,Brazil,82.0
+1981-03-11,Luxembourg,Greece,Greece,54.0
+1981-03-22,Brazil,Bolivia,Brazil,26.0
+1981-03-22,Brazil,Bolivia,Bolivia,68.0
+1981-03-29,Brazil,Venezuela,Brazil,72.0
+1981-04-04,Malta,German DR,German DR,20.0
+1981-04-12,Guinea,Nigeria,Guinea,66.0
+1981-04-26,Cameroon,DR Congo,Cameroon,67.0
+1981-04-28,Scotland,Israel,Scotland,21.0
+1981-04-28,Scotland,Israel,Scotland,30.0
+1981-04-28,Switzerland,Hungary,Hungary,65.0
+1981-04-29,Yugoslavia,Greece,Yugoslavia,42.0
+1981-04-29,Yugoslavia,Greece,Greece,76.0
+1981-05-01,Algeria,Niger,Algeria,44.0
+1981-05-27,Czechoslovakia,Iceland,Czechoslovakia,44.0
+1981-05-28,Austria,Bulgaria,Austria,30.0
+1981-06-03,Sweden,Northern Ireland,Sweden,50.0
+1981-06-06,Hungary,England,England,73.0
+1981-06-10,Australia,Taiwan,Australia,68.0
+1981-08-09,Uruguay,Colombia,Uruguay,88.0
+1981-08-14,Australia,Fiji,Australia,71.0
+1981-08-16,Peru,Colombia,Peru,72.0
+1981-09-02,Finland,Albania,Albania,47.0
+1981-09-09,Netherlands,Republic of Ireland,Netherlands,64.0
+1981-09-09,Scotland,Sweden,Scotland,80.0
+1981-09-13,Colombia,Uruguay,Colombia,12.0
+1981-09-13,Colombia,Uruguay,Uruguay,43.0
+1981-10-10,German DR,Poland,German DR,53.0
+1981-10-10,New Zealand,Kuwait,Kuwait,61.0
+1981-11-15,Morocco,Cameroon,Cameroon,15.0
+1981-11-18,Germany,Albania,Germany,68.0
+1981-11-19,El Salvador,Haiti,El Salvador,18.0
+1981-11-22,Germany,Bulgaria,Germany,62.0
+1981-11-28,New Zealand,Saudi Arabia,New Zealand,5.0
+1981-11-29,Cameroon,Morocco,Cameroon,15.0
+1981-11-29,Cameroon,Morocco,Morocco,25.0
+1981-12-19,Saudi Arabia,New Zealand,New Zealand,43.0
+1982-06-05,Malta,Iceland,Iceland,51.0
+1982-06-16,Spain,Honduras,Spain,65.0
+1982-06-17,Czechoslovakia,Kuwait,Czechoslovakia,21.0
+1982-06-20,Spain,Yugoslavia,Spain,14.0
+1982-06-23,Argentina,El Salvador,Argentina,22.0
+1982-06-24,Algeria,Chile,Chile,59.0
+1982-06-24,France,Czechoslovakia,Czechoslovakia,84.0
+1982-06-24,Honduras,Yugoslavia,Yugoslavia,88.0
+1982-07-08,Germany,France,France,26.0
+1982-09-08,Finland,Poland,Poland,16.0
+1982-09-22,Denmark,England,Denmark,68.0
+1982-10-09,Luxembourg,Greece,Greece,7.0
+1982-10-27,Bulgaria,Norway,Norway,17.0
+1982-11-10,Luxembourg,Denmark,Denmark,31.0
+1982-11-17,Austria,Turkey,Austria,38.0
+1982-12-19,Malta,Netherlands,Netherlands,22.0
+1983-02-16,Spain,Netherlands,Spain,44.0
+1983-03-30,Albania,Germany,Germany,68.0
+1983-03-30,Albania,Germany,Albania,82.0
+1983-04-17,Poland,Finland,Poland,2.0
+1983-04-23,Turkey,Germany,Germany,30.0
+1983-05-15,Romania,Czechoslovakia,Czechoslovakia,40.0
+1983-06-01,Denmark,Hungary,Denmark,85.0
+1983-08-28,Colombia,Peru,Peru,25.0
+1983-08-31,Colombia,Bolivia,Colombia,60.0
+1983-09-01,Uruguay,Chile,Uruguay,63.0
+1983-09-04,Uruguay,Venezuela,Uruguay,57.0
+1983-09-07,Argentina,Ecuador,Argentina,90.0
+1983-09-07,Argentina,Ecuador,Ecuador,90.0
+1983-09-21,England,Denmark,Denmark,36.0
+1983-10-12,Republic of Ireland,Netherlands,Republic of Ireland,35.0
+1983-10-26,Germany,Turkey,Germany,74.0
+1983-11-13,Portugal,Russia,Portugal,44.0
+1983-11-16,Czechoslovakia,Italy,Czechoslovakia,76.0
+1983-11-16,Republic of Ireland,Malta,Republic of Ireland,28.0
+1983-11-16,Turkey,Austria,Turkey,76.0
+1983-12-22,Italy,Cyprus,Cyprus,68.0
+1983-12-22,Italy,Cyprus,Italy,86.0
+1984-03-08,Malawi,Nigeria,Malawi,7.0
+1984-03-14,Egypt,Nigeria,Nigeria,43.0
+1984-03-17,Algeria,Egypt,Egypt,76.0
+1984-05-23,Sweden,Malta,Sweden,70.0
+1984-06-14,Romania,Spain,Spain,22.0
+1984-06-16,Denmark,Yugoslavia,Denmark,69.0
+1984-06-16,France,Belgium,France,74.0
+1984-06-19,Denmark,Belgium,Denmark,41.0
+1984-06-19,France,Yugoslavia,Yugoslavia,84.0
+1984-07-15,Morocco,Sierra Leone,Morocco,51.0
+1984-09-12,Norway,Switzerland,Switzerland,3.0
+1984-10-10,Norway,Russia,Norway,54.0
+1984-10-31,Czechoslovakia,Malta,Czechoslovakia,77.0
+1984-10-31,Turkey,Finland,Turkey,78.0
+1984-11-14,Northern Ireland,Finland,Northern Ireland,51.0
+1984-11-14,Portugal,Sweden,Sweden,29.0
+1984-11-21,France,Bulgaria,France,62.0
+1984-12-01,Iran,United Arab Emirates,Iran,85.0
+1984-12-10,Singapore,Iran,Iran,55.0
+1985-04-07,Morocco,Malawi,Morocco,75.0
+1985-04-17,Switzerland,Russia,Switzerland,43.0
+1985-05-18,German DR,Luxembourg,German DR,45.0
+1985-06-05,Sweden,Czechoslovakia,Sweden,77.0
+1985-07-26,Libya,Ghana,Libya,70.0
+1985-08-11,Costa Rica,Honduras,Honduras,8.0
+1985-09-08,Honduras,Costa Rica,Honduras,56.0
+1985-09-10,Wales,Scotland,Scotland,80.0
+1985-10-06,Morocco,Libya,Morocco,44.0
+1985-10-12,New Zealand,Taiwan,New Zealand,65.0
+1985-10-23,Australia,Taiwan,Australia,89.0
+1985-10-27,Australia,Taiwan,Australia,65.0
+1985-10-30,France,Luxembourg,France,47.0
+1985-11-16,German DR,Bulgaria,German DR,4.0
+1986-03-08,Cameroon,Zambia,Zambia,77.0
+1986-03-08,Cameroon,Zambia,Cameroon,82.0
+1986-03-20,Ivory Coast,Morocco,Ivory Coast,68.0
+1986-06-02,Russia,Hungary,Russia,24.0
+1986-06-05,Italy,Argentina,Italy,6.0
+1986-06-08,Denmark,Uruguay,Uruguay,45.0
+1986-06-08,Iraq,Belgium,Belgium,21.0
+1986-06-13,Denmark,Germany,Denmark,43.0
+1986-06-15,Russia,Belgium,Russia,111.0
+1986-06-16,Brazil,Poland,Brazil,30.0
+1986-06-16,Brazil,Poland,Brazil,83.0
+1986-06-18,Denmark,Spain,Denmark,33.0
+1986-06-18,Denmark,Spain,Spain,68.0
+1986-06-18,Denmark,Spain,Spain,88.0
+1986-06-28,France,Belgium,France,111.0
+1986-09-10,Belgium,Republic of Ireland,Republic of Ireland,90.0
+1986-10-29,Russia,Norway,Russia,28.0
+1986-11-12,Scotland,Luxembourg,Scotland,24.0
+1986-11-15,Italy,Switzerland,Italy,85.0
+1987-03-25,Romania,Albania,Romania,44.0
+1987-04-01,Bulgaria,Republic of Ireland,Bulgaria,82.0
+1987-04-15,Switzerland,Malta,Switzerland,38.0
+1987-05-17,Hungary,Poland,Hungary,62.0
+1987-06-30,Venezuela,Chile,Venezuela,24.0
+1987-07-02,Argentina,Ecuador,Argentina,67.0
+1987-07-08,Chile,Colombia,Colombia,103.0
+1987-11-18,Spain,Albania,Spain,36.0
+1987-12-16,Turkey,Yugoslavia,Yugoslavia,54.0
+1988-03-13,Morocco,DR Congo,Morocco,43.0
+1988-03-27,Cameroon,Nigeria,Cameroon,55.0
+1988-06-03,Libya,Burkina Faso,Libya,22.0
+1988-06-21,Germany,Netherlands,Germany,55.0
+1988-06-21,Germany,Netherlands,Netherlands,74.0
+1988-09-21,Luxembourg,Switzerland,Switzerland,21.0
+1988-09-28,France,Norway,France,84.0
+1988-10-19,Wales,Finland,Wales,16.0
+1988-10-22,Cyprus,France,Cyprus,78.0
+1988-11-02,Romania,Greece,Romania,40.0
+1988-12-03,Australia,Fiji,Australia,69.0
+1988-12-03,United Arab Emirates,Korea Republic,Korea Republic,8.0
+1988-12-09,Qatar,Korea Republic,Qatar,47.0
+1988-12-09,Qatar,Korea Republic,Qatar,80.0
+1988-12-09,Saudi Arabia,Bahrain,Bahrain,44.0
+1988-12-10,Kuwait,China,Kuwait,60.0
+1988-12-11,Bahrain,Syria,Syria,72.0
+1988-12-11,Yugoslavia,Cyprus,Yugoslavia,44.0
+1988-12-21,Spain,Northern Ireland,Spain,60.0
+1989-01-22,Malta,Spain,Spain,15.0
+1989-03-19,Guatemala,Costa Rica,Guatemala,39.0
+1989-03-19,Israel,Australia,Israel,67.0
+1989-03-23,Spain,Malta,Spain,68.0
+1989-04-12,Hungary,Malta,Hungary,49.0
+1989-05-17,Denmark,Greece,Denmark,89.0
+1989-05-23,Malaysia,Nepal,Malaysia,90.0
+1989-05-25,Korea Republic,Nepal,Korea Republic,16.0
+1989-05-27,Hong Kong,Korea DPR,Hong Kong,60.0
+1989-06-25,Tunisia,DR Congo,Tunisia,74.0
+1989-07-01,Brazil,Venezuela,Brazil,36.0
+1989-07-03,Venezuela,Colombia,Colombia,36.0
+1989-07-08,Bolivia,Chile,Chile,68.0
+1989-07-22,Iran,China,China,64.0
+1989-08-13,Ivory Coast,Zimbabwe,Ivory Coast,71.0
+1989-08-20,Bolivia,Peru,Bolivia,45.0
+1989-08-27,Paraguay,Colombia,Paraguay,90.0
+1989-09-05,Norway,France,France,40.0
+1989-09-20,Switzerland,Portugal,Switzerland,28.0
+1989-09-20,Switzerland,Portugal,Portugal,74.0
+1989-10-04,Germany,Finland,Germany,84.0
+1989-10-06,Czechoslovakia,Portugal,Czechoslovakia,11.0
+1989-10-08,Sweden,Albania,Albania,8.0
+1989-10-11,Yugoslavia,Norway,Yugoslavia,44.0
+1989-10-12,China,Saudi Arabia,Saudi Arabia,24.0
+1989-10-12,China,Saudi Arabia,China,63.0
+1989-10-25,Poland,Sweden,Sweden,34.0
+1989-10-28,Cyprus,Yugoslavia,Cyprus,38.0
+1989-11-15,Austria,German DR,Austria,23.0
+1989-11-15,Malta,Republic of Ireland,Republic of Ireland,68.0
+1989-11-15,Netherlands,Finland,Netherlands,69.0
+1990-06-09,Russia,Romania,Romania,55.0
+1990-06-10,United States,Czechoslovakia,Czechoslovakia,40.0
+1990-06-12,Netherlands,Egypt,Egypt,83.0
+1990-06-15,Austria,Czechoslovakia,Czechoslovakia,31.0
+1990-06-16,Sweden,Scotland,Scotland,81.0
+1990-06-21,Belgium,Spain,Spain,26.0
+1990-06-24,Germany,Netherlands,Netherlands,89.0
+1990-07-01,Cameroon,England,Cameroon,61.0
+1990-07-01,Cameroon,England,England,83.0
+1990-07-01,Cameroon,England,England,105.0
+1990-07-01,Germany,Czechoslovakia,Germany,25.0
+1990-07-07,Italy,England,Italy,86.0
+1990-07-08,Germany,Argentina,Germany,85.0
+1990-10-17,England,Poland,England,39.0
+1990-10-17,Hungary,Italy,Italy,54.0
+1990-10-17,Northern Ireland,Denmark,Denmark,11.0
+1990-10-17,Scotland,Switzerland,Scotland,34.0
+1990-10-17,Scotland,Switzerland,Switzerland,65.0
+1990-10-31,Hungary,Cyprus,Hungary,20.0
+1990-10-31,Hungary,Cyprus,Hungary,67.0
+1990-12-19,Malta,Netherlands,Netherlands,80.0
+1991-02-20,Portugal,Malta,Portugal,41.0
+1991-03-13,Netherlands,Malta,Netherlands,31.0
+1991-03-27,San Marino,Romania,Romania,18.0
+1991-03-27,San Marino,Romania,San Marino,30.0
+1991-03-30,France,Albania,France,33.0
+1991-05-01,Italy,Hungary,Hungary,65.0
+1991-05-01,Norway,Cyprus,Norway,49.0
+1991-05-01,San Marino,Scotland,Scotland,63.0
+1991-06-28,Canada,Honduras,Honduras,28.0
+1991-06-28,Mexico,Jamaica,Mexico,54.0
+1991-06-30,Canada,Mexico,Mexico,89.0
+1991-07-03,United States,Costa Rica,United States,49.0
+1991-07-08,Argentina,Venezuela,Argentina,50.0
+1991-07-08,Chile,Peru,Chile,51.0
+1991-07-09,Bolivia,Brazil,Brazil,5.0
+1991-07-09,Bolivia,Brazil,Bolivia,89.0
+1991-07-09,Ecuador,Uruguay,Uruguay,49.0
+1991-07-10,Paraguay,Venezuela,Paraguay,87.0
+1991-07-13,Bolivia,Ecuador,Ecuador,80.0
+1991-07-14,Argentina,Peru,Peru,35.0
+1991-07-19,Brazil,Colombia,Brazil,76.0
+1991-09-11,Faroe Islands,Northern Ireland,Northern Ireland,68.0
+1991-09-25,Faroe Islands,Denmark,Denmark,2.0
+1991-09-25,Russia,Hungary,Russia,37.0
+1991-10-16,Bulgaria,San Marino,Bulgaria,31.0
+1991-10-16,Germany,Wales,Wales,84.0
+1991-10-16,Romania,Scotland,Romania,75.0
+1991-11-13,Spain,Czechoslovakia,Spain,78.0
+1991-11-13,Turkey,Republic of Ireland,Turkey,13.0
+1991-11-13,Wales,Luxembourg,Wales,82.0
+1991-11-15,Lithuania,Estonia,Lithuania,54.0
+1991-12-18,Germany,Luxembourg,Germany,15.0
+1992-01-14,Nigeria,Kenya,Kenya,89.0
+1992-04-22,Spain,Albania,Spain,66.0
+1992-05-06,Romania,Faroe Islands,Romania,28.0
+1992-06-12,Russia,Germany,Russia,64.0
+1992-06-18,Scotland,Russia,Scotland,84.0
+1992-06-21,Sweden,Germany,Sweden,64.0
+1992-06-27,Vanuatu,New Zealand,New Zealand,82.0
+1992-08-16,Panama,Costa Rica,Panama,29.0
+1992-08-23,Costa Rica,Panama,Costa Rica,17.0
+1992-08-23,Costa Rica,Panama,Panama,89.0
+1992-09-09,Bulgaria,France,Bulgaria,21.0
+1992-09-09,Finland,Sweden,Sweden,77.0
+1992-09-09,Republic of Ireland,Latvia,Republic of Ireland,82.0
+1992-09-23,Czechoslovakia,Faroe Islands,Czechoslovakia,90.0
+1992-09-23,Norway,Netherlands,Norway,9.0
+1992-10-09,Algeria,Burundi,Burundi,89.0
+1992-10-09,Tahiti,Solomon Islands,Tahiti,8.0
+1992-10-10,Ivory Coast,Botswana,Ivory Coast,17.0
+1992-10-11,Tunisia,Benin,Tunisia,16.0
+1992-10-15,Saudi Arabia,United States,Saudi Arabia,48.0
+1992-10-25,Togo,Egypt,Egypt,89.0
+1992-11-01,Japan,Korea DPR,Korea DPR,29.0
+1992-11-08,Jamaica,Bermuda,Jamaica,75.0
+1992-11-14,Romania,Czechoslovakia,Czechoslovakia,82.0
+1992-11-29,Cyprus,Romania,Cyprus,39.0
+1992-12-06,Mexico,Saint Vincent and the Grenadines,Mexico,44.0
+1993-01-10,DR Congo,Cameroon,DR Congo,85.0
+1993-01-20,Zambia,Namibia,Zambia,2.0
+1993-01-31,Morocco,Benin,Morocco,60.0
+1993-02-17,Greece,Luxembourg,Greece,30.0
+1993-02-24,Netherlands,Turkey,Turkey,36.0
+1993-03-24,Italy,Malta,Malta,68.0
+1993-03-24,Netherlands,San Marino,Netherlands,68.0
+1993-03-31,Hungary,Greece,Greece,70.0
+1993-04-04,El Salvador,Mexico,El Salvador,41.0
+1993-04-04,Honduras,Canada,Canada,34.0
+1993-04-04,Honduras,Canada,Honduras,41.0
+1993-04-04,Honduras,Canada,Honduras,89.0
+1993-04-11,Mexico,Honduras,Mexico,76.0
+1993-04-13,Vietnam,Singapore,Singapore,35.0
+1993-04-16,Qatar,Singapore,Qatar,90.0
+1993-04-18,Canada,Honduras,Canada,66.0
+1993-04-24,Indonesia,Qatar,Indonesia,28.0
+1993-04-26,Vietnam,Qatar,Qatar,52.0
+1993-04-28,Bulgaria,Finland,Bulgaria,15.0
+1993-04-28,England,Netherlands,Netherlands,85.0
+1993-04-28,France,Sweden,France,42.0
+1993-04-28,Norway,Turkey,Norway,14.0
+1993-04-30,United Arab Emirates,Thailand,United Arab Emirates,10.0
+1993-05-01,Macau,Saudi Arabia,Saudi Arabia,79.0
+1993-05-03,Macau,Kuwait,Kuwait,84.0
+1993-05-03,Malaysia,Saudi Arabia,Saudi Arabia,88.0
+1993-05-03,Sri Lanka,Thailand,Thailand,71.0
+1993-05-07,Bangladesh,Sri Lanka,Bangladesh,73.0
+1993-05-09,El Salvador,Honduras,Honduras,77.0
+1993-05-09,Lebanon,Hong Kong,Lebanon,80.0
+1993-05-12,Bulgaria,Israel,Bulgaria,35.0
+1993-05-13,India,Korea Republic,Korea Republic,19.0
+1993-05-14,Saudi Arabia,Macau,Saudi Arabia,22.0
+1993-05-15,Bahrain,India,India,90.0
+1993-05-22,Belgium,Faroe Islands,Belgium,50.0
+1993-05-23,Russia,Greece,Russia,70.0
+1993-06-02,Scotland,Estonia,Scotland,72.0
+1993-06-20,Colombia,Bolivia,Colombia,18.0
+1993-06-24,Chile,Peru,Peru,14.0
+1993-06-27,Peru,Mexico,Mexico,22.0
+1993-06-27,Peru,Mexico,Peru,55.0
+1993-07-02,Syria,Taiwan,Syria,19.0
+1993-07-04,Argentina,Mexico,Mexico,67.0
+1993-07-04,Syria,Oman,Syria,62.0
+1993-07-04,Taiwan,Iran,Iran,15.0
+1993-07-07,Syria,Iran,Syria,89.0
+1993-07-10,Honduras,Panama,Honduras,69.0
+1993-07-14,Honduras,Jamaica,Honduras,18.0
+1993-07-17,Jamaica,Panama,Panama,50.0
+1993-07-18,Costa Rica,Martinique,Martinique,59.0
+1993-08-01,Venezuela,Brazil,Brazil,34.0
+1993-08-15,Paraguay,Peru,Paraguay,28.0
+1993-08-15,Paraguay,Peru,Peru,45.0
+1993-08-25,Austria,Finland,Austria,89.0
+1993-09-08,Bulgaria,Sweden,Bulgaria,21.0
+1993-09-08,Finland,France,France,55.0
+1993-09-08,Scotland,Switzerland,Switzerland,70.0
+1993-09-12,Uruguay,Bolivia,Uruguay,3.0
+1993-09-22,Estonia,Italy,Italy,20.0
+1993-09-22,San Marino,Netherlands,Netherlands,79.0
+1993-10-13,Bulgaria,Austria,Bulgaria,33.0
+1993-10-13,Romania,Belgium,Romania,67.0
+1993-10-13,Romania,Belgium,Belgium,88.0
+1993-10-19,Iraq,Korea Republic,Korea Republic,67.0
+1993-11-10,Portugal,Estonia,Portugal,37.0
+1994-03-29,Senegal,Guinea,Senegal,46.0
+1994-03-30,Tunisia,DR Congo,Tunisia,43.0
+1994-04-02,DR Congo,Nigeria,Nigeria,71.0
+1994-06-20,Brazil,Russia,Brazil,52.0
+1994-06-21,Argentina,Greece,Argentina,90.0
+1994-06-24,Sweden,Russia,Russia,4.0
+1994-06-24,Sweden,Russia,Sweden,39.0
+1994-06-25,Saudi Arabia,Morocco,Saudi Arabia,7.0
+1994-06-26,Bulgaria,Greece,Bulgaria,5.0
+1994-06-26,Bulgaria,Greece,Bulgaria,55.0
+1994-06-27,Bolivia,Spain,Spain,19.0
+1994-06-28,Russia,Cameroon,Russia,44.0
+1994-07-02,Spain,Switzerland,Spain,86.0
+1994-07-03,Romania,Argentina,Argentina,16.0
+1994-07-05,Mexico,Bulgaria,Mexico,18.0
+1994-07-05,Nigeria,Italy,Italy,102.0
+1994-07-10,Bulgaria,Germany,Germany,47.0
+1994-07-13,Bulgaria,Italy,Bulgaria,44.0
+1994-07-29,Lithuania,Estonia,Lithuania,11.0
+1994-07-31,Lithuania,Latvia,Lithuania,67.0
+1994-09-06,Czech Republic,Malta,Czech Republic,5.0
+1994-09-07,Latvia,Republic of Ireland,Republic of Ireland,75.0
+1994-09-07,Northern Ireland,Portugal,Northern Ireland,58.0
+1994-10-12,Austria,Northern Ireland,Austria,24.0
+1994-10-12,Israel,Slovakia,Israel,32.0
+1994-10-12,Norway,Netherlands,Norway,52.0
+1994-11-16,Belarus,Norway,Norway,83.0
+1994-12-18,Greece,Scotland,Greece,19.0
+1995-01-08,Japan,Argentina,Argentina,86.0
+1995-01-13,Denmark,Argentina,Denmark,8.0
+1995-03-29,Austria,Latvia,Austria,71.0
+1995-03-29,Czech Republic,Belarus,Belarus,45.0
+1995-03-29,Netherlands,Malta,Netherlands,77.0
+1995-03-29,Romania,Poland,Poland,42.0
+1995-03-29,Slovakia,Azerbaijan,Slovakia,45.0
+1995-03-29,Slovakia,Azerbaijan,Azerbaijan,80.0
+1995-03-29,Turkey,Sweden,Sweden,23.0
+1995-04-26,Austria,Liechtenstein,Austria,54.0
+1995-04-26,Azerbaijan,Romania,Romania,2.0
+1995-04-26,Latvia,Northern Ireland,Northern Ireland,70.0
+1995-05-21,Latvia,Lithuania,Latvia,34.0
+1995-06-01,Sweden,Iceland,Sweden,16.0
+1995-06-07,Bulgaria,Germany,Bulgaria,45.0
+1995-06-07,Bulgaria,Germany,Bulgaria,66.0
+1995-06-07,San Marino,Russia,Russia,20.0
+1995-06-07,Spain,Armenia,Spain,64.0
+1995-06-11,Finland,Greece,Finland,45.0
+1995-07-05,Uruguay,Venezuela,Uruguay,75.0
+1995-07-09,Mexico,Venezuela,Mexico,41.0
+1995-07-09,Mexico,Venezuela,Mexico,57.0
+1995-07-10,Brazil,Peru,Brazil,77.0
+1995-07-22,Colombia,United States,United States,52.0
+1995-08-15,Liechtenstein,Portugal,Portugal,70.0
+1995-09-03,Croatia,Estonia,Croatia,19.0
+1995-09-06,Czech Republic,Norway,Czech Republic,6.0
+1995-09-06,Faroe Islands,Russia,Russia,9.0
+1995-10-08,Croatia,Italy,Croatia,48.0
+1995-10-11,Denmark,Spain,Spain,18.0
+1995-10-11,Georgia,Bulgaria,Georgia,47.0
+1995-10-11,Republic of Ireland,Latvia,Republic of Ireland,61.0
+1995-10-11,Slovakia,Poland,Slovakia,31.0
+1995-11-15,Albania,Wales,Albania,5.0
+1995-11-15,Australia,New Zealand,Australia,45.0
+1995-11-15,Germany,Bulgaria,Germany,75.0
+1995-11-15,Moldova,Georgia,Moldova,5.0
+1995-11-15,Northern Ireland,Austria,Northern Ireland,32.0
+1995-11-15,Slovenia,Croatia,Croatia,40.0
+1996-01-10,Trinidad and Tobago,El Salvador,El Salvador,72.0
+1996-01-16,Gabon,Liberia,Liberia,5.0
+1996-01-18,Cameroon,Egypt,Cameroon,36.0
+1996-01-19,DR Congo,Gabon,Gabon,21.0
+1996-01-24,Angola,Cameroon,Angola,38.0
+1996-01-25,Liberia,DR Congo,DR Congo,5.0
+1996-01-31,Zambia,Tunisia,Tunisia,85.0
+1996-03-31,Aruba,Dominican Republic,Dominican Republic,5.0
+1996-03-31,Aruba,Dominican Republic,Aruba,38.0
+1996-04-24,North Macedonia,Liechtenstein,North Macedonia,49.0
+1996-05-04,Puerto Rico,Saint Vincent and the Grenadines,Puerto Rico,70.0
+1996-06-01,Gambia,Liberia,Gambia,18.0
+1996-06-01,Gambia,Liberia,Liberia,35.0
+1996-06-01,Guinea-Bissau,Guinea,Guinea-Bissau,60.0
+1996-06-01,Sweden,Belarus,Sweden,62.0
+1996-06-01,Uganda,Angola,Angola,35.0
+1996-06-01,Uganda,Angola,Angola,60.0
+1996-06-02,Kenya,Algeria,Kenya,63.0
+1996-06-02,Rwanda,Tunisia,Tunisia,43.0
+1996-06-02,Serbia,Malta,Serbia,70.0
+1996-06-08,England,Switzerland,Switzerland,83.0
+1996-06-09,Spain,Bulgaria,Bulgaria,65.0
+1996-06-16,Croatia,Denmark,Croatia,54.0
+1996-06-16,Tunisia,Rwanda,Tunisia,46.0
+1996-06-18,England,Netherlands,England,23.0
+1996-06-23,Germany,Croatia,Germany,20.0
+1996-06-30,Czech Republic,Germany,Czech Republic,59.0
+1996-06-30,Haiti,Cuba,Cuba,79.0
+1996-07-07,Bolivia,Venezuela,Bolivia,41.0
+1996-07-07,Bolivia,Venezuela,Venezuela,65.0
+1996-07-08,Latvia,Lithuania,Lithuania,5.0
+1996-07-08,Latvia,Lithuania,Lithuania,68.0
+1996-07-09,Estonia,Lithuania,Lithuania,18.0
+1996-09-01,Colombia,Chile,Chile,56.0
+1996-09-01,Israel,Bulgaria,Bulgaria,3.0
+1996-09-01,Israel,Bulgaria,Israel,62.0
+1996-09-18,Czech Republic,Malta,Czech Republic,63.0
+1996-09-21,Honduras,Mexico,Honduras,82.0
+1996-09-23,Saint Vincent and the Grenadines,Jamaica,Saint Vincent and the Grenadines,82.0
+1996-10-05,Lithuania,Iceland,Lithuania,22.0
+1996-10-06,Faroe Islands,Serbia,Serbia,90.0
+1996-10-06,Finland,Switzerland,Finland,41.0
+1996-10-08,Luxembourg,Bulgaria,Bulgaria,14.0
+1996-10-09,Norway,Hungary,Norway,90.0
+1996-10-23,Slovakia,Faroe Islands,Slovakia,57.0
+1996-11-10,Azerbaijan,Hungary,Hungary,67.0
+1996-11-10,Bolivia,Colombia,Colombia,40.0
+1996-11-10,Cyprus,Israel,Cyprus,15.0
+1996-11-10,Poland,Moldova,Poland,77.0
+1996-11-10,Poland,Moldova,Moldova,83.0
+1996-11-10,Slovenia,Bosnia and Herzegovina,Slovenia,41.0
+1996-11-10,Togo,Cameroon,Togo,83.0
+1996-11-17,Honduras,Saint Vincent and the Grenadines,Honduras,77.0
+1996-12-04,Indonesia,Kuwait,Kuwait,84.0
+1996-12-05,Iran,Iraq,Iran,90.0
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,10.0
+1996-12-05,Saudi Arabia,Thailand,Saudi Arabia,29.0
+1996-12-12,Uzbekistan,Syria,Uzbekistan,53.0
+1996-12-14,Belgium,Netherlands,Netherlands,89.0
+1996-12-14,North Macedonia,Romania,Romania,90.0
+1996-12-15,Argentina,Chile,Argentina,76.0
+1996-12-16,Korea Republic,Iran,Iran,89.0
+1997-01-12,Zimbabwe,Togo,Zimbabwe,21.0
+1997-03-02,Mexico,Canada,Mexico,61.0
+1997-03-16,United States,Canada,United States,7.0
+1997-03-31,Luxembourg,Israel,Israel,56.0
+1997-04-02,Albania,Germany,Albania,90.0
+1997-04-02,Azerbaijan,Finland,Azerbaijan,83.0
+1997-04-02,Bolivia,Argentina,Argentina,41.0
+1997-04-02,North Macedonia,Republic of Ireland,North Macedonia,44.0
+1997-04-02,Paraguay,Colombia,Colombia,80.0
+1997-04-02,Peru,Ecuador,Ecuador,78.0
+1997-04-02,Ukraine,Northern Ireland,Northern Ireland,14.0
+1997-04-06,Kenya,Burkina Faso,Burkina Faso,42.0
+1997-04-13,Mexico,Jamaica,Mexico,10.0
+1997-04-26,Namibia,Egypt,Egypt,79.0
+1997-04-26,Namibia,Egypt,Namibia,87.0
+1997-04-27,Ghana,Gabon,Ghana,64.0
+1997-04-30,Paraguay,Uruguay,Paraguay,73.0
+1997-04-30,Serbia,Spain,Spain,19.0
+1997-04-30,Serbia,Spain,Serbia,87.0
+1997-05-24,Singapore,Lebanon,Singapore,58.0
+1997-06-07,Fiji,New Zealand,New Zealand,80.0
+1997-06-08,Belarus,Scotland,Scotland,49.0
+1997-06-08,Bulgaria,Luxembourg,Bulgaria,43.0
+1997-06-08,Bulgaria,Luxembourg,Bulgaria,50.0
+1997-06-08,Estonia,Sweden,Sweden,53.0
+1997-06-08,Guinea,Burkina Faso,Guinea,9.0
+1997-06-08,Spain,Czech Republic,Spain,41.0
+1997-06-08,Togo,Zimbabwe,Zimbabwe,65.0
+1997-06-11,Australia,Solomon Islands,Australia,88.0
+1997-06-14,Poland,Georgia,Poland,74.0
+1997-06-16,Colombia,Costa Rica,Colombia,62.0
+1997-06-17,Argentina,Paraguay,Paraguay,73.0
+1997-06-17,Argentina,Paraguay,Argentina,90.0
+1997-06-17,Australia,Solomon Islands,Australia,75.0
+1997-06-19,Mexico,Costa Rica,Mexico,14.0
+1997-06-21,Peru,Argentina,Argentina,66.0
+1997-06-22,Ecuador,Mexico,Ecuador,6.0
+1997-07-05,Chile,Colombia,Chile,90.0
+1997-07-06,Paraguay,Argentina,Paraguay,59.0
+1997-07-09,Lithuania,Estonia,Lithuania,69.0
+1997-07-20,Chile,Paraguay,Chile,9.0
+1997-08-16,Morocco,Gabon,Morocco,45.0
+1997-08-17,Egypt,Liberia,Egypt,21.0
+1997-08-20,Colombia,Bolivia,Colombia,30.0
+1997-09-06,Armenia,Albania,Armenia,87.0
+1997-09-06,Latvia,Estonia,Latvia,87.0
+1997-09-06,Netherlands,Belgium,Belgium,67.0
+1997-09-07,Japan,Uzbekistan,Japan,4.0
+1997-09-07,Japan,Uzbekistan,Uzbekistan,69.0
+1997-09-07,Scotland,Belarus,Belarus,73.0
+1997-09-13,China,Iran,China,44.0
+1997-09-13,China,Iran,Iran,61.0
+1997-10-03,United States,Jamaica,United States,50.0
+1997-10-05,Mexico,El Salvador,Mexico,38.0
+1997-10-11,Austria,Belarus,Austria,16.0
+1997-10-11,Belgium,Wales,Belgium,4.0
+1997-10-11,Belgium,Wales,Wales,53.0
+1997-10-11,Switzerland,Azerbaijan,Switzerland,69.0
+1997-10-18,Uzbekistan,Korea Republic,Uzbekistan,61.0
+1997-11-15,Serbia,Hungary,Serbia,45.0
+1997-11-16,Costa Rica,Canada,Costa Rica,89.0
+1997-11-16,United States,El Salvador,El Salvador,62.0
+1997-12-12,Mexico,Australia,Mexico,80.0
+1997-12-16,Brazil,Mexico,Brazil,41.0
+1997-12-21,Brazil,Australia,Brazil,75.0
+1998-02-01,United States,Cuba,United States,76.0
+1998-02-04,Cuba,Costa Rica,Costa Rica,29.0
+1998-02-09,DR Congo,Togo,DR Congo,57.0
+1998-02-09,DR Congo,Togo,DR Congo,73.0
+1998-02-11,Burkina Faso,Algeria,Burkina Faso,65.0
+1998-02-11,Burkina Faso,Algeria,Algeria,82.0
+1998-02-11,South Africa,Ivory Coast,South Africa,8.0
+1998-02-12,Angola,Namibia,Angola,67.0
+1998-02-12,Ghana,Togo,Ghana,83.0
+1998-02-16,Ivory Coast,Angola,Ivory Coast,81.0
+1998-02-16,Tunisia,Togo,Togo,4.0
+1998-02-21,Burkina Faso,Tunisia,Burkina Faso,45.0
+1998-06-04,Estonia,Faroe Islands,Estonia,40.0
+1998-06-10,Brazil,Scotland,Scotland,38.0
+1998-06-11,Italy,Chile,Italy,84.0
+1998-06-20,Belgium,Mexico,Mexico,55.0
+1998-06-21,Argentina,Jamaica,Argentina,83.0
+1998-06-23,Brazil,Norway,Norway,89.0
+1998-06-23,Italy,Austria,Austria,90.0
+1998-06-24,France,Denmark,France,12.0
+1998-06-24,France,Denmark,Denmark,42.0
+1998-06-24,South Africa,Saudi Arabia,Saudi Arabia,45.0
+1998-06-24,South Africa,Saudi Arabia,Saudi Arabia,74.0
+1998-06-24,South Africa,Saudi Arabia,South Africa,90.0
+1998-06-24,Spain,Bulgaria,Spain,6.0
+1998-06-26,Romania,Tunisia,Tunisia,12.0
+1998-06-27,Brazil,Chile,Brazil,45.0
+1998-06-30,Argentina,England,Argentina,5.0
+1998-06-30,Argentina,England,England,9.0
+1998-06-30,Romania,Croatia,Croatia,45.0
+1998-09-05,Armenia,Andorra,Andorra,85.0
+1998-09-05,Austria,Israel,Israel,68.0
+1998-09-05,Bosnia and Herzegovina,Estonia,Bosnia and Herzegovina,74.0
+1998-09-05,Republic of Ireland,Croatia,Republic of Ireland,4.0
+1998-09-05,Slovakia,Azerbaijan,Slovakia,26.0
+1998-09-05,Ukraine,Russia,Ukraine,74.0
+1998-09-06,Greece,Slovenia,Greece,55.0
+1998-09-28,Australia,Cook Islands,Australia,76.0
+1998-10-10,Azerbaijan,Hungary,Hungary,85.0
+1998-10-10,Malta,Croatia,Malta,29.0
+1998-10-14,Luxembourg,England,England,38.0
+1998-10-14,San Marino,Austria,San Marino,81.0
+1998-10-14,Scotland,Faroe Islands,Faroe Islands,85.0
+1999-03-27,Armenia,Russia,Russia,63.0
+1999-03-27,Czech Republic,Lithuania,Czech Republic,74.0
+1999-03-27,Hungary,Liechtenstein,Hungary,86.0
+1999-03-27,Spain,Austria,Spain,35.0
+1999-03-31,Italy,Belarus,Italy,31.0
+1999-03-31,Liechtenstein,Portugal,Portugal,16.0
+1999-04-28,Austria,San Marino,Austria,82.0
+1999-06-05,Latvia,Slovenia,Slovenia,43.0
+1999-06-05,Spain,San Marino,Spain,8.0
+1999-06-09,Albania,Slovenia,Slovenia,26.0
+1999-06-09,Andorra,France,France,86.0
+1999-06-09,Greece,Latvia,Greece,37.0
+1999-06-09,Greece,Latvia,Latvia,90.0
+1999-06-09,Portugal,Liechtenstein,Portugal,90.0
+1999-06-09,Wales,Denmark,Denmark,89.0
+1999-07-04,Argentina,Colombia,Colombia,10.0
+1999-07-05,Bolivia,Japan,Japan,75.0
+1999-07-06,Brazil,Chile,Brazil,36.0
+1999-07-10,Mexico,Peru,Mexico,33.0
+1999-07-25,Mexico,Saudi Arabia,Saudi Arabia,62.0
+1999-07-29,Egypt,Saudi Arabia,Egypt,70.0
+1999-08-04,Mexico,Brazil,Brazil,43.0
+1999-09-04,England,Luxembourg,England,12.0
+1999-09-04,Russia,Armenia,Russia,8.0
+1999-09-04,Slovakia,Romania,Slovakia,22.0
+1999-09-05,Cyprus,Israel,Cyprus,86.0
+1999-09-05,Serbia,North Macedonia,North Macedonia,64.0
+1999-09-08,Andorra,Russia,Andorra,39.0
+1999-09-08,Armenia,France,France,45.0
+1999-09-08,Armenia,France,Armenia,90.0
+1999-09-08,Czech Republic,Bosnia and Herzegovina,Czech Republic,59.0
+1999-09-08,Iceland,Ukraine,Ukraine,43.0
+1999-09-08,Italy,Denmark,Denmark,39.0
+1999-09-08,Malta,Republic of Ireland,Malta,68.0
+1999-09-08,Switzerland,Belarus,Switzerland,86.0
+1999-10-05,Scotland,Bosnia and Herzegovina,Scotland,26.0
+1999-10-09,Portugal,Hungary,Portugal,15.0
+1999-11-13,Republic of Ireland,Turkey,Turkey,83.0
+1999-11-17,Ukraine,Slovenia,Ukraine,68.0
+2000-01-24,Ivory Coast,Togo,Ivory Coast,38.0
+2000-02-01,Egypt,Burkina Faso,Egypt,75.0
+2000-02-01,Zambia,Senegal,Zambia,87.0
+2000-02-07,Egypt,Tunisia,Tunisia,22.0
+2000-02-12,United States,Haiti,United States,55.0
+2000-02-13,Costa Rica,Canada,Canada,19.0
+2000-02-14,Jamaica,Honduras,Honduras,51.0
+2000-02-19,Honduras,Peru,Peru,14.0
+2000-02-19,Honduras,Peru,Honduras,67.0
+2000-02-27,Canada,Colombia,Canada,68.0
+2000-03-05,Anguilla,Bahamas,Anguilla,69.0
+2000-03-05,British Virgin Islands,Bermuda,Bermuda,65.0
+2000-03-18,Saint Kitts and Nevis,Turks and Caicos Islands,Saint Kitts and Nevis,53.0
+2000-03-19,Bahamas,Anguilla,Anguilla,40.0
+2000-03-19,Bermuda,British Virgin Islands,Bermuda,57.0
+2000-03-21,Saint Kitts and Nevis,Turks and Caicos Islands,Saint Kitts and Nevis,30.0
+2000-03-29,Argentina,Chile,Argentina,71.0
+2000-03-29,Peru,Paraguay,Peru,55.0
+2000-04-02,Panama,Honduras,Panama,70.0
+2000-04-02,Trinidad and Tobago,Dominican Republic,Trinidad and Tobago,67.0
+2000-04-02,Trinidad and Tobago,Dominican Republic,Trinidad and Tobago,90.0
+2000-06-03,Uruguay,Chile,Chile,39.0
+2000-06-04,Colombia,Venezuela,Colombia,42.0
+2000-06-11,Netherlands,Czech Republic,Netherlands,89.0
+2000-06-11,Turkey,Italy,Italy,70.0
+2000-06-16,Czech Republic,France,Czech Republic,35.0
+2000-06-19,Australia,Cook Islands,Australia,45.0
+2000-06-20,England,Romania,England,41.0
+2000-06-20,England,Romania,Romania,89.0
+2000-06-21,Serbia,Spain,Spain,90.0
+2000-06-22,Tahiti,Vanuatu,Tahiti,2.0
+2000-06-23,Solomon Islands,Australia,Australia,39.0
+2000-06-25,Australia,Vanuatu,Australia,5.0
+2000-06-25,Spain,France,Spain,38.0
+2000-06-28,Brazil,Uruguay,Brazil,85.0
+2000-06-28,Vanuatu,Solomon Islands,Solomon Islands,69.0
+2000-06-28,Venezuela,Bolivia,Venezuela,68.0
+2000-06-29,Chile,Paraguay,Chile,80.0
+2000-07-23,Costa Rica,United States,Costa Rica,90.0
+2000-08-16,Estonia,Andorra,Estonia,66.0
+2000-09-02,Andorra,Cyprus,Cyprus,25.0
+2000-09-02,Bulgaria,Czech Republic,Czech Republic,73.0
+2000-09-03,Brazil,Bolivia,Brazil,11.0
+2000-09-03,Mexico,Panama,Mexico,8.0
+2000-09-03,Mexico,Panama,Mexico,90.0
+2000-10-07,Andorra,Estonia,Andorra,90.0
+2000-10-07,Sweden,Turkey,Turkey,90.0
+2000-10-07,Switzerland,Faroe Islands,Switzerland,42.0
+2000-10-07,Switzerland,Faroe Islands,Switzerland,44.0
+2000-10-07,Switzerland,Faroe Islands,Switzerland,53.0
+2000-10-08,Mexico,Trinidad and Tobago,Mexico,28.0
+2000-10-08,Mexico,Trinidad and Tobago,Mexico,75.0
+2000-10-08,Venezuela,Brazil,Brazil,38.0
+2000-10-11,Italy,Georgia,Italy,47.0
+2000-10-11,Italy,Georgia,Italy,87.0
+2000-10-13,Korea Republic,China,China,66.0
+2000-10-16,China,Indonesia,China,7.0
+2000-11-15,Cyprus,Andorra,Cyprus,90.0
+2000-11-15,El Salvador,Jamaica,El Salvador,24.0
+2000-11-15,Paraguay,Peru,Paraguay,83.0
+2000-11-15,Trinidad and Tobago,Panama,Trinidad and Tobago,15.0
+2000-11-24,Iran,Guam,Iran,34.0
+2000-11-26,Tajikistan,Guam,Tajikistan,89.0
+2001-01-06,Costa Rica,Guatemala,Guatemala,89.0
+2001-02-10,Mongolia,Vietnam,Vietnam,45.0
+2001-02-15,Bangladesh,Vietnam,Vietnam,87.0
+2001-03-04,Qatar,Malaysia,Qatar,51.0
+2001-03-24,Cyprus,Republic of Ireland,Republic of Ireland,42.0
+2001-03-24,Hungary,Lithuania,Hungary,70.0
+2001-03-24,Scotland,Belgium,Scotland,27.0
+2001-03-24,Spain,Liechtenstein,Spain,55.0
+2001-03-24,Turkey,Slovakia,Turkey,55.0
+2001-03-25,Malaysia,Palestine,Palestine,29.0
+2001-03-25,Malaysia,Palestine,Malaysia,62.0
+2001-03-27,Colombia,Bolivia,Colombia,73.0
+2001-03-28,Andorra,Republic of Ireland,Republic of Ireland,33.0
+2001-03-28,Austria,Israel,Austria,42.0
+2001-03-28,Bulgaria,Northern Ireland,Bulgaria,7.0
+2001-03-28,Bulgaria,Northern Ireland,Northern Ireland,90.0
+2001-03-28,Greece,Germany,Germany,25.0
+2001-03-28,Poland,Armenia,Poland,15.0
+2001-03-28,Portugal,Netherlands,Netherlands,18.0
+2001-03-28,Portugal,Netherlands,Portugal,90.0
+2001-03-28,Slovakia,Azerbaijan,Azerbaijan,3.0
+2001-04-07,Fiji,American Samoa,Fiji,3.0
+2001-04-11,Samoa,Fiji,Samoa,33.0
+2001-04-14,American Samoa,Tonga,Tonga,71.0
+2001-04-14,Iraq,Nepal,Iraq,6.0
+2001-04-14,Iraq,Nepal,Iraq,20.0
+2001-04-16,Iraq,Kazakhstan,Iraq,31.0
+2001-04-16,Nepal,Macau,Nepal,74.0
+2001-04-21,Kazakhstan,Nepal,Kazakhstan,69.0
+2001-04-22,China,Maldives,China,74.0
+2001-04-27,Taiwan,Turkmenistan,Turkmenistan,5.0
+2001-04-27,Uzbekistan,Jordan,Uzbekistan,53.0
+2001-04-30,Oman,Laos,Oman,23.0
+2001-04-30,Oman,Laos,Oman,62.0
+2001-04-30,Syria,Philippines,Syria,27.0
+2001-04-30,Syria,Philippines,Syria,75.0
+2001-05-03,Jordan,Taiwan,Jordan,49.0
+2001-05-03,Turkmenistan,Uzbekistan,Uzbekistan,21.0
+2001-05-04,Yemen,India,Yemen,13.0
+2001-05-07,Jordan,Uzbekistan,Jordan,54.0
+2001-05-07,Jordan,Uzbekistan,Uzbekistan,77.0
+2001-05-07,Oman,Philippines,Oman,43.0
+2001-05-13,Lebanon,Pakistan,Lebanon,51.0
+2001-05-20,India,Brunei,India,35.0
+2001-06-02,Croatia,San Marino,Croatia,54.0
+2001-06-02,Finland,Germany,Germany,69.0
+2001-06-02,North Macedonia,Moldova,North Macedonia,20.0
+2001-06-02,Slovenia,Luxembourg,Slovenia,65.0
+2001-06-06,Hungary,Georgia,Hungary,45.0
+2001-06-06,San Marino,Belgium,Belgium,89.0
+2001-06-06,Sweden,Moldova,Sweden,38.0
+2001-06-06,Sweden,Moldova,Sweden,68.0
+2001-06-06,Sweden,Moldova,Sweden,79.0
+2001-06-13,Tahiti,Solomon Islands,Tahiti,25.0
+2001-06-16,Trinidad and Tobago,Honduras,Honduras,13.0
+2001-06-16,Trinidad and Tobago,Honduras,Honduras,86.0
+2001-06-20,Honduras,Mexico,Honduras,64.0
+2001-06-24,Australia,New Zealand,New Zealand,44.0
+2001-07-01,Ivory Coast,Madagascar,Ivory Coast,40.0
+2001-07-01,Uruguay,Brazil,Uruguay,33.0
+2001-07-11,Colombia,Venezuela,Colombia,59.0
+2001-07-17,Colombia,Chile,Colombia,10.0
+2001-07-18,Brazil,Paraguay,Paraguay,11.0
+2001-07-21,Algeria,Egypt,Egypt,60.0
+2001-07-22,Uruguay,Costa Rica,Uruguay,61.0
+2001-07-25,Mexico,Uruguay,Mexico,67.0
+2001-08-14,Chile,Bolivia,Bolivia,19.0
+2001-08-15,Ecuador,Argentina,Argentina,34.0
+2001-08-17,United Arab Emirates,Uzbekistan,United Arab Emirates,33.0
+2001-08-24,Iran,Saudi Arabia,Iran,54.0
+2001-08-31,Oman,China,China,84.0
+2001-09-01,Slovenia,Russia,Slovenia,90.0
+2001-09-01,United States,Honduras,Honduras,53.0
+2001-09-05,Costa Rica,United States,Costa Rica,40.0
+2001-09-05,Czech Republic,Malta,Malta,22.0
+2001-09-05,Mexico,Trinidad and Tobago,Mexico,25.0
+2001-09-05,Mexico,Trinidad and Tobago,Mexico,86.0
+2001-09-05,San Marino,Croatia,Croatia,48.0
+2001-09-08,Uzbekistan,Oman,Uzbekistan,38.0
+2001-09-28,Saudi Arabia,Iran,Saudi Arabia,20.0
+2001-10-06,Malta,Northern Ireland,Northern Ireland,57.0
+2001-10-06,Netherlands,Andorra,Netherlands,3.0
+2001-10-06,Russia,Switzerland,Russia,14.0
+2001-10-07,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,45.0
+2001-10-07,Bosnia and Herzegovina,Liechtenstein,Bosnia and Herzegovina,82.0
+2001-10-07,Paraguay,Argentina,Paraguay,51.0
+2001-10-07,Sweden,Azerbaijan,Sweden,60.0
+2001-10-07,United States,Jamaica,United States,81.0
+2001-10-07,Uruguay,Colombia,Uruguay,34.0
+2001-10-21,Saudi Arabia,Thailand,Saudi Arabia,66.0
+2001-10-27,Israel,Austria,Israel,55.0
+2001-11-07,Bolivia,Brazil,Bolivia,89.0
+2001-11-07,Colombia,Chile,Colombia,67.0
+2001-11-07,Ecuador,Uruguay,Uruguay,43.0
+2001-11-08,Venezuela,Paraguay,Paraguay,28.0
+2001-11-10,Republic of Ireland,Iran,Republic of Ireland,44.0
+2001-11-11,Mexico,Honduras,Mexico,78.0
+2001-11-14,Czech Republic,Belgium,Belgium,85.0
+2001-11-14,Paraguay,Colombia,Colombia,34.0
+2001-11-20,Australia,Uruguay,Australia,78.0
+2002-01-21,United States,Cuba,United States,22.0
+2002-01-29,DR Congo,Ivory Coast,DR Congo,81.0
+2002-01-30,South Africa,Morocco,Morocco,77.0
+2002-06-02,Paraguay,South Africa,South Africa,90.0
+2002-06-02,Spain,Slovenia,Spain,87.0
+2002-06-03,Brazil,Turkey,Brazil,87.0
+2002-06-03,Croatia,Mexico,Mexico,60.0
+2002-06-05,Russia,Tunisia,Russia,64.0
+2002-06-06,Denmark,Senegal,Denmark,16.0
+2002-06-07,Argentina,England,England,44.0
+2002-06-07,Spain,Paraguay,Spain,83.0
+2002-06-07,Sweden,Nigeria,Sweden,63.0
+2002-06-08,Brazil,China,Brazil,45.0
+2002-06-11,Senegal,Uruguay,Senegal,20.0
+2002-06-11,Senegal,Uruguay,Uruguay,88.0
+2002-06-16,Spain,Republic of Ireland,Republic of Ireland,90.0
+2002-07-07,New Zealand,Papua New Guinea,Papua New Guinea,35.0
+2002-07-08,Australia,New Caledonia,Australia,56.0
+2002-09-07,Armenia,Ukraine,Armenia,90.0
+2002-09-07,Austria,Moldova,Austria,4.0
+2002-09-07,Austria,Moldova,Austria,30.0
+2002-10-12,Denmark,Luxembourg,Denmark,52.0
+2002-10-12,Lithuania,Faroe Islands,Lithuania,23.0
+2002-10-12,Moldova,Czech Republic,Czech Republic,69.0
+2002-10-16,Germany,Faroe Islands,Germany,2.0
+2002-10-16,Serbia,Finland,Serbia,84.0
+2003-02-12,Serbia,Azerbaijan,Serbia,33.0
+2003-03-29,France,Malta,France,57.0
+2003-04-02,Croatia,Andorra,Croatia,10.0
+2003-04-02,Czech Republic,Austria,Czech Republic,56.0
+2003-04-02,England,Turkey,England,90.0
+2003-04-02,Lithuania,Scotland,Lithuania,74.0
+2003-04-02,Slovenia,Cyprus,Slovenia,38.0
+2003-06-07,Bulgaria,Belgium,Bulgaria,71.0
+2003-06-07,Malta,Cyprus,Cyprus,23.0
+2003-06-07,North Macedonia,Liechtenstein,North Macedonia,39.0
+2003-06-07,Switzerland,Russia,Russia,67.0
+2003-06-07,Ukraine,Armenia,Armenia,15.0
+2003-06-07,Ukraine,Armenia,Ukraine,65.0
+2003-06-11,Azerbaijan,Serbia,Azerbaijan,88.0
+2003-06-11,Czech Republic,Moldova,Czech Republic,73.0
+2003-06-11,England,Slovakia,England,61.0
+2003-06-11,Norway,Romania,Norway,78.0
+2003-06-11,Switzerland,Albania,Albania,86.0
+2003-06-18,France,Colombia,France,39.0
+2003-06-19,Turkey,United States,Turkey,40.0
+2003-06-20,France,Japan,France,43.0
+2003-06-21,Cameroon,Turkey,Cameroon,90.0
+2003-07-15,Brazil,Honduras,Honduras,90.0
+2003-07-15,Guatemala,Jamaica,Jamaica,73.0
+2003-07-17,Colombia,Guatemala,Guatemala,21.0
+2003-07-19,Costa Rica,El Salvador,El Salvador,34.0
+2003-07-19,Costa Rica,El Salvador,Costa Rica,68.0
+2003-07-19,Costa Rica,El Salvador,Costa Rica,90.0
+2003-07-23,United States,Brazil,Brazil,100.0
+2003-09-06,Italy,Wales,Italy,76.0
+2003-09-06,North Macedonia,England,England,63.0
+2003-09-06,Sweden,San Marino,Sweden,66.0
+2003-09-06,Sweden,San Marino,Sweden,81.0
+2003-09-10,Bolivia,Colombia,Bolivia,11.0
+2003-09-10,Czech Republic,Netherlands,Czech Republic,14.0
+2003-09-10,Denmark,Romania,Denmark,35.0
+2003-09-10,Germany,Scotland,Germany,50.0
+2003-09-10,Israel,Malta,Malta,51.0
+2003-09-10,Moldova,Belarus,Belarus,90.0
+2003-10-11,Equatorial Guinea,Togo,Equatorial Guinea,25.0
+2003-10-11,Greece,Northern Ireland,Greece,69.0
+2003-10-11,Netherlands,Moldova,Netherlands,73.0
+2003-10-11,Wales,Serbia,Wales,26.0
+2003-10-12,Congo,Sierra Leone,Congo,89.0
+2003-10-12,Ethiopia,Malawi,Ethiopia,81.0
+2003-11-14,Mali,Guinea-Bissau,Mali,84.0
+2003-11-16,Benin,Madagascar,Benin,33.0
+2003-11-16,Peru,Brazil,Brazil,20.0
+2004-01-29,Cameroon,Zimbabwe,Zimbabwe,47.0
+2004-01-31,Nigeria,South Africa,Nigeria,64.0
+2004-02-04,Morocco,South Africa,Morocco,38.0
+2004-02-11,Tunisia,Nigeria,Nigeria,67.0
+2004-02-11,Tunisia,Nigeria,Tunisia,82.0
+2004-02-18,Iran,Qatar,Iran,62.0
+2004-02-18,Vietnam,Maldives,Vietnam,80.0
+2004-02-21,Turks and Caicos Islands,Haiti,Haiti,10.0
+2004-02-28,Aruba,Suriname,Suriname,54.0
+2004-03-21,Dominican Republic,Anguilla,Dominican Republic,61.0
+2004-03-28,Saint Lucia,British Virgin Islands,Saint Lucia,13.0
+2004-05-10,Samoa,American Samoa,Samoa,66.0
+2004-05-12,American Samoa,Vanuatu,Vanuatu,30.0
+2004-05-29,Vanuatu,Solomon Islands,Solomon Islands,51.0
+2004-06-02,Brazil,Argentina,Brazil,16.0
+2004-06-02,Brazil,Argentina,Brazil,67.0
+2004-06-02,Brazil,Argentina,Brazil,90.0
+2004-06-06,Chile,Brazil,Chile,89.0
+2004-06-06,Ivory Coast,Libya,Ivory Coast,63.0
+2004-06-12,Cuba,Costa Rica,Cuba,24.0
+2004-06-12,Portugal,Greece,Greece,51.0
+2004-06-13,France,England,France,90.0
+2004-06-14,Sweden,Bulgaria,Sweden,78.0
+2004-06-17,Croatia,France,Croatia,48.0
+2004-06-20,Bermuda,El Salvador,Bermuda,4.0
+2004-06-20,Bermuda,El Salvador,El Salvador,41.0
+2004-06-20,DR Congo,Burkina Faso,DR Congo,88.0
+2004-06-20,Grenada,United States,Grenada,12.0
+2004-06-22,Denmark,Sweden,Sweden,47.0
+2004-06-22,Italy,Bulgaria,Bulgaria,45.0
+2004-06-23,Netherlands,Latvia,Netherlands,27.0
+2004-07-04,Benin,Egypt,Benin,8.0
+2004-07-06,Peru,Bolivia,Peru,67.0
+2004-07-06,Venezuela,Colombia,Colombia,21.0
+2004-07-07,Argentina,Ecuador,Argentina,5.0
+2004-07-08,Costa Rica,Paraguay,Paraguay,85.0
+2004-07-13,Argentina,Uruguay,Argentina,19.0
+2004-07-13,Mexico,Ecuador,Mexico,23.0
+2004-07-17,China,Bahrain,China,58.0
+2004-07-18,Mexico,Brazil,Brazil,26.0
+2004-07-18,Paraguay,Uruguay,Uruguay,40.0
+2004-07-18,Saudi Arabia,Turkmenistan,Saudi Arabia,9.0
+2004-07-19,Kuwait,United Arab Emirates,Kuwait,39.0
+2004-07-20,Iran,Thailand,Iran,86.0
+2004-07-21,Bahrain,Qatar,Qatar,59.0
+2004-07-24,Colombia,Uruguay,Colombia,70.0
+2004-07-25,Argentina,Brazil,Argentina,20.0
+2004-07-30,China,Iraq,China,81.0
+2004-07-30,China,Iraq,China,90.0
+2004-08-06,Iran,Bahrain,Iran,80.0
+2004-08-18,El Salvador,Panama,El Salvador,45.0
+2004-09-04,Canada,Honduras,Honduras,88.0
+2004-09-04,Iceland,Bulgaria,Iceland,51.0
+2004-09-04,Kenya,Malawi,Malawi,90.0
+2004-09-05,Brazil,Bolivia,Brazil,12.0
+2004-09-05,Ghana,Cape Verde,Ghana,24.0
+2004-09-05,Ivory Coast,Sudan,Ivory Coast,12.0
+2004-09-05,Zimbabwe,Nigeria,Nigeria,48.0
+2004-09-08,Andorra,Romania,Andorra,28.0
+2004-09-08,Luxembourg,Latvia,Latvia,40.0
+2004-10-09,Argentina,Uruguay,Uruguay,86.0
+2004-10-09,Croatia,Bulgaria,Croatia,31.0
+2004-10-09,Scotland,Norway,Norway,54.0
+2004-10-10,Trinidad and Tobago,Saint Kitts and Nevis,Saint Kitts and Nevis,43.0
+2004-10-10,Uganda,South Africa,South Africa,68.0
+2004-10-13,Denmark,Turkey,Denmark,27.0
+2004-10-13,Italy,Belarus,Italy,26.0
+2004-10-13,Luxembourg,Liechtenstein,Liechtenstein,57.0
+2004-10-13,Paraguay,Peru,Peru,74.0
+2004-10-13,Republic of Ireland,Faroe Islands,Republic of Ireland,14.0
+2004-10-14,Venezuela,Ecuador,Venezuela,20.0
+2004-10-14,Venezuela,Ecuador,Ecuador,41.0
+2004-11-17,Kenya,Guinea,Guinea,19.0
+2004-11-17,Mexico,Saint Kitts and Nevis,Mexico,10.0
+2004-11-17,Russia,Estonia,Russia,67.0
+2004-11-17,Saudi Arabia,Sri Lanka,Saudi Arabia,45.0
+2004-11-17,United States,Jamaica,Jamaica,28.0
+2005-02-09,Greece,Denmark,Greece,32.0
+2005-03-25,Saudi Arabia,Korea Republic,Saudi Arabia,73.0
+2005-03-26,Bulgaria,Sweden,Sweden,90.0
+2005-03-26,Costa Rica,Panama,Costa Rica,40.0
+2005-03-26,Costa Rica,Panama,Panama,58.0
+2005-03-26,Senegal,Liberia,Senegal,45.0
+2005-03-26,South Africa,Uganda,South Africa,21.0
+2005-03-26,South Africa,Uganda,Uganda,63.0
+2005-03-26,Tunisia,Malawi,Tunisia,60.0
+2005-03-26,Turkey,Albania,Turkey,3.0
+2005-03-27,Ecuador,Paraguay,Paraguay,10.0
+2005-03-27,Ecuador,Paraguay,Ecuador,77.0
+2005-03-30,Andorra,Czech Republic,Czech Republic,31.0
+2005-03-30,Andorra,Czech Republic,Czech Republic,90.0
+2005-03-30,Latvia,Luxembourg,Latvia,38.0
+2005-03-30,San Marino,Belgium,Belgium,18.0
+2005-03-30,Slovakia,Portugal,Slovakia,8.0
+2005-06-04,Armenia,North Macedonia,North Macedonia,29.0
+2005-06-04,Chile,Bolivia,Bolivia,83.0
+2005-06-04,Russia,Latvia,Russia,78.0
+2005-06-05,Brazil,Paraguay,Brazil,32.0
+2005-06-05,Brazil,Paraguay,Brazil,41.0
+2005-06-05,DR Congo,Uganda,DR Congo,69.0
+2005-06-05,Mali,Liberia,Mali,7.0
+2005-06-05,Mali,Liberia,Mali,48.0
+2005-06-08,Kuwait,Korea Republic,Korea Republic,29.0
+2005-06-11,Tunisia,Guinea,Tunisia,36.0
+2005-06-15,Argentina,Tunisia,Argentina,33.0
+2005-06-15,Argentina,Tunisia,Tunisia,72.0
+2005-06-15,Germany,Australia,Germany,60.0
+2005-06-18,Australia,Argentina,Argentina,31.0
+2005-06-18,Australia,Argentina,Australia,61.0
+2005-06-18,Germany,Tunisia,Germany,74.0
+2005-06-25,Germany,Brazil,Brazil,43.0
+2005-06-25,Germany,Brazil,Germany,45.0
+2005-07-07,Canada,Costa Rica,Costa Rica,30.0
+2005-07-08,Guatemala,Jamaica,Guatemala,11.0
+2005-07-08,Guatemala,Jamaica,Jamaica,45.0
+2005-07-09,Costa Rica,Cuba,Costa Rica,81.0
+2005-07-09,Costa Rica,Cuba,Costa Rica,85.0
+2005-07-10,Honduras,Colombia,Colombia,30.0
+2005-08-17,Faroe Islands,Cyprus,Cyprus,77.0
+2005-08-17,Japan,Iran,Iran,79.0
+2005-08-17,Uzbekistan,Kuwait,Uzbekistan,41.0
+2005-09-04,Algeria,Nigeria,Nigeria,20.0
+2005-09-06,Solomon Islands,Australia,Solomon Islands,49.0
+2005-09-07,Belgium,San Marino,Belgium,34.0
+2005-09-07,Poland,Wales,Poland,54.0
+2005-10-08,England,Austria,England,24.0
+2005-10-08,Finland,Romania,Romania,41.0
+2005-10-08,Nigeria,Zimbabwe,Nigeria,75.0
+2005-10-08,Nigeria,Zimbabwe,Nigeria,80.0
+2005-10-08,Russia,Luxembourg,Luxembourg,52.0
+2005-10-08,Tunisia,Morocco,Tunisia,18.0
+2005-10-08,Uganda,Burkina Faso,Uganda,30.0
+2005-10-09,Argentina,Peru,Argentina,81.0
+2005-10-12,San Marino,Spain,Spain,89.0
+2005-11-12,Spain,Slovakia,Spain,65.0
+2005-11-16,Turkey,Switzerland,Switzerland,2.0
+2005-11-16,Turkey,Switzerland,Turkey,52.0
+2006-01-21,Cameroon,Angola,Angola,31.0
+2006-01-21,Morocco,Ivory Coast,Ivory Coast,39.0
+2006-01-26,Zambia,Guinea,Guinea,73.0
+2006-02-03,Egypt,DR Congo,Egypt,33.0
+2006-02-07,Egypt,Senegal,Egypt,37.0
+2006-06-14,Spain,Ukraine,Spain,48.0
+2006-06-17,Portugal,Iran,Portugal,80.0
+2006-06-19,Spain,Tunisia,Spain,90.0
+2006-06-21,Ivory Coast,Serbia,Ivory Coast,37.0
+2006-06-21,Ivory Coast,Serbia,Ivory Coast,86.0
+2006-06-21,Portugal,Mexico,Portugal,24.0
+2006-06-22,Croatia,Australia,Australia,38.0
+2006-06-22,Ghana,United States,Ghana,45.0
+2006-06-23,Ukraine,Tunisia,Ukraine,70.0
+2006-06-26,Italy,Australia,Italy,90.0
+2006-06-27,Spain,France,Spain,28.0
+2006-07-05,Portugal,France,France,33.0
+2006-07-09,Italy,France,France,7.0
+2006-08-16,Faroe Islands,Georgia,Georgia,51.0
+2006-09-02,Belarus,Albania,Albania,7.0
+2006-09-02,Hungary,Norway,Hungary,90.0
+2006-09-02,Poland,Finland,Finland,76.0
+2006-09-02,Scotland,Faroe Islands,Scotland,24.0
+2006-09-02,Scotland,Faroe Islands,Scotland,30.0
+2006-09-06,Albania,Romania,Romania,75.0
+2006-09-06,Bosnia and Herzegovina,Hungary,Hungary,36.0
+2006-09-06,Bosnia and Herzegovina,Hungary,Bosnia and Herzegovina,64.0
+2006-09-06,Israel,Andorra,Israel,43.0
+2006-09-06,San Marino,Germany,Germany,90.0
+2006-10-07,Cyprus,Republic of Ireland,Cyprus,50.0
+2006-10-07,Italy,Ukraine,Italy,71.0
+2006-10-07,Moldova,Bosnia and Herzegovina,Moldova,32.0
+2006-10-11,Belgium,Azerbaijan,Belgium,24.0
+2006-10-11,Bosnia and Herzegovina,Greece,Greece,8.0
+2006-10-11,Serbia,Armenia,Serbia,54.0
+2006-10-11,Turkey,Moldova,Turkey,37.0
+2006-10-11,Ukraine,Scotland,Ukraine,90.0
+2006-11-15,Israel,Croatia,Croatia,35.0
+2006-11-15,Republic of Ireland,San Marino,Republic of Ireland,58.0
+2007-03-24,Norway,Bosnia and Herzegovina,Norway,50.0
+2007-03-28,Georgia,Faroe Islands,Georgia,90.0
+2007-03-28,Malta,Greece,Greece,66.0
+2007-03-28,Wales,San Marino,Wales,63.0
+2007-06-02,Germany,San Marino,Germany,56.0
+2007-06-02,Kazakhstan,Armenia,Armenia,39.0
+2007-06-02,Kazakhstan,Armenia,Kazakhstan,88.0
+2007-06-06,Bulgaria,Belarus,Belarus,5.0
+2007-06-06,Guadeloupe,Haiti,Haiti,36.0
+2007-06-10,Honduras,Mexico,Mexico,29.0
+2007-06-11,Haiti,Canada,Canada,35.0
+2007-06-12,United States,El Salvador,United States,45.0
+2007-06-13,Cuba,Honduras,Honduras,90.0
+2007-06-16,United States,Panama,United States,60.0
+2007-06-21,United States,Canada,United States,45.0
+2007-06-24,United States,Mexico,United States,62.0
+2007-06-28,Argentina,United States,United States,9.0
+2007-07-01,Brazil,Chile,Brazil,36.0
+2007-07-02,Argentina,Colombia,Argentina,20.0
+2007-07-04,Brazil,Ecuador,Brazil,56.0
+2007-07-07,Thailand,Iraq,Thailand,6.0
+2007-07-08,Mexico,Paraguay,Mexico,5.0
+2007-07-08,Mexico,Paraguay,Mexico,87.0
+2007-07-11,Mexico,Argentina,Argentina,65.0
+2007-07-11,Korea Republic,Saudi Arabia,Saudi Arabia,77.0
+2007-07-13,United Arab Emirates,Japan,Japan,42.0
+2007-07-14,Malaysia,Uzbekistan,Uzbekistan,45.0
+2007-07-14,Mexico,Uruguay,Mexico,36.0
+2007-07-16,Qatar,United Arab Emirates,Qatar,42.0
+2007-07-18,Malaysia,Iran,Iran,29.0
+2007-09-08,Belarus,Romania,Romania,77.0
+2007-09-08,Hungary,Bosnia and Herzegovina,Hungary,39.0
+2007-09-08,Scotland,Lithuania,Lithuania,61.0
+2007-09-12,Bulgaria,Luxembourg,Bulgaria,54.0
+2007-09-12,Iceland,Northern Ireland,Northern Ireland,72.0
+2007-09-12,Kazakhstan,Belgium,Kazakhstan,77.0
+2007-09-12,Slovenia,Belarus,Slovenia,3.0
+2007-10-08,Bangladesh,Tajikistan,Tajikistan,58.0
+2007-10-08,Oman,Nepal,Oman,21.0
+2007-10-08,Syria,Afghanistan,Syria,81.0
+2007-10-08,Syria,Afghanistan,Syria,87.0
+2007-10-08,Thailand,Macau,Thailand,55.0
+2007-10-13,Slovakia,San Marino,Slovakia,76.0
+2007-10-14,Madagascar,Comoros,Madagascar,49.0
+2007-10-14,Madagascar,Comoros,Comoros,53.0
+2007-10-17,Denmark,Latvia,Denmark,7.0
+2007-10-17,Malta,Moldova,Moldova,24.0
+2007-10-17,Malta,Moldova,Malta,84.0
+2007-10-17,Russia,England,Russia,69.0
+2007-10-21,Bahrain,Malaysia,Bahrain,90.0
+2007-10-28,Jordan,Kyrgyzstan,Jordan,51.0
+2007-10-28,Myanmar,China,China,39.0
+2007-10-28,Tajikistan,Bangladesh,Tajikistan,76.0
+2007-10-28,United Arab Emirates,Vietnam,United Arab Emirates,90.0
+2007-10-30,India,Lebanon,Lebanon,72.0
+2007-11-17,Albania,Belarus,Belarus,63.0
+2007-11-17,Wales,Republic of Ireland,Wales,89.0
+2007-11-18,Syria,Indonesia,Syria,81.0
+2007-11-18,Uruguay,Chile,Chile,70.0
+2007-11-21,England,Croatia,England,56.0
+2007-11-21,Hungary,Greece,Greece,59.0
+2007-11-21,Malta,Norway,Norway,27.0
+2007-11-21,New Caledonia,Fiji,New Caledonia,29.0
+2007-11-21,New Zealand,Vanuatu,New Zealand,29.0
+2007-11-21,Romania,Albania,Romania,69.0
+2007-11-21,Romania,Albania,Romania,71.0
+2008-01-20,Ghana,Guinea,Ghana,55.0
+2008-01-21,Mali,Benin,Mali,49.0
+2008-01-21,Namibia,Morocco,Morocco,40.0
+2008-01-22,Egypt,Cameroon,Egypt,14.0
+2008-01-22,Egypt,Cameroon,Cameroon,90.0
+2008-01-24,Guinea,Morocco,Guinea,63.0
+2008-01-26,Cameroon,Zambia,Cameroon,66.0
+2008-01-26,Egypt,Sudan,Egypt,29.0
+2008-01-30,Cameroon,Sudan,Cameroon,27.0
+2008-02-03,Ghana,Nigeria,Nigeria,35.0
+2008-02-04,Egypt,Angola,Egypt,23.0
+2008-02-06,Iraq,China,Iraq,51.0
+2008-03-26,Puerto Rico,Dominican Republic,Puerto Rico,96.0
+2008-03-26,Uzbekistan,Saudi Arabia,Uzbekistan,67.0
+2008-03-30,Bahamas,British Virgin Islands,British Virgin Islands,90.0
+2008-03-30,Cayman Islands,Bermuda,Cayman Islands,63.0
+2008-05-30,Latvia,Estonia,Latvia,48.0
+2008-05-31,Cameroon,Cape Verde,Cameroon,56.0
+2008-05-31,Rwanda,Mauritania,Rwanda,60.0
+2008-05-31,Korea Republic,Jordan,Korea Republic,48.0
+2008-06-02,Singapore,Uzbekistan,Singapore,31.0
+2008-06-06,Algeria,Liberia,Algeria,46.0
+2008-06-06,Djibouti,Egypt,Egypt,47.0
+2008-06-07,Chad,Mali,Mali,21.0
+2008-06-07,China,Qatar,Qatar,14.0
+2008-06-07,Jordan,Korea Republic,Korea Republic,24.0
+2008-06-07,Mauritania,Morocco,Mauritania,82.0
+2008-06-07,Oman,Japan,Japan,53.0
+2008-06-07,South Africa,Equatorial Guinea,Equatorial Guinea,78.0
+2008-06-08,Austria,Croatia,Croatia,4.0
+2008-06-08,DR Congo,Malawi,DR Congo,75.0
+2008-06-12,Austria,Poland,Austria,90.0
+2008-06-14,Gambia,Algeria,Gambia,19.0
+2008-06-14,Sierra Leone,South Africa,Sierra Leone,22.0
+2008-06-14,Sudan,Mali,Sudan,72.0
+2008-06-14,Turkmenistan,Korea Republic,Turkmenistan,77.0
+2008-06-14,Turkmenistan,Korea Republic,Korea Republic,90.0
+2008-06-15,Belize,Mexico,Mexico,90.0
+2008-06-15,Mauritius,Cape Verde,Cape Verde,43.0
+2008-06-15,Switzerland,Portugal,Switzerland,83.0
+2008-06-17,France,Italy,Italy,25.0
+2008-06-17,Uruguay,Peru,Uruguay,38.0
+2008-06-18,Jamaica,Bahamas,Jamaica,38.0
+2008-06-19,Venezuela,Chile,Chile,65.0
+2008-06-21,Morocco,Rwanda,Morocco,11.0
+2008-06-21,Tunisia,Burundi,Tunisia,30.0
+2008-06-21,Zambia,Eswatini,Zambia,85.0
+2008-06-22,El Salvador,Panama,El Salvador,83.0
+2008-06-22,Oman,Thailand,Thailand,3.0
+2008-06-22,United Arab Emirates,Syria,United Arab Emirates,83.0
+2008-08-20,Costa Rica,El Salvador,Costa Rica,49.0
+2008-09-06,Austria,France,Austria,72.0
+2008-09-06,Bahrain,Japan,Japan,44.0
+2008-09-06,Ecuador,Bolivia,Ecuador,51.0
+2008-09-06,Kenya,Namibia,Kenya,44.0
+2008-09-06,Luxembourg,Greece,Greece,76.0
+2008-09-06,Montenegro,Bulgaria,Montenegro,82.0
+2008-09-06,Norway,Iceland,Norway,36.0
+2008-09-06,Poland,Slovenia,Poland,17.0
+2008-09-06,Sierra Leone,Equatorial Guinea,Equatorial Guinea,83.0
+2008-09-06,Ukraine,Belarus,Ukraine,90.0
+2008-09-10,Andorra,Belarus,Andorra,67.0
+2008-09-10,Bosnia and Herzegovina,Estonia,Bosnia and Herzegovina,30.0
+2008-09-10,Chad,Sudan,Sudan,48.0
+2008-09-10,Honduras,Jamaica,Honduras,73.0
+2008-09-10,Iceland,Scotland,Iceland,77.0
+2008-09-10,Korea DPR,Korea Republic,Korea DPR,64.0
+2008-09-10,North Macedonia,Netherlands,North Macedonia,77.0
+2008-09-10,Portugal,Denmark,Portugal,86.0
+2008-09-10,Russia,Wales,Russia,22.0
+2008-09-10,Turkey,Belgium,Turkey,74.0
+2008-10-11,Cameroon,Mauritius,Cameroon,47.0
+2008-10-11,Denmark,Malta,Denmark,29.0
+2008-10-11,Finland,Azerbaijan,Finland,61.0
+2008-10-11,Ivory Coast,Madagascar,Ivory Coast,66.0
+2008-10-11,Luxembourg,Israel,Israel,2.0
+2008-10-11,Morocco,Mauritania,Morocco,35.0
+2008-10-15,Australia,Qatar,Australia,17.0
+2008-10-15,Croatia,Andorra,Croatia,87.0
+2008-10-15,Cuba,Guatemala,Cuba,45.0
+2008-10-15,Greece,Switzerland,Switzerland,42.0
+2008-10-15,Trinidad and Tobago,United States,Trinidad and Tobago,79.0
+2008-11-19,Jamaica,Canada,Jamaica,58.0
+2009-02-11,El Salvador,Trinidad and Tobago,Trinidad and Tobago,26.0
+2009-02-11,Republic of Ireland,Georgia,Republic of Ireland,73.0
+2009-03-28,Belgium,Bosnia and Herzegovina,Belgium,85.0
+2009-03-28,Burkina Faso,Guinea,Burkina Faso,55.0
+2009-03-28,Burkina Faso,Guinea,Guinea,65.0
+2009-03-28,Cyprus,Georgia,Georgia,71.0
+2009-03-28,Mexico,Costa Rica,Mexico,52.0
+2009-03-28,Montenegro,Italy,Italy,11.0
+2009-03-28,Netherlands,Scotland,Netherlands,77.0
+2009-03-29,Ivory Coast,Malawi,Ivory Coast,6.0
+2009-03-29,Peru,Chile,Chile,32.0
+2009-04-01,Australia,Uzbekistan,Australia,73.0
+2009-04-01,Bolivia,Argentina,Bolivia,34.0
+2009-04-01,Brazil,Peru,Brazil,18.0
+2009-04-01,Greece,Israel,Greece,67.0
+2009-04-01,Honduras,Mexico,Mexico,82.0
+2009-04-01,Saudi Arabia,United Arab Emirates,Saudi Arabia,4.0
+2009-04-01,Turkey,Spain,Spain,63.0
+2009-06-03,Costa Rica,United States,United States,90.0
+2009-06-06,Belarus,Andorra,Andorra,90.0
+2009-06-06,Cyprus,Montenegro,Cyprus,45.0
+2009-06-06,El Salvador,Mexico,Mexico,71.0
+2009-06-06,El Salvador,Mexico,El Salvador,86.0
+2009-06-06,Kazakhstan,England,England,77.0
+2009-06-06,Serbia,Austria,Serbia,7.0
+2009-06-06,Tunisia,Mozambique,Tunisia,21.0
+2009-06-06,United States,Honduras,United States,43.0
+2009-06-06,Uruguay,Brazil,Brazil,75.0
+2009-06-07,Nigeria,Kenya,Nigeria,72.0
+2009-06-10,Japan,Qatar,Qatar,53.0
+2009-06-15,Brazil,Egypt,Brazil,90.0
+2009-06-15,United States,Italy,United States,41.0
+2009-06-20,Kenya,Mozambique,Kenya,72.0
+2009-07-05,Egypt,Rwanda,Egypt,74.0
+2009-07-05,Nicaragua,Mexico,Mexico,45.0
+2009-07-18,Canada,Honduras,Honduras,36.0
+2009-07-18,United States,Panama,United States,106.0
+2009-07-26,United States,Mexico,Mexico,56.0
+2009-09-05,Austria,Faroe Islands,Austria,58.0
+2009-09-05,Bulgaria,Montenegro,Bulgaria,83.0
+2009-09-05,Hungary,Sweden,Hungary,79.0
+2009-09-05,Paraguay,Bolivia,Paraguay,45.0
+2009-09-05,Russia,Liechtenstein,Russia,40.0
+2009-09-05,Russia,Liechtenstein,Russia,45.0
+2009-09-05,Slovakia,Czech Republic,Slovakia,73.0
+2009-09-05,Ukraine,Andorra,Ukraine,72.0
+2009-09-05,Ukraine,Andorra,Ukraine,90.0
+2009-09-05,Ukraine,Andorra,Ukraine,90.0
+2009-09-09,Brazil,Chile,Chile,45.0
+2009-09-09,Czech Republic,San Marino,Czech Republic,45.0
+2009-09-09,England,Croatia,England,7.0
+2009-09-09,Faroe Islands,Lithuania,Lithuania,22.0
+2009-09-09,Germany,Azerbaijan,Germany,14.0
+2009-09-09,Liechtenstein,Finland,Finland,74.0
+2009-09-09,Mexico,Honduras,Mexico,76.0
+2009-09-09,Montenegro,Cyprus,Montenegro,56.0
+2009-09-09,Serbia,France,Serbia,12.0
+2009-10-10,Armenia,Spain,Spain,64.0
+2009-10-10,Austria,Lithuania,Austria,80.0
+2009-10-10,Ecuador,Uruguay,Uruguay,90.0
+2009-10-10,Greece,Latvia,Greece,47.0
+2009-10-11,Algeria,Rwanda,Algeria,90.0
+2009-10-11,Guinea,Burkina Faso,Burkina Faso,37.0
+2009-10-14,Bulgaria,Georgia,Georgia,51.0
+2009-10-14,France,Austria,France,26.0
+2009-10-14,Lithuania,Serbia,Lithuania,20.0
+2009-10-14,Lithuania,Serbia,Lithuania,68.0
+2009-10-14,Trinidad and Tobago,Mexico,Trinidad and Tobago,23.0
+2009-11-14,Sudan,Benin,Benin,34.0
+2009-11-14,Sudan,Benin,Sudan,45.0
+2010-01-10,Angola,Mali,Angola,67.0
+2010-01-10,Angola,Mali,Angola,74.0
+2010-01-12,Mozambique,Benin,Benin,14.0
+2010-01-15,Ivory Coast,Ghana,Ghana,90.0
+2010-01-16,Nigeria,Benin,Nigeria,42.0
+2010-01-17,Cameroon,Zambia,Zambia,81.0
+2010-01-28,Algeria,Egypt,Egypt,38.0
+2010-06-13,Serbia,Ghana,Ghana,85.0
+2010-06-16,South Africa,Uruguay,Uruguay,80.0
+2010-06-17,France,Mexico,Mexico,79.0
+2010-06-19,Ghana,Australia,Ghana,25.0
+2010-06-20,Italy,New Zealand,Italy,29.0
+2010-06-22,Nigeria,Korea Republic,Nigeria,69.0
+2010-06-24,Cameroon,Netherlands,Cameroon,65.0
+2010-06-26,United States,Ghana,United States,62.0
+2010-06-28,Netherlands,Slovakia,Slovakia,90.0
+2010-09-02,Israel,Malta,Israel,64.0
+2010-09-03,Andorra,Russia,Russia,64.0
+2010-09-03,San Marino,Netherlands,Netherlands,16.0
+2010-09-07,Netherlands,Finland,Netherlands,16.0
+2010-09-07,North Macedonia,Armenia,North Macedonia,90.0
+2010-10-08,Hungary,San Marino,Hungary,90.0
+2010-10-08,Republic of Ireland,Russia,Republic of Ireland,72.0
+2010-10-08,Slovenia,Faroe Islands,Slovenia,72.0
+2010-10-09,Israel,Croatia,Croatia,36.0
+2010-10-12,Greece,Israel,Greece,63.0
+2010-10-12,San Marino,Moldova,Moldova,86.0
+2010-10-12,Scotland,Spain,Spain,44.0
+2010-10-12,Switzerland,Wales,Switzerland,82.0
+2010-11-17,Finland,San Marino,Finland,71.0
+2011-01-10,Korea Republic,Bahrain,Bahrain,85.0
+2011-01-12,Uzbekistan,Kuwait,Kuwait,49.0
+2011-01-13,Syria,Japan,Syria,76.0
+2011-01-13,Syria,Japan,Japan,82.0
+2011-01-14,Bahrain,India,Bahrain,8.0
+2011-01-18,Korea Republic,India,India,12.0
+2011-01-25,Japan,Korea Republic,Korea Republic,23.0
+2011-01-28,Uzbekistan,Korea Republic,Uzbekistan,45.0
+2011-03-25,Spain,Czech Republic,Spain,73.0
+2011-03-26,Wales,England,England,7.0
+2011-03-29,Belgium,Azerbaijan,Belgium,32.0
+2011-06-04,England,Switzerland,England,37.0
+2011-06-04,Latvia,Israel,Israel,43.0
+2011-06-04,Latvia,Israel,Latvia,62.0
+2011-06-04,Russia,Armenia,Russia,73.0
+2011-06-05,Mexico,El Salvador,Mexico,90.0
+2011-06-07,Belarus,Luxembourg,Belarus,48.0
+2011-06-07,Faroe Islands,Estonia,Faroe Islands,43.0
+2011-06-07,Panama,Guadeloupe,Panama,57.0
+2011-06-11,Canada,Guadeloupe,Canada,51.0
+2011-06-11,United States,Panama,Panama,36.0
+2011-06-14,Canada,Panama,Canada,62.0
+2011-06-19,Panama,El Salvador,El Salvador,78.0
+2011-06-29,Nepal,Timor-Leste,Nepal,15.0
+2011-06-29,Vietnam,Macau,Vietnam,42.0
+2011-07-02,Nepal,Timor-Leste,Nepal,4.0
+2011-07-02,Turks and Caicos Islands,Bahamas,Bahamas,36.0
+2011-07-03,Laos,Cambodia,Laos,112.0
+2011-07-03,Philippines,Sri Lanka,Philippines,57.0
+2011-07-03,Taiwan,Malaysia,Taiwan,44.0
+2011-07-03,Taiwan,Malaysia,Taiwan,75.0
+2011-07-10,Colombia,Bolivia,Colombia,28.0
+2011-07-23,China,Laos,China,90.0
+2011-07-23,United Arab Emirates,India,United Arab Emirates,21.0
+2011-07-23,United Arab Emirates,India,United Arab Emirates,29.0
+2011-07-28,Hong Kong,Saudi Arabia,Saudi Arabia,71.0
+2011-07-28,Myanmar,Oman,Oman,39.0
+2011-09-02,Andorra,Armenia,Armenia,90.0
+2011-09-02,Azerbaijan,Belgium,Belgium,55.0
+2011-09-02,Belarus,Bosnia and Herzegovina,Bosnia and Herzegovina,21.0
+2011-09-02,Canada,Saint Lucia,Canada,50.0
+2011-09-02,China,Singapore,China,69.0
+2011-09-02,Cyprus,Portugal,Portugal,35.0
+2011-09-02,El Salvador,Dominican Republic,El Salvador,77.0
+2011-09-02,Finland,Moldova,Finland,52.0
+2011-09-02,Norway,Iceland,Norway,88.0
+2011-09-02,Slovenia,Estonia,Estonia,29.0
+2011-09-02,Suriname,Cayman Islands,Suriname,11.0
+2011-09-03,Scotland,Czech Republic,Czech Republic,90.0
+2011-09-06,Azerbaijan,Kazakhstan,Azerbaijan,62.0
+2011-09-06,Cayman Islands,El Salvador,Cayman Islands,73.0
+2011-09-06,Dominican Republic,Suriname,Suriname,25.0
+2011-09-06,Lebanon,United Arab Emirates,Lebanon,37.0
+2011-09-06,Saudi Arabia,Australia,Australia,77.0
+2011-09-06,United States Virgin Islands,Antigua and Barbuda,Antigua and Barbuda,38.0
+2011-10-07,Belgium,Kazakhstan,Belgium,40.0
+2011-10-07,Belgium,Kazakhstan,Kazakhstan,86.0
+2011-10-07,Bosnia and Herzegovina,Luxembourg,Bosnia and Herzegovina,22.0
+2011-10-07,Dominican Republic,El Salvador,El Salvador,37.0
+2011-10-07,Northern Ireland,Estonia,Estonia,77.0
+2011-10-07,Portugal,Iceland,Iceland,90.0
+2011-10-07,Romania,Belarus,Romania,51.0
+2011-10-07,Turkey,Germany,Germany,86.0
+2011-10-07,United States Virgin Islands,Haiti,Haiti,74.0
+2011-10-07,United States Virgin Islands,Haiti,Haiti,82.0
+2011-10-07,Uruguay,Bolivia,Bolivia,87.0
+2011-10-07,Wales,Switzerland,Wales,60.0
+2011-10-11,Chile,Peru,Chile,63.0
+2011-10-11,El Salvador,Cayman Islands,El Salvador,88.0
+2011-10-11,France,Bosnia and Herzegovina,France,78.0
+2011-10-11,Guatemala,Belize,Guatemala,8.0
+2011-10-11,Guatemala,Belize,Guatemala,78.0
+2011-10-11,Haiti,Curaçao,Haiti,25.0
+2011-10-11,Lebanon,Kuwait,Lebanon,86.0
+2011-10-11,Lithuania,Czech Republic,Czech Republic,2.0
+2011-10-11,Lithuania,Czech Republic,Lithuania,68.0
+2011-10-11,Lithuania,Czech Republic,Czech Republic,85.0
+2011-10-11,Spain,Scotland,Scotland,66.0
+2011-10-11,Sweden,Netherlands,Sweden,52.0
+2011-11-11,Bermuda,Barbados,Bermuda,28.0
+2011-11-11,Comoros,Mozambique,Mozambique,54.0
+2011-11-11,Equatorial Guinea,Madagascar,Equatorial Guinea,20.0
+2011-11-11,Estonia,Republic of Ireland,Republic of Ireland,88.0
+2011-11-11,Qatar,Indonesia,Qatar,34.0
+2011-11-11,Saudi Arabia,Thailand,Saudi Arabia,89.0
+2011-11-14,Bermuda,Barbados,Bermuda,72.0
+2011-11-15,Burundi,Lesotho,Burundi,88.0
+2011-11-15,Canada,Saint Kitts and Nevis,Canada,36.0
+2011-11-15,Grenada,Guatemala,Grenada,37.0
+2011-11-15,Indonesia,Iran,Iran,73.0
+2011-11-15,Lebanon,Korea Republic,Korea Republic,20.0
+2011-11-15,Lebanon,Korea Republic,Lebanon,32.0
+2011-11-15,Portugal,Bosnia and Herzegovina,Bosnia and Herzegovina,41.0
+2011-11-15,Saint Vincent and the Grenadines,Belize,Belize,81.0
+2011-11-24,Samoa,Tonga,Samoa,43.0
+2012-01-26,Sudan,Angola,Angola,50.0
+2012-01-27,Gabon,Morocco,Morocco,90.0
+2012-01-28,Botswana,Guinea,Botswana,23.0
+2012-02-29,Bahrain,Indonesia,Bahrain,5.0
+2012-02-29,Bahrain,Indonesia,Bahrain,35.0
+2012-02-29,Iran,Qatar,Qatar,9.0
+2012-02-29,Iraq,Singapore,Iraq,22.0
+2012-02-29,Iraq,Singapore,Iraq,36.0
+2012-02-29,Tajikistan,Korea DPR,Korea DPR,54.0
+2012-06-01,Latvia,Lithuania,Latvia,12.0
+2012-06-02,Cameroon,DR Congo,Cameroon,54.0
+2012-06-03,Tahiti,New Caledonia,Tahiti,28.0
+2012-06-04,Papua New Guinea,New Zealand,Papua New Guinea,89.0
+2012-06-05,New Caledonia,Samoa,New Caledonia,25.0
+2012-06-05,Tahiti,Vanuatu,Tahiti,14.0
+2012-06-08,Japan,Jordan,Japan,53.0
+2012-06-08,United States,Antigua and Barbuda,United States,44.0
+2012-06-09,Morocco,Ivory Coast,Morocco,42.0
+2012-06-09,Uganda,Senegal,Uganda,87.0
+2012-06-10,DR Congo,Togo,DR Congo,81.0
+2012-06-10,Guinea,Egypt,Guinea,20.0
+2012-06-10,Guinea,Egypt,Egypt,66.0
+2012-06-10,Rwanda,Benin,Rwanda,86.0
+2012-06-10,Tanzania,Gambia,Tanzania,85.0
+2012-06-12,Australia,Japan,Australia,70.0
+2012-06-12,Iraq,Oman,Iraq,37.0
+2012-06-22,Germany,Greece,Greece,89.0
+2012-06-23,Spain,France,Spain,90.0
+2012-06-28,Germany,Italy,Germany,90.0
+2012-09-07,Argentina,Paraguay,Paraguay,17.0
+2012-09-07,Ecuador,Bolivia,Ecuador,73.0
+2012-09-07,Kazakhstan,Republic of Ireland,Republic of Ireland,88.0
+2012-09-07,Latvia,Greece,Latvia,41.0
+2012-09-07,Moldova,England,England,4.0
+2012-09-07,Montenegro,Poland,Poland,6.0
+2012-09-07,Russia,Northern Ireland,Russia,78.0
+2012-09-11,Austria,Germany,Germany,52.0
+2012-09-11,England,Ukraine,England,87.0
+2012-09-11,Hungary,Netherlands,Hungary,7.0
+2012-09-11,Jordan,Australia,Jordan,50.0
+2012-09-11,Norway,Slovenia,Norway,90.0
+2012-09-11,Poland,Moldova,Poland,33.0
+2012-09-11,Switzerland,Albania,Switzerland,68.0
+2012-09-11,Uruguay,Ecuador,Ecuador,7.0
+2012-10-12,Armenia,Italy,Italy,11.0
+2012-10-12,Ecuador,Chile,Ecuador,56.0
+2012-10-12,England,San Marino,England,35.0
+2012-10-12,Guatemala,Jamaica,Jamaica,60.0
+2012-10-12,Republic of Ireland,Germany,Germany,55.0
+2012-10-12,Slovakia,Latvia,Slovakia,5.0
+2012-10-12,Slovakia,Latvia,Latvia,84.0
+2012-10-12,Wales,Scotland,Wales,80.0
+2012-10-16,Costa Rica,Guyana,Costa Rica,51.0
+2012-10-16,Cyprus,Norway,Norway,81.0
+2012-10-16,Hungary,Turkey,Hungary,57.0
+2012-10-16,North Macedonia,Serbia,North Macedonia,59.0
+2012-10-16,Romania,Netherlands,Netherlands,45.0
+2012-10-16,Russia,Azerbaijan,Russia,84.0
+2012-10-16,San Marino,Moldova,Moldova,72.0
+2013-01-20,Ghana,DR Congo,DR Congo,69.0
+2013-01-24,Ghana,Mali,Ghana,38.0
+2013-01-25,Zambia,Nigeria,Zambia,85.0
+2013-01-28,DR Congo,Mali,DR Congo,3.0
+2013-01-29,Ethiopia,Nigeria,Nigeria,80.0
+2013-01-29,Ethiopia,Nigeria,Nigeria,90.0
+2013-01-30,Algeria,Ivory Coast,Algeria,64.0
+2013-01-30,Togo,Tunisia,Tunisia,30.0
+2013-02-02,Ghana,Cape Verde,Ghana,54.0
+2013-02-06,Burkina Faso,Ghana,Ghana,13.0
+2013-03-22,Argentina,Venezuela,Argentina,45.0
+2013-03-22,Hungary,Romania,Romania,68.0
+2013-03-22,Hungary,Romania,Hungary,71.0
+2013-03-22,North Macedonia,Belgium,Belgium,62.0
+2013-03-22,Scotland,Wales,Wales,72.0
+2013-03-23,Cameroon,Togo,Cameroon,41.0
+2013-03-23,Ivory Coast,Gambia,Ivory Coast,51.0
+2013-03-26,Denmark,Bulgaria,Denmark,63.0
+2013-03-26,Egypt,Zimbabwe,Egypt,88.0
+2013-03-26,Malta,Italy,Italy,8.0
+2013-03-26,Netherlands,Romania,Netherlands,65.0
+2013-03-26,Poland,San Marino,Poland,21.0
+2013-03-26,Poland,San Marino,Poland,50.0
+2013-03-26,Republic of Ireland,Austria,Republic of Ireland,25.0
+2013-03-26,Wales,Croatia,Wales,21.0
+2013-06-04,Japan,Australia,Japan,90.0
+2013-06-07,Austria,Sweden,Austria,26.0
+2013-06-07,Iceland,Slovenia,Iceland,26.0
+2013-06-07,Iceland,Slovenia,Slovenia,31.0
+2013-06-07,Sudan,Ghana,Sudan,26.0
+2013-06-08,Morocco,Tanzania,Morocco,39.0
+2013-06-08,Sierra Leone,Tunisia,Tunisia,55.0
+2013-06-09,Guinea,Mozambique,Mozambique,44.0
+2013-06-09,Guinea,Mozambique,Guinea,45.0
+2013-06-11,Colombia,Peru,Colombia,12.0
+2013-06-11,Ecuador,Argentina,Argentina,4.0
+2013-06-11,Sweden,Faroe Islands,Sweden,82.0
+2013-06-14,Libya,Togo,Libya,7.0
+2013-06-15,Botswana,Central African Republic,Botswana,37.0
+2013-06-15,Gabon,Niger,Gabon,42.0
+2013-06-15,Gabon,Niger,Gabon,87.0
+2013-06-15,Gabon,Niger,Gabon,90.0
+2013-06-16,Equatorial Guinea,Tunisia,Equatorial Guinea,36.0
+2013-06-16,Equatorial Guinea,Tunisia,Tunisia,64.0
+2013-06-16,Liberia,Senegal,Senegal,18.0
+2013-06-16,Mali,Benin,Mali,14.0
+2013-06-16,Mexico,Italy,Mexico,34.0
+2013-06-16,Tanzania,Ivory Coast,Ivory Coast,43.0
+2013-06-19,Italy,Japan,Japan,21.0
+2013-06-19,Italy,Japan,Italy,52.0
+2013-06-23,Uruguay,Tahiti,Uruguay,67.0
+2013-07-07,Mexico,Panama,Panama,7.0
+2013-07-09,United States,Belize,United States,76.0
+2013-07-11,Mexico,Canada,Mexico,57.0
+2013-07-11,Panama,Martinique,Panama,85.0
+2013-07-13,United States,Cuba,United States,45.0
+2013-07-14,Martinique,Mexico,Martinique,43.0
+2013-07-15,Honduras,Trinidad and Tobago,Trinidad and Tobago,48.0
+2013-07-20,Panama,Cuba,Panama,25.0
+2013-07-21,United States,El Salvador,El Salvador,39.0
+2013-09-06,Costa Rica,United States,United States,43.0
+2013-09-06,Estonia,Netherlands,Netherlands,90.0
+2013-09-06,Kazakhstan,Faroe Islands,Kazakhstan,49.0
+2013-09-06,North Macedonia,Wales,Wales,39.0
+2013-09-06,Peru,Uruguay,Uruguay,43.0
+2013-09-06,Switzerland,Iceland,Switzerland,54.0
+2013-09-07,Ivory Coast,Morocco,Ivory Coast,83.0
+2013-09-07,Nigeria,Malawi,Nigeria,50.0
+2013-09-07,Sierra Leone,Equatorial Guinea,Sierra Leone,38.0
+2013-09-07,South Africa,Botswana,South Africa,89.0
+2013-09-10,Armenia,Denmark,Denmark,73.0
+2013-09-10,Belarus,France,France,47.0
+2013-09-10,Bolivia,Ecuador,Ecuador,57.0
+2013-09-10,Egypt,Guinea,Egypt,51.0
+2013-09-10,Faroe Islands,Germany,Germany,74.0
+2013-09-10,Georgia,Finland,Finland,74.0
+2013-09-10,Italy,Czech Republic,Italy,54.0
+2013-09-10,Paraguay,Argentina,Argentina,12.0
+2013-09-10,Paraguay,Argentina,Argentina,52.0
+2013-09-10,Venezuela,Peru,Venezuela,59.0
+2013-10-11,Albania,Switzerland,Albania,89.0
+2013-10-11,Andorra,Romania,Romania,63.0
+2013-10-11,Colombia,Chile,Chile,18.0
+2013-10-11,Colombia,Chile,Colombia,74.0
+2013-10-11,Colombia,Chile,Colombia,83.0
+2013-10-11,England,Montenegro,England,90.0
+2013-10-11,Netherlands,Hungary,Hungary,47.0
+2013-10-12,Burkina Faso,Algeria,Burkina Faso,86.0
+2013-10-12,Ivory Coast,Senegal,Ivory Coast,3.0
+2013-10-13,Ethiopia,Nigeria,Nigeria,90.0
+2013-10-15,Denmark,Malta,Denmark,11.0
+2013-10-15,Denmark,Malta,Denmark,39.0
+2013-10-15,Faroe Islands,Austria,Austria,67.0
+2013-10-15,Ghana,Egypt,Egypt,41.0
+2013-10-15,Ghana,Egypt,Ghana,72.0
+2013-10-15,Jamaica,Honduras,Jamaica,59.0
+2013-10-15,Montenegro,Moldova,Montenegro,55.0
+2013-10-15,Republic of Ireland,Kazakhstan,Republic of Ireland,17.0
+2013-10-15,Romania,Estonia,Romania,30.0
+2013-10-15,San Marino,Ukraine,Ukraine,13.0
+2013-10-15,San Marino,Ukraine,Ukraine,57.0
+2013-10-15,Serbia,North Macedonia,Serbia,38.0
+2013-10-15,Uruguay,Argentina,Uruguay,34.0
+2013-11-15,Ukraine,France,Ukraine,82.0
+2013-11-16,Nigeria,Ethiopia,Nigeria,20.0
+2013-11-16,Senegal,Ivory Coast,Senegal,72.0
+2013-11-20,New Zealand,Mexico,New Zealand,80.0
+2014-06-12,Brazil,Croatia,Brazil,71.0
+2014-06-13,Spain,Netherlands,Spain,27.0
+2014-06-14,Uruguay,Costa Rica,Uruguay,24.0
+2014-06-15,France,Honduras,France,45.0
+2014-06-16,Germany,Portugal,Germany,12.0
+2014-06-17,Belgium,Algeria,Algeria,25.0
+2014-06-18,Australia,Netherlands,Australia,54.0
+2014-06-24,Greece,Ivory Coast,Greece,90.0
+2014-06-24,Japan,Colombia,Colombia,17.0
+2014-06-29,Netherlands,Mexico,Netherlands,90.0
+2014-07-04,Brazil,Colombia,Colombia,80.0
+2014-07-12,Brazil,Netherlands,Netherlands,3.0
+2014-09-07,Greece,Romania,Romania,10.0
+2014-09-08,Austria,Sweden,Austria,7.0
+2014-09-08,Russia,Liechtenstein,Russia,54.0
+2014-09-08,Spain,North Macedonia,Spain,16.0
+2014-09-08,Spain,North Macedonia,North Macedonia,28.0
+2014-09-09,Andorra,Wales,Andorra,6.0
+2014-10-09,England,San Marino,England,43.0
+2014-10-09,Moldova,Austria,Austria,12.0
+2014-10-09,Moldova,Austria,Moldova,27.0
+2014-10-09,North Macedonia,Luxembourg,North Macedonia,66.0
+2014-10-09,Slovenia,Switzerland,Slovenia,79.0
+2014-10-10,Belgium,Andorra,Belgium,31.0
+2014-10-10,Netherlands,Kazakhstan,Netherlands,89.0
+2014-10-11,Republic of Ireland,Gibraltar,Republic of Ireland,18.0
+2014-10-12,Russia,Moldova,Russia,73.0
+2014-10-13,Andorra,Israel,Andorra,15.0
+2014-10-13,Andorra,Israel,Israel,90.0
+2014-10-13,Croatia,Azerbaijan,Croatia,57.0
+2014-10-13,Iceland,Netherlands,Iceland,10.0
+2014-10-13,Latvia,Turkey,Latvia,54.0
+2014-11-15,England,Slovenia,England,59.0
+2014-11-15,Montenegro,Sweden,Montenegro,80.0
+2014-11-16,Bulgaria,Malta,Malta,49.0
+2014-11-16,Cyprus,Andorra,Cyprus,87.0
+2014-11-16,Turkey,Kazakhstan,Turkey,26.0
+2014-11-16,Turkey,Kazakhstan,Kazakhstan,87.0
+2015-01-09,Australia,Kuwait,Australia,62.0
+2015-01-12,Japan,Palestine,Japan,43.0
+2015-01-13,Australia,Oman,Australia,45.0
+2015-01-16,Iraq,Japan,Japan,23.0
+2015-01-18,Tunisia,Cape Verde,Cape Verde,78.0
+2015-01-18,Uzbekistan,Saudi Arabia,Saudi Arabia,60.0
+2015-01-19,Ghana,Senegal,Ghana,14.0
+2015-01-23,Iran,Iraq,Iraq,116.0
+2015-01-25,Equatorial Guinea,Gabon,Equatorial Guinea,55.0
+2015-01-28,Guinea,Mali,Guinea,15.0
+2015-01-30,Iraq,United Arab Emirates,United Arab Emirates,57.0
+2015-01-31,Equatorial Guinea,Tunisia,Equatorial Guinea,90.0
+2015-02-04,DR Congo,Ivory Coast,DR Congo,24.0
+2015-02-05,Equatorial Guinea,Ghana,Ghana,42.0
+2015-03-12,Yemen,Pakistan,Pakistan,67.0
+2015-03-17,Macau,Cambodia,Macau,52.0
+2015-03-25,Bahamas,Bermuda,Bermuda,14.0
+2015-03-26,Turks and Caicos Islands,Saint Kitts and Nevis,Turks and Caicos Islands,5.0
+2015-03-26,Turks and Caicos Islands,Saint Kitts and Nevis,Turks and Caicos Islands,14.0
+2015-03-26,Turks and Caicos Islands,Saint Kitts and Nevis,Saint Kitts and Nevis,33.0
+2015-03-27,Curaçao,Montserrat,Curaçao,39.0
+2015-03-27,Moldova,Sweden,Sweden,84.0
+2015-03-29,Scotland,Gibraltar,Scotland,18.0
+2015-03-29,Scotland,Gibraltar,Scotland,34.0
+2015-06-11,Afghanistan,Syria,Syria,90.0
+2015-06-11,Bangladesh,Kyrgyzstan,Kyrgyzstan,29.0
+2015-06-11,Chile,Ecuador,Chile,66.0
+2015-06-11,Dominica,Canada,Canada,64.0
+2015-06-11,Hong Kong,Bhutan,Hong Kong,49.0
+2015-06-11,India,Oman,Oman,40.0
+2015-06-11,Laos,Myanmar,Laos,81.0
+2015-06-12,Bosnia and Herzegovina,Israel,Bosnia and Herzegovina,45.0
+2015-06-12,Croatia,Italy,Italy,36.0
+2015-06-13,Argentina,Paraguay,Argentina,35.0
+2015-06-13,Armenia,Portugal,Portugal,29.0
+2015-06-14,Antigua and Barbuda,Saint Lucia,Saint Lucia,81.0
+2015-06-14,Guyana,Saint Vincent and the Grenadines,Guyana,50.0
+2015-06-14,Sweden,Montenegro,Montenegro,64.0
+2015-06-15,Chile,Mexico,Chile,54.0
+2015-06-15,Ecuador,Bolivia,Bolivia,42.0
+2015-06-19,Mexico,Ecuador,Mexico,63.0
+2015-06-25,Bolivia,Peru,Bolivia,83.0
+2015-06-27,Brazil,Paraguay,Paraguay,71.0
+2015-07-18,United States,Cuba,United States,64.0
+2015-07-19,Mexico,Costa Rica,Mexico,120.0
+2015-07-22,Panama,Mexico,Mexico,90.0
+2015-07-22,Panama,Mexico,Mexico,105.0
+2015-09-03,Belgium,Bosnia and Herzegovina,Belgium,78.0
+2015-09-03,Iran,Guam,Iran,10.0
+2015-09-03,Iraq,Taiwan,Iraq,90.0
+2015-09-03,Israel,Andorra,Israel,26.0
+2015-09-03,Kuwait,Myanmar,Kuwait,69.0
+2015-09-03,Netherlands,Iceland,Iceland,51.0
+2015-09-03,Saudi Arabia,Timor-Leste,Saudi Arabia,23.0
+2015-09-04,Antigua and Barbuda,Guatemala,Antigua and Barbuda,72.0
+2015-09-04,Gibraltar,Republic of Ireland,Republic of Ireland,51.0
+2015-09-04,Grenada,Haiti,Grenada,33.0
+2015-09-04,Jamaica,Nicaragua,Nicaragua,5.0
+2015-09-04,Saint Vincent and the Grenadines,Aruba,Saint Vincent and the Grenadines,90.0
+2015-09-05,San Marino,England,England,13.0
+2015-09-05,Spain,Slovakia,Spain,30.0
+2015-09-05,Ukraine,Belarus,Ukraine,40.0
+2015-09-05,Ukraine,Belarus,Belarus,62.0
+2015-09-06,Italy,Bulgaria,Italy,6.0
+2015-09-07,Poland,Gibraltar,Poland,59.0
+2015-09-08,Bangladesh,Jordan,Jordan,13.0
+2015-09-08,England,Switzerland,England,84.0
+2015-09-08,Laos,Kuwait,Kuwait,84.0
+2015-09-08,Lebanon,Korea Republic,Korea Republic,22.0
+2015-09-08,Liechtenstein,Russia,Russia,40.0
+2015-09-08,Sweden,Austria,Austria,9.0
+2015-09-08,Thailand,Iraq,Thailand,80.0
+2015-09-08,Yemen,Bahrain,Bahrain,31.0
+2015-10-07,Mauritius,Kenya,Mauritius,67.0
+2015-10-08,Bhutan,Maldives,Maldives,57.0
+2015-10-08,Georgia,Gibraltar,Georgia,35.0
+2015-10-08,Jordan,Australia,Jordan,47.0
+2015-10-08,Kyrgyzstan,Tajikistan,Tajikistan,71.0
+2015-10-08,Kyrgyzstan,Tajikistan,Kyrgyzstan,90.0
+2015-10-08,Liberia,Guinea-Bissau,Liberia,35.0
+2015-10-08,Saudi Arabia,United Arab Emirates,Saudi Arabia,90.0
+2015-10-08,Syria,Japan,Japan,55.0
+2015-10-08,Vietnam,Iraq,Iraq,90.0
+2015-10-09,North Macedonia,Ukraine,Ukraine,59.0
+2015-10-09,Slovenia,Lithuania,Slovenia,45.0
+2015-10-09,Slovenia,Lithuania,Lithuania,79.0
+2015-10-09,Somalia,Niger,Niger,61.0
+2015-10-09,Switzerland,San Marino,Switzerland,55.0
+2015-10-09,Switzerland,San Marino,Switzerland,72.0
+2015-10-09,Switzerland,San Marino,Switzerland,80.0
+2015-10-10,Andorra,Belgium,Andorra,51.0
+2015-10-10,Andorra,Belgium,Belgium,56.0
+2015-10-10,Czech Republic,Turkey,Turkey,62.0
+2015-10-11,Ethiopia,São Tomé and Príncipe,Ethiopia,47.0
+2015-10-11,Germany,Georgia,Germany,50.0
+2015-10-11,Poland,Republic of Ireland,Republic of Ireland,16.0
+2015-10-12,Luxembourg,Slovakia,Luxembourg,65.0
+2015-10-12,Russia,Montenegro,Russia,37.0
+2015-10-13,Burundi,Seychelles,Burundi,71.0
+2015-10-13,Ecuador,Bolivia,Ecuador,90.0
+2015-10-13,Korea DPR,Yemen,Korea DPR,12.0
+2015-10-13,Peru,Chile,Peru,36.0
+2015-11-12,Australia,Kyrgyzstan,Australia,40.0
+2015-11-12,Benin,Burkina Faso,Benin,45.0
+2015-11-12,Bolivia,Venezuela,Bolivia,23.0
+2015-11-12,China,Bhutan,China,21.0
+2015-11-12,Iran,Turkmenistan,Iran,83.0
+2015-11-12,Maldives,Hong Kong,Hong Kong,13.0
+2015-11-12,Tajikistan,Bangladesh,Tajikistan,51.0
+2015-11-12,United Arab Emirates,Timor-Leste,United Arab Emirates,53.0
+2015-11-13,Angola,South Africa,South Africa,80.0
+2015-11-13,Libya,Rwanda,Libya,46.0
+2015-11-14,Sweden,Denmark,Sweden,50.0
+2015-11-16,Republic of Ireland,Bosnia and Herzegovina,Republic of Ireland,24.0
+2015-11-17,Algeria,Tanzania,Algeria,49.0
+2015-11-17,Algeria,Tanzania,Algeria,59.0
+2015-11-17,Burkina Faso,Benin,Burkina Faso,17.0
+2015-11-17,Guam,Iran,Iran,52.0
+2015-11-17,Laos,Korea Republic,Korea Republic,3.0
+2015-11-17,Mali,Botswana,Mali,10.0
+2015-11-17,Korea DPR,Bahrain,Korea DPR,45.0
+2015-11-17,Singapore,Syria,Singapore,89.0
+2015-11-17,Timor-Leste,Saudi Arabia,Saudi Arabia,29.0
+2015-11-17,Timor-Leste,Saudi Arabia,Saudi Arabia,55.0
+2016-01-08,Panama,Cuba,Panama,17.0
+2016-03-24,Australia,Tajikistan,Australia,13.0
+2016-03-24,Australia,Tajikistan,Australia,57.0
+2016-03-24,Bahrain,Yemen,Bahrain,32.0
+2016-03-24,Bolivia,Colombia,Bolivia,50.0
+2016-03-24,Iran,India,Iran,33.0
+2016-03-24,Iran,India,Iran,66.0
+2016-03-24,Jordan,Bangladesh,Jordan,29.0
+2016-03-24,Jordan,Bangladesh,Jordan,90.0
+2016-03-24,Peru,Venezuela,Venezuela,33.0
+2016-03-24,United Arab Emirates,Palestine,United Arab Emirates,60.0
+2016-03-25,Saint Vincent and the Grenadines,Trinidad and Tobago,Saint Vincent and the Grenadines,45.0
+2016-03-29,Argentina,Bolivia,Argentina,30.0
+2016-03-29,Maldives,Bhutan,Bhutan,48.0
+2016-03-29,Maldives,Bhutan,Maldives,81.0
+2016-03-29,Mexico,Canada,Mexico,17.0
+2016-05-28,New Zealand,Fiji,Fiji,45.0
+2016-05-28,New Zealand,Fiji,New Zealand,61.0
+2016-05-31,Solomon Islands,Fiji,Fiji,85.0
+2016-06-01,New Caledonia,Samoa,New Caledonia,38.0
+2016-06-01,New Caledonia,Samoa,New Caledonia,89.0
+2016-06-03,United States,Colombia,Colombia,42.0
+2016-06-04,Fiji,Vanuatu,Vanuatu,75.0
+2016-06-07,United States,Costa Rica,United States,9.0
+2016-06-10,Chile,Bolivia,Chile,90.0
+2016-06-10,France,Romania,Romania,65.0
+2016-06-15,Romania,Switzerland,Romania,18.0
+2016-06-17,Czech Republic,Croatia,Czech Republic,89.0
+2016-06-18,Iceland,Hungary,Iceland,40.0
+2016-06-26,France,Republic of Ireland,Republic of Ireland,2.0
+2016-06-27,England,Iceland,England,4.0
+2016-07-02,Germany,Italy,Italy,78.0
+2016-07-07,France,Germany,France,45.0
+2016-09-01,Ecuador,Brazil,Brazil,72.0
+2016-09-01,Japan,United Arab Emirates,United Arab Emirates,54.0
+2016-09-01,Saudi Arabia,Thailand,Saudi Arabia,84.0
+2016-09-02,El Salvador,Mexico,El Salvador,24.0
+2016-09-02,El Salvador,Mexico,Mexico,73.0
+2016-09-02,Saint Vincent and the Grenadines,United States,United States,43.0
+2016-09-04,Kazakhstan,Poland,Poland,35.0
+2016-09-04,Malta,Scotland,Scotland,61.0
+2016-09-05,Croatia,Turkey,Croatia,44.0
+2016-09-05,Finland,Kosovo,Kosovo,60.0
+2016-09-05,Israel,Italy,Italy,31.0
+2016-09-05,Serbia,Republic of Ireland,Serbia,69.0
+2016-09-05,Wales,Moldova,Wales,90.0
+2016-09-06,Bosnia and Herzegovina,Estonia,Bosnia and Herzegovina,23.0
+2016-09-06,Costa Rica,Panama,Panama,90.0
+2016-09-06,Iraq,Saudi Arabia,Saudi Arabia,81.0
+2016-09-06,Iraq,Saudi Arabia,Saudi Arabia,88.0
+2016-09-06,Peru,Ecuador,Peru,19.0
+2016-09-06,Uruguay,Paraguay,Uruguay,45.0
+2016-10-06,Italy,Spain,Italy,82.0
+2016-10-06,Peru,Argentina,Peru,83.0
+2016-10-06,Korea Republic,Qatar,Qatar,16.0
+2016-10-06,Turkey,Ukraine,Ukraine,24.0
+2016-10-06,Turkey,Ukraine,Turkey,81.0
+2016-10-07,France,Bulgaria,Bulgaria,6.0
+2016-10-08,Armenia,Romania,Romania,4.0
+2016-10-08,Northern Ireland,San Marino,Northern Ireland,26.0
+2016-10-08,Poland,Denmark,Poland,36.0
+2016-10-10,Andorra,Switzerland,Switzerland,19.0
+2016-10-11,Australia,Japan,Australia,52.0
+2016-10-11,Lithuania,Malta,Lithuania,84.0
+2016-10-11,Qatar,Syria,Qatar,37.0
+2016-11-11,Denmark,Kazakhstan,Denmark,36.0
+2016-11-11,Libya,Tunisia,Tunisia,50.0
+2016-11-11,Romania,Poland,Poland,90.0
+2016-11-12,Albania,Israel,Israel,18.0
+2016-11-12,Cameroon,Zambia,Cameroon,45.0
+2016-11-13,Egypt,Ghana,Egypt,42.0
+2016-11-13,Guinea,DR Congo,Guinea,23.0
+2016-11-13,Luxembourg,Netherlands,Luxembourg,44.0
+2016-11-13,Portugal,Latvia,Portugal,28.0
+2016-11-15,Japan,Saudi Arabia,Japan,45.0
+2016-11-15,Thailand,Australia,Australia,9.0
+2016-11-15,Thailand,Australia,Thailand,57.0
+2016-11-15,Thailand,Australia,Australia,65.0
+2017-01-15,Algeria,Zimbabwe,Zimbabwe,29.0
+2017-01-15,Tunisia,Senegal,Senegal,10.0
+2017-01-17,Ghana,Uganda,Ghana,32.0
+2017-01-18,Gabon,Burkina Faso,Gabon,38.0
+2017-01-19,Algeria,Tunisia,Tunisia,66.0
+2017-01-23,Zimbabwe,Tunisia,Tunisia,45.0
+2017-01-29,DR Congo,Ghana,Ghana,78.0
+2017-03-23,Argentina,Chile,Argentina,15.0
+2017-03-23,Paraguay,Ecuador,Ecuador,69.0
+2017-03-23,Syria,Uzbekistan,Syria,90.0
+2017-03-23,Uruguay,Brazil,Uruguay,9.0
+2017-03-24,Georgia,Serbia,Serbia,45.0
+2017-03-24,Italy,Albania,Italy,12.0
+2017-03-24,Kosovo,Iceland,Iceland,35.0
+2017-03-25,Fiji,New Zealand,New Zealand,48.0
+2017-03-25,Luxembourg,France,Luxembourg,34.0
+2017-03-25,Luxembourg,France,France,37.0
+2017-03-25,Sweden,Belarus,Sweden,19.0
+2017-03-26,San Marino,Czech Republic,Czech Republic,77.0
+2017-06-09,Belarus,Bulgaria,Belarus,33.0
+2017-06-09,Netherlands,Luxembourg,Netherlands,84.0
+2017-06-10,Kazakhstan,Denmark,Denmark,51.0
+2017-06-10,Norway,Czech Republic,Norway,55.0
+2017-06-10,Poland,Romania,Poland,29.0
+2017-06-10,Poland,Romania,Poland,62.0
+2017-06-11,New Caledonia,Fiji,New Caledonia,43.0
+2017-06-11,Serbia,Wales,Wales,35.0
+2017-06-13,Papua New Guinea,Solomon Islands,Solomon Islands,33.0
+2017-06-13,Syria,China,Syria,12.0
+2017-06-13,Syria,China,China,68.0
+2017-06-19,Australia,Germany,Germany,44.0
+2017-06-22,Cameroon,Australia,Australia,60.0
+2017-06-24,New Zealand,Portugal,Portugal,33.0
+2017-07-02,Portugal,Mexico,Portugal,104.0
+2017-07-16,Jamaica,El Salvador,Jamaica,63.0
+2017-08-29,United Arab Emirates,Saudi Arabia,Saudi Arabia,20.0
+2017-08-31,Belgium,Gibraltar,Belgium,82.0
+2017-08-31,China,Uzbekistan,China,84.0
+2017-08-31,Portugal,Faroe Islands,Portugal,28.0
+2017-08-31,Thailand,Iraq,Iraq,85.0
+2017-09-01,Cape Verde,South Africa,Cape Verde,38.0
+2017-09-01,Morocco,Mali,Morocco,19.0
+2017-09-01,New Zealand,Solomon Islands,Solomon Islands,53.0
+2017-09-01,Norway,Azerbaijan,Norway,31.0
+2017-09-01,San Marino,Northern Ireland,Northern Ireland,78.0
+2017-09-01,Trinidad and Tobago,Honduras,Trinidad and Tobago,67.0
+2017-09-01,Tunisia,DR Congo,Tunisia,18.0
+2017-09-03,Belarus,Sweden,Sweden,84.0
+2017-09-03,Latvia,Switzerland,Switzerland,58.0
+2017-09-04,Cameroon,Nigeria,Cameroon,74.0
+2017-09-04,Poland,Kazakhstan,Poland,86.0
+2017-09-04,Slovenia,Lithuania,Slovenia,25.0
+2017-09-04,Slovenia,Lithuania,Slovenia,61.0
+2017-09-05,Bolivia,Chile,Bolivia,59.0
+2017-09-05,Ecuador,Peru,Ecuador,79.0
+2017-09-05,North Macedonia,Albania,North Macedonia,78.0
+2017-09-05,Solomon Islands,New Zealand,Solomon Islands,28.0
+2017-09-05,Solomon Islands,New Zealand,Solomon Islands,78.0
+2017-10-05,Azerbaijan,Czech Republic,Azerbaijan,55.0
+2017-10-05,Romania,Kazakhstan,Romania,38.0
+2017-10-05,San Marino,Norway,Norway,14.0
+2017-10-05,Syria,Australia,Syria,85.0
+2017-10-06,United States,Panama,United States,43.0
+2017-10-07,Belarus,Netherlands,Netherlands,84.0
+2017-10-07,Sweden,Luxembourg,Sweden,10.0
+2017-10-07,Sweden,Luxembourg,Sweden,67.0
+2017-10-08,Denmark,Romania,Denmark,59.0
+2017-10-08,Egypt,Congo,Egypt,90.0
+2017-10-08,Lithuania,England,England,27.0
+2017-10-10,Belgium,Cyprus,Belgium,63.0
+2017-11-09,Croatia,Greece,Croatia,13.0
+2017-11-09,Northern Ireland,Switzerland,Switzerland,58.0
+2017-11-11,DR Congo,Guinea,DR Congo,90.0
+2017-11-14,Republic of Ireland,Denmark,Denmark,90.0
+2017-11-15,Australia,Honduras,Australia,72.0
+2017-11-15,Australia,Honduras,Australia,85.0
+2018-06-15,Portugal,Spain,Portugal,4.0
+2018-06-16,Croatia,Nigeria,Croatia,71.0
+2018-06-16,France,Australia,France,58.0
+2018-06-16,France,Australia,Australia,62.0
+2018-06-18,Sweden,Korea Republic,Sweden,65.0
+2018-06-18,Tunisia,England,Tunisia,35.0
+2018-06-19,Colombia,Japan,Japan,6.0
+2018-06-19,Russia,Egypt,Egypt,73.0
+2018-06-21,Denmark,Australia,Australia,38.0
+2018-06-23,Belgium,Tunisia,Belgium,6.0
+2018-06-23,Korea Republic,Mexico,Mexico,26.0
+2018-06-24,England,Panama,England,22.0
+2018-06-24,England,Panama,England,45.0
+2018-06-25,Iran,Portugal,Iran,90.0
+2018-06-25,Saudi Arabia,Egypt,Saudi Arabia,45.0
+2018-06-26,Iceland,Croatia,Iceland,76.0
+2018-06-26,Nigeria,Argentina,Nigeria,51.0
+2018-06-27,Mexico,Sweden,Sweden,62.0
+2018-06-30,France,Argentina,France,13.0
+2018-07-01,Russia,Spain,Russia,41.0
+2018-07-03,Colombia,England,England,57.0
+2018-07-15,France,Croatia,France,38.0
+2018-09-07,Italy,Poland,Italy,78.0
+2018-09-07,Lithuania,Serbia,Serbia,38.0
+2018-09-08,Belarus,San Marino,Belarus,67.0
+2018-09-09,Denmark,Wales,Denmark,63.0
+2018-09-09,Georgia,Latvia,Georgia,77.0
+2018-09-09,North Macedonia,Armenia,North Macedonia,14.0
+2018-09-09,Ukraine,Slovakia,Ukraine,80.0
+2018-09-10,Malta,Azerbaijan,Malta,10.0
+2018-09-10,Montenegro,Lithuania,Montenegro,34.0
+2018-09-10,Serbia,Romania,Romania,48.0
+2018-09-11,Iceland,Belgium,Belgium,29.0
+2018-10-11,Faroe Islands,Azerbaijan,Azerbaijan,86.0
+2018-10-11,Israel,Scotland,Scotland,25.0
+2018-10-11,Montenegro,Serbia,Serbia,18.0
+2018-10-13,Armenia,Gibraltar,Gibraltar,50.0
+2018-10-14,Lithuania,Montenegro,Montenegro,45.0
+2018-10-16,France,Germany,Germany,14.0
+2018-10-16,France,Germany,France,80.0
+2018-11-15,Croatia,Spain,Spain,78.0
+2018-11-16,Cyprus,Bulgaria,Bulgaria,89.0
+2018-11-16,Netherlands,France,Netherlands,90.0
+2018-11-17,Albania,Scotland,Scotland,45.0
+2018-11-17,Turkey,Sweden,Sweden,71.0
+2018-11-18,Moldova,Luxembourg,Moldova,58.0
+2018-11-18,Switzerland,Belgium,Switzerland,26.0
+2018-11-20,Portugal,Poland,Poland,66.0
+2019-01-05,United Arab Emirates,Bahrain,United Arab Emirates,88.0
+2019-01-06,Thailand,India,India,27.0
+2019-01-09,Japan,Turkmenistan,Turkmenistan,79.0
+2019-01-13,Oman,Japan,Japan,28.0
+2019-01-14,India,Bahrain,Bahrain,90.0
+2019-01-15,Australia,Syria,Syria,80.0
+2019-01-16,Korea Republic,China,Korea Republic,14.0
+2019-01-16,Vietnam,Yemen,Vietnam,64.0
+2019-01-17,Lebanon,Korea DPR,Lebanon,80.0
+2019-01-20,Iran,Oman,Iran,41.0
+2019-01-20,Thailand,China,China,71.0
+2019-01-21,United Arab Emirates,Kyrgyzstan,United Arab Emirates,103.0
+2019-01-24,Vietnam,Japan,Japan,57.0
+2019-01-28,Iran,Japan,Japan,67.0
+2019-02-01,Japan,Qatar,Qatar,83.0
+2019-03-21,Belgium,Russia,Belgium,45.0
+2019-03-21,Cyprus,San Marino,Cyprus,19.0
+2019-03-21,Cyprus,San Marino,Cyprus,23.0
+2019-03-21,Netherlands,Belarus,Netherlands,55.0
+2019-03-21,Northern Ireland,Estonia,Northern Ireland,75.0
+2019-03-22,Bulgaria,Montenegro,Bulgaria,82.0
+2019-03-22,England,Czech Republic,England,45.0
+2019-03-23,Bosnia and Herzegovina,Armenia,Armenia,90.0
+2019-03-23,Malta,Faroe Islands,Malta,77.0
+2019-03-23,Spain,Norway,Norway,65.0
+2019-03-23,Spain,Norway,Spain,71.0
+2019-03-25,Portugal,Serbia,Serbia,7.0
+2019-03-26,Bosnia and Herzegovina,Greece,Greece,64.0
+2019-03-26,Italy,Liechtenstein,Italy,35.0
+2019-03-26,Italy,Liechtenstein,Italy,45.0
+2019-03-26,Romania,Faroe Islands,Faroe Islands,40.0
+2019-06-05,Portugal,Switzerland,Switzerland,57.0
+2019-06-06,England,Netherlands,England,32.0
+2019-06-07,Georgia,Gibraltar,Georgia,76.0
+2019-06-08,Russia,San Marino,Russia,31.0
+2019-06-10,Czech Republic,Montenegro,Czech Republic,82.0
+2019-06-10,Denmark,Georgia,Denmark,30.0
+2019-06-10,Latvia,Slovenia,Slovenia,29.0
+2019-06-10,North Macedonia,Austria,Austria,62.0
+2019-06-10,Poland,Israel,Poland,56.0
+2019-06-10,Serbia,Lithuania,Lithuania,71.0
+2019-06-10,Spain,Sweden,Spain,64.0
+2019-06-10,Spain,Sweden,Spain,85.0
+2019-06-11,Brunei,Mongolia,Mongolia,47.0
+2019-06-11,Germany,Estonia,Germany,26.0
+2019-06-11,Pakistan,Cambodia,Pakistan,17.0
+2019-06-14,Brazil,Bolivia,Brazil,50.0
+2019-06-16,Paraguay,Qatar,Paraguay,4.0
+2019-06-18,Bolivia,Peru,Bolivia,28.0
+2019-06-19,Argentina,Paraguay,Argentina,57.0
+2019-06-20,Costa Rica,Bermuda,Bermuda,59.0
+2019-06-20,Uruguay,Japan,Uruguay,32.0
+2019-06-21,Ecuador,Chile,Ecuador,26.0
+2019-06-22,Guinea,Madagascar,Guinea,66.0
+2019-06-22,Guyana,Panama,Guyana,33.0
+2019-06-22,Guyana,Panama,Panama,51.0
+2019-06-22,Guyana,Panama,Guyana,90.0
+2019-06-23,Algeria,Kenya,Algeria,34.0
+2019-06-24,Haiti,Costa Rica,Haiti,57.0
+2019-06-24,Mali,Mauritania,Mali,45.0
+2019-06-24,Mali,Mauritania,Mauritania,72.0
+2019-06-24,Tunisia,Angola,Tunisia,34.0
+2019-06-29,Haiti,Canada,Haiti,70.0
+2019-06-29,Mexico,Costa Rica,Costa Rica,52.0
+2019-06-30,Jamaica,Panama,Jamaica,75.0
+2019-06-30,Zimbabwe,DR Congo,DR Congo,65.0
+2019-07-01,Kenya,Senegal,Senegal,78.0
+2019-07-02,Haiti,Mexico,Mexico,93.0
+2019-07-06,Argentina,Chile,Chile,59.0
+2019-07-07,Brazil,Peru,Peru,44.0
+2019-07-07,Brazil,Peru,Brazil,90.0
+2019-07-14,Algeria,Nigeria,Nigeria,72.0
+2019-09-04,Djibouti,Eswatini,Djibouti,45.0
+2019-09-04,Liberia,Sierra Leone,Liberia,18.0
+2019-09-04,Liberia,Sierra Leone,Liberia,82.0
+2019-09-04,São Tomé and Príncipe,Guinea-Bissau,Guinea-Bissau,85.0
+2019-09-05,Chad,Sudan,Chad,85.0
+2019-09-05,Finland,Greece,Finland,52.0
+2019-09-05,Gibraltar,Denmark,Denmark,34.0
+2019-09-05,Gibraltar,Denmark,Denmark,50.0
+2019-09-05,Norway,Malta,Norway,45.0
+2019-09-05,Philippines,Syria,Syria,48.0
+2019-09-05,Romania,Spain,Spain,29.0
+2019-09-06,Austria,Latvia,Austria,53.0
+2019-09-06,Germany,Netherlands,Germany,73.0
+2019-09-06,San Marino,Belgium,Belgium,43.0
+2019-09-07,England,Bulgaria,England,50.0
+2019-09-07,England,Bulgaria,England,73.0
+2019-09-07,France,Albania,Albania,90.0
+2019-09-08,Finland,Italy,Finland,72.0
+2019-09-08,Finland,Italy,Italy,79.0
+2019-09-09,Azerbaijan,Croatia,Croatia,11.0
+2019-09-10,England,Kosovo,Kosovo,55.0
+2019-09-10,Guam,Philippines,Guam,67.0
+2019-09-10,Indonesia,Thailand,Thailand,65.0
+2019-09-10,Lithuania,Portugal,Portugal,7.0
+2019-09-10,Malawi,Botswana,Malawi,81.0
+2019-09-10,Maldives,China,China,64.0
+2019-09-10,Maldives,China,China,83.0
+2019-09-10,Montenegro,Czech Republic,Czech Republic,90.0
+2019-09-10,Mozambique,Mauritius,Mozambique,77.0
+2019-10-10,Belgium,San Marino,Belgium,84.0
+2019-10-10,Iraq,Hong Kong,Iraq,79.0
+2019-10-10,Kyrgyzstan,Myanmar,Kyrgyzstan,87.0
+2019-10-10,North Macedonia,Slovenia,Slovenia,90.0
+2019-10-10,Oman,Afghanistan,Oman,61.0
+2019-10-10,Korea Republic,Sri Lanka,Korea Republic,45.0
+2019-10-10,United Arab Emirates,Indonesia,United Arab Emirates,63.0
+2019-10-11,Czech Republic,England,England,5.0
+2019-10-11,Iceland,France,France,66.0
+2019-10-12,Bosnia and Herzegovina,Finland,Bosnia and Herzegovina,37.0
+2019-10-12,Italy,Greece,Italy,63.0
+2019-10-12,Malta,Sweden,Sweden,58.0
+2019-10-12,Malta,Sweden,Sweden,71.0
+2019-10-12,Norway,Spain,Norway,90.0
+2019-10-14,Ukraine,Portugal,Portugal,72.0
+2019-10-15,Bahrain,Iran,Bahrain,65.0
+2019-10-15,Indonesia,Vietnam,Vietnam,55.0
+2019-10-15,Jordan,Nepal,Jordan,56.0
+2019-10-15,Mongolia,Kyrgyzstan,Mongolia,57.0
+2019-10-15,Sri Lanka,Lebanon,Lebanon,15.0
+2019-10-15,Sri Lanka,Lebanon,Lebanon,38.0
+2019-11-14,France,Moldova,France,79.0
+2019-11-14,Kyrgyzstan,Japan,Japan,41.0
+2019-11-14,Myanmar,Tajikistan,Tajikistan,36.0
+2019-11-14,Portugal,Lithuania,Portugal,7.0
+2019-11-14,Uzbekistan,Saudi Arabia,Saudi Arabia,23.0
+2019-11-14,Uzbekistan,Saudi Arabia,Uzbekistan,56.0
+2019-11-15,Finland,Liechtenstein,Finland,64.0
+2019-11-17,Andorra,Turkey,Turkey,21.0
+2019-11-17,Serbia,Ukraine,Serbia,9.0
+2019-11-18,Italy,Armenia,Italy,75.0
+2019-11-19,Afghanistan,Qatar,Qatar,76.0
+2020-09-03,Russia,Serbia,Russia,48.0
+2020-09-04,Norway,Austria,Austria,54.0
+2020-09-04,Scotland,Israel,Scotland,45.0
+2020-09-04,Slovakia,Czech Republic,Czech Republic,53.0
+2020-09-05,Azerbaijan,Luxembourg,Luxembourg,72.0
+2020-09-05,Iceland,England,England,90.0
+2020-09-05,North Macedonia,Armenia,North Macedonia,5.0
+2020-09-05,North Macedonia,Armenia,North Macedonia,38.0
+2020-09-05,North Macedonia,Armenia,Armenia,90.0
+2020-09-06,Spain,Ukraine,Spain,3.0
+2020-09-07,Bosnia and Herzegovina,Poland,Bosnia and Herzegovina,24.0
+2020-09-07,Czech Republic,Scotland,Scotland,52.0
+2020-09-08,France,Croatia,France,77.0
+2020-09-08,Georgia,North Macedonia,Georgia,13.0
+2020-09-08,Luxembourg,Montenegro,Montenegro,90.0
+2020-09-08,San Marino,Liechtenstein,Liechtenstein,3.0
+2020-10-08,Argentina,Ecuador,Argentina,13.0
+2020-10-08,Georgia,Belarus,Georgia,7.0
+2020-10-08,Iceland,Romania,Romania,63.0
+2020-10-08,Uruguay,Chile,Uruguay,39.0
+2020-10-10,Ukraine,Germany,Ukraine,77.0
+2020-10-11,Armenia,Georgia,Armenia,89.0
+2020-10-11,England,Belgium,Belgium,16.0
+2020-10-11,England,Belgium,England,39.0
+2020-10-11,Estonia,North Macedonia,Estonia,76.0
+2020-10-11,Greece,Moldova,Greece,45.0
+2020-10-11,Lithuania,Belarus,Belarus,59.0
+2020-10-13,Chile,Colombia,Chile,37.0
+2020-10-13,Ecuador,Uruguay,Uruguay,83.0
+2020-10-13,Ecuador,Uruguay,Uruguay,90.0
+2020-10-13,Peru,Brazil,Brazil,28.0
+2020-10-13,Peru,Brazil,Brazil,83.0
+2020-10-14,England,Denmark,Denmark,35.0
+2020-10-14,Iceland,Belgium,Belgium,38.0
+2020-10-14,Moldova,Slovenia,Slovenia,37.0
+2020-10-14,Moldova,Slovenia,Slovenia,55.0
+2020-10-14,North Macedonia,Georgia,North Macedonia,90.0
+2020-10-14,Turkey,Serbia,Serbia,49.0
+2020-11-12,Argentina,Paraguay,Paraguay,21.0
+2020-11-12,Bolivia,Ecuador,Ecuador,88.0
+2020-11-13,Colombia,Uruguay,Uruguay,54.0
+2020-11-14,Cyprus,Luxembourg,Cyprus,34.0
+2020-11-15,Albania,Kazakhstan,Albania,63.0
+2020-11-15,Bulgaria,Finland,Bulgaria,68.0
+2020-11-15,Denmark,Iceland,Denmark,12.0
+2020-11-15,Denmark,Iceland,Denmark,90.0
+2020-11-15,Georgia,Armenia,Georgia,65.0
+2020-11-15,Italy,Poland,Italy,27.0
+2020-11-15,Slovenia,Kosovo,Slovenia,90.0
+2020-11-15,Turkey,Russia,Turkey,52.0
+2020-11-17,Andorra,Latvia,Latvia,70.0
+2020-11-17,Andorra,Latvia,Latvia,90.0
+2020-11-17,Ecuador,Colombia,Colombia,45.0
+2020-11-17,Paraguay,Bolivia,Paraguay,19.0
+2020-11-18,Albania,Belarus,Albania,27.0
+2020-11-18,Poland,Netherlands,Netherlands,77.0
+2020-12-04,Qatar,Bangladesh,Qatar,72.0
+2021-03-24,Antigua and Barbuda,Montserrat,Montserrat,7.0
+2021-03-24,Belgium,Wales,Belgium,73.0
+2021-03-24,Suriname,Cayman Islands,Suriname,38.0
+2021-03-24,Turkey,Netherlands,Turkey,34.0
+2021-03-25,Spain,Greece,Greece,57.0
+2021-03-27,Anguilla,Dominican Republic,Dominican Republic,22.0
+2021-03-27,Bahamas,Saint Kitts and Nevis,Saint Kitts and Nevis,53.0
+2021-03-27,Belarus,Estonia,Belarus,45.0
+2021-03-27,Montenegro,Gibraltar,Gibraltar,30.0
+2021-03-27,United States Virgin Islands,Antigua and Barbuda,Antigua and Barbuda,34.0
+2021-03-28,Bulgaria,Italy,Italy,43.0
+2021-03-28,Denmark,Moldova,Denmark,19.0
+2021-03-28,Kosovo,Sweden,Sweden,70.0
+2021-03-28,North Macedonia,Liechtenstein,North Macedonia,82.0
+2021-03-28,San Marino,Hungary,Hungary,13.0
+2021-03-28,San Marino,Hungary,Hungary,88.0
+2021-03-28,Ukraine,Finland,Finland,89.0
+2021-03-29,Cayman Islands,Canada,Canada,27.0
+2021-03-30,Azerbaijan,Serbia,Azerbaijan,59.0
+2021-03-30,Croatia,Malta,Croatia,76.0
+2021-03-30,Saudi Arabia,Palestine,Saudi Arabia,88.0
+2021-03-30,Turkey,Latvia,Turkey,52.0
+2021-03-31,Andorra,Hungary,Andorra,90.0
+2021-03-31,Armenia,Romania,Armenia,89.0
+2021-03-31,England,Poland,England,19.0
+2021-03-31,Germany,North Macedonia,Germany,63.0
+2021-03-31,Liechtenstein,Iceland,Iceland,90.0
+2021-03-31,Lithuania,Italy,Italy,90.0
+2021-05-28,Japan,Myanmar,Japan,30.0
+2021-05-30,China,Guam,China,20.0
+2021-06-02,Cayman Islands,Aruba,Cayman Islands,30.0
+2021-06-02,Puerto Rico,Bahamas,Puerto Rico,43.0
+2021-06-03,Argentina,Chile,Argentina,23.0
+2021-06-03,Nepal,Taiwan,Nepal,3.0
+2021-06-03,Palestine,Singapore,Palestine,19.0
+2021-06-03,Palestine,Singapore,Palestine,30.0
+2021-06-04,Brazil,Ecuador,Brazil,90.0
+2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,33.0
+2021-06-04,Guatemala,Saint Vincent and the Grenadines,Guatemala,79.0
+2021-06-04,Maldives,Syria,Syria,33.0
+2021-06-04,Maldives,Syria,Syria,45.0
+2021-06-04,Maldives,Syria,Syria,71.0
+2021-06-04,Saint Kitts and Nevis,Guyana,Saint Kitts and Nevis,9.0
+2021-06-05,Aruba,Canada,Canada,20.0
+2021-06-05,British Virgin Islands,Curaçao,Curaçao,18.0
+2021-06-05,Lebanon,Sri Lanka,Sri Lanka,61.0
+2021-06-05,Panama,Anguilla,Panama,35.0
+2021-06-05,Panama,Anguilla,Panama,83.0
+2021-06-07,Australia,Taiwan,Australia,27.0
+2021-06-07,China,Philippines,China,56.0
+2021-06-07,Iraq,Cambodia,Iraq,27.0
+2021-06-07,Nepal,Jordan,Jordan,23.0
+2021-06-07,Qatar,Oman,Qatar,39.0
+2021-06-08,Canada,Suriname,Canada,77.0
+2021-06-08,Chile,Bolivia,Bolivia,81.0
+2021-06-08,Colombia,Argentina,Colombia,51.0
+2021-06-08,Grenada,Montserrat,Montserrat,87.0
+2021-06-08,Guyana,Puerto Rico,Puerto Rico,25.0
+2021-06-09,Korea Republic,Sri Lanka,Korea Republic,42.0
+2021-06-10,Estonia,Latvia,Latvia,84.0
+2021-06-11,Cambodia,Iran,Iran,16.0
+2021-06-11,Cambodia,Iran,Iran,77.0
+2021-06-11,Malaysia,Vietnam,Malaysia,72.0
+2021-06-11,Malaysia,Vietnam,Vietnam,82.0
+2021-06-11,United Arab Emirates,Indonesia,United Arab Emirates,49.0
+2021-06-11,Yemen,Uzbekistan,Uzbekistan,19.0
+2021-06-12,Saint Kitts and Nevis,El Salvador,El Salvador,64.0
+2021-06-13,Brazil,Venezuela,Brazil,64.0
+2021-06-13,Korea Republic,Lebanon,Korea Republic,65.0
+2021-06-14,Paraguay,Bolivia,Bolivia,10.0
+2021-06-15,Bahrain,Hong Kong,Bahrain,54.0
+2021-06-15,Bahrain,Hong Kong,Bahrain,90.0
+2021-06-15,China,Syria,China,69.0
+2021-06-15,Hungary,Portugal,Portugal,87.0
+2021-06-15,Japan,Kyrgyzstan,Japan,27.0
+2021-06-15,Japan,Kyrgyzstan,Kyrgyzstan,45.0
+2021-06-15,Thailand,Malaysia,Malaysia,52.0
+2021-06-15,United Arab Emirates,Vietnam,United Arab Emirates,40.0
+2021-06-17,Netherlands,Austria,Netherlands,11.0
+2021-06-18,Croatia,Czech Republic,Czech Republic,37.0
+2021-06-18,Sweden,Slovakia,Sweden,77.0
+2021-06-20,Colombia,Peru,Colombia,53.0
+2021-06-21,Denmark,Russia,Russia,70.0
+2021-06-23,Portugal,France,Portugal,31.0
+2021-06-23,Portugal,France,France,45.0
+2021-06-23,Portugal,France,Portugal,60.0
+2021-06-24,Chile,Paraguay,Paraguay,58.0
+2021-06-28,Argentina,Bolivia,Argentina,33.0
+2021-06-28,Uruguay,Paraguay,Uruguay,21.0
+2021-07-02,Belgium,Italy,Belgium,45.0
+2021-07-13,Qatar,Panama,Qatar,63.0
+2021-07-13,Qatar,Panama,Panama,79.0
+2021-07-15,Haiti,Canada,Canada,74.0
+2021-07-15,Haiti,Canada,Canada,79.0
+2021-07-15,United States,Martinique,Martinique,64.0
+2021-07-17,Panama,Honduras,Panama,32.0
+2021-07-24,Qatar,El Salvador,Qatar,55.0
+2021-07-29,Mexico,Canada,Mexico,45.0
+2021-09-01,Egypt,Angola,Egypt,5.0
+2021-09-01,Latvia,Gibraltar,Latvia,50.0
+2021-09-01,Latvia,Gibraltar,Gibraltar,71.0
+2021-09-01,Luxembourg,Azerbaijan,Luxembourg,28.0
+2021-09-02,Algeria,Djibouti,Algeria,25.0
+2021-09-02,Algeria,Djibouti,Algeria,40.0
+2021-09-02,Canada,Honduras,Honduras,40.0
+2021-09-02,Canada,Honduras,Canada,66.0
+2021-09-02,Lithuania,Northern Ireland,Northern Ireland,52.0
+2021-09-02,Lithuania,Northern Ireland,Northern Ireland,82.0
+2021-09-02,Niger,Burkina Faso,Burkina Faso,76.0
+2021-09-02,Saudi Arabia,Vietnam,Saudi Arabia,55.0
+2021-09-02,Saudi Arabia,Vietnam,Saudi Arabia,80.0
+2021-09-02,Venezuela,Argentina,Venezuela,90.0
+2021-09-03,Tunisia,Equatorial Guinea,Tunisia,82.0
+2021-09-04,Latvia,Norway,Norway,20.0
+2021-09-04,Netherlands,Montenegro,Netherlands,38.0
+2021-09-04,Slovenia,Malta,Slovenia,45.0
+2021-09-05,Belarus,Wales,Wales,6.0
+2021-09-05,Belarus,Wales,Belarus,29.0
+2021-09-05,Belarus,Wales,Wales,69.0
+2021-09-05,Costa Rica,Mexico,Mexico,45.0
+2021-09-05,England,Andorra,England,72.0
+2021-09-05,Paraguay,Colombia,Colombia,53.0
+2021-09-05,Uruguay,Bolivia,Uruguay,67.0
+2021-09-05,Uruguay,Bolivia,Bolivia,84.0
+2021-09-06,Djibouti,Niger,Niger,65.0
+2021-09-06,Ivory Coast,Cameroon,Ivory Coast,20.0
+2021-09-06,Ivory Coast,Cameroon,Cameroon,61.0
+2021-09-07,Austria,Scotland,Scotland,30.0
+2021-09-07,Bosnia and Herzegovina,Kazakhstan,Bosnia and Herzegovina,74.0
+2021-09-07,Congo,Senegal,Congo,45.0
+2021-09-07,Congo,Senegal,Senegal,87.0
+2021-09-07,Equatorial Guinea,Mauritania,Equatorial Guinea,59.0
+2021-09-07,Ethiopia,Zimbabwe,Ethiopia,90.0
+2021-09-07,Netherlands,Turkey,Netherlands,38.0
+2021-09-07,Russia,Malta,Russia,84.0
+2021-09-07,Tanzania,Madagascar,Tanzania,2.0
+2021-09-07,Zambia,Tunisia,Tunisia,8.0
+2021-09-08,Armenia,Liechtenstein,Armenia,45.0
+2021-09-08,Hungary,Andorra,Hungary,9.0
+2021-09-09,Colombia,Chile,Colombia,19.0
+2021-10-06,Morocco,Guinea-Bissau,Morocco,45.0
+2021-10-07,Belgium,France,France,69.0
+2021-10-07,DR Congo,Madagascar,DR Congo,78.0
+2021-10-07,Mali,Kenya,Mali,45.0
+2021-10-07,Venezuela,Brazil,Brazil,85.0
+2021-10-08,Algeria,Niger,Algeria,60.0
+2021-10-08,Gibraltar,Montenegro,Montenegro,44.0
+2021-10-08,Liechtenstein,North Macedonia,North Macedonia,66.0
+2021-10-09,Georgia,Greece,Greece,90.0
+2021-10-09,Ghana,Zimbabwe,Zimbabwe,49.0
+2021-10-09,Moldova,Denmark,Denmark,34.0
+2021-10-09,Sweden,Kosovo,Sweden,29.0
+2021-10-10,Costa Rica,El Salvador,Costa Rica,58.0
+2021-10-10,Italy,Belgium,Italy,65.0
+2021-10-10,Venezuela,Ecuador,Ecuador,37.0
+2021-10-11,Iceland,Liechtenstein,Iceland,35.0
+2021-10-11,Iceland,Liechtenstein,Iceland,79.0
+2021-10-11,Ivory Coast,Malawi,Ivory Coast,66.0
+2021-10-11,Latvia,Turkey,Turkey,90.0
+2021-10-11,Netherlands,Gibraltar,Netherlands,45.0
+2021-10-12,England,Hungary,Hungary,24.0
+2021-10-12,Kosovo,Georgia,Kosovo,45.0
+2021-10-12,Oman,Vietnam,Oman,63.0
+2021-10-12,Portugal,Luxembourg,Portugal,8.0
+2021-10-12,Portugal,Luxembourg,Portugal,13.0
+2021-10-12,Serbia,Azerbaijan,Serbia,30.0
+2021-10-12,Serbia,Azerbaijan,Serbia,83.0
+2021-10-12,Sweden,Greece,Sweden,59.0
+2021-10-13,El Salvador,Mexico,Mexico,90.0
+2021-11-11,Armenia,North Macedonia,North Macedonia,67.0
+2021-11-11,Armenia,North Macedonia,North Macedonia,90.0
+2021-11-11,Germany,Liechtenstein,Germany,11.0
+2021-11-11,Greece,Spain,Spain,26.0
+2021-11-11,Iraq,Syria,Iraq,86.0
+2021-11-11,Slovakia,Slovenia,Slovakia,58.0
+2021-11-11,Korea Republic,United Arab Emirates,Korea Republic,36.0
+2021-11-12,Angola,Egypt,Angola,35.0
+2021-11-12,Austria,Israel,Austria,51.0
+2021-11-12,Burkina Faso,Niger,Niger,34.0
+2021-11-12,Burkina Faso,Niger,Burkina Faso,55.0
+2021-11-12,Gabon,Libya,Gabon,54.0
+2021-11-13,France,Kazakhstan,France,84.0
+2021-11-13,Liberia,Nigeria,Nigeria,15.0
+2021-11-13,Liberia,Nigeria,Nigeria,90.0
+2021-11-13,Malawi,Cameroon,Cameroon,22.0
+2021-11-13,Montenegro,Netherlands,Netherlands,25.0
+2021-11-13,Wales,Belarus,Wales,50.0
+2021-11-13,Zambia,Mauritania,Zambia,45.0
+2021-11-14,Armenia,Germany,Germany,45.0
+2021-11-14,Armenia,Germany,Armenia,59.0
+2021-11-14,DR Congo,Benin,DR Congo,10.0
+2021-11-14,Ghana,South Africa,Ghana,33.0
+2021-11-15,Albania,Andorra,Albania,73.0
+2021-11-15,Austria,Moldova,Austria,55.0
+2021-11-15,Israel,Faroe Islands,Israel,30.0
+2021-11-15,Kenya,Rwanda,Kenya,15.0
+2021-11-15,San Marino,England,England,27.0
+2021-11-15,San Marino,England,England,39.0
+2021-11-16,Algeria,Burkina Faso,Burkina Faso,84.0
+2021-11-16,China,Australia,China,71.0
+2021-11-16,Egypt,Gabon,Egypt,4.0
+2021-11-16,Iraq,Korea Republic,Korea Republic,74.0
+2021-11-16,Lebanon,United Arab Emirates,United Arab Emirates,85.0
+2021-11-16,Libya,Angola,Libya,49.0
+2021-11-16,Morocco,Guinea,Morocco,21.0
+2021-11-16,Syria,Iran,Iran,42.0
+2022-01-09,Cameroon,Burkina Faso,Cameroon,40.0
+2022-01-09,Cameroon,Burkina Faso,Cameroon,45.0
+2022-01-10,Senegal,Zimbabwe,Senegal,90.0
+2022-01-12,Tunisia,Mali,Mali,48.0
+2022-01-15,Nigeria,Sudan,Sudan,70.0
+2022-01-16,Gambia,Mali,Mali,79.0
+2022-01-16,Gambia,Mali,Gambia,90.0
+2022-01-17,Burkina Faso,Ethiopia,Ethiopia,52.0
+2022-01-18,Gabon,Morocco,Morocco,74.0
+2022-01-20,Mali,Mauritania,Mali,49.0
+2022-01-27,Japan,China,Japan,13.0
+2022-01-30,Egypt,Morocco,Morocco,7.0
+2022-01-30,Panama,Jamaica,Jamaica,5.0
+2022-02-01,Oman,Australia,Australia,15.0
+2022-02-01,Oman,Australia,Oman,89.0
+2022-02-01,Uruguay,Venezuela,Uruguay,53.0
+2022-02-02,Mexico,Panama,Mexico,80.0
+2022-03-21,New Zealand,Fiji,New Zealand,90.0
+2022-03-24,Brazil,Chile,Brazil,44.0
+2022-03-24,Brazil,Chile,Brazil,72.0
+2022-03-24,China,Saudi Arabia,China,82.0
+2022-03-24,Lebanon,Syria,Syria,38.0
+2022-03-24,New Zealand,New Caledonia,New Zealand,36.0
+2022-03-24,Paraguay,Ecuador,Ecuador,85.0
+2022-03-27,United States,Panama,United States,17.0
+2022-03-27,United States,Panama,United States,45.0
+2022-03-29,Nigeria,Ghana,Nigeria,22.0
+2022-03-29,Poland,Sweden,Poland,49.0
+2022-03-29,Saudi Arabia,Australia,Saudi Arabia,65.0
+2022-03-29,Venezuela,Colombia,Colombia,45.0
+2022-03-30,Jamaica,Honduras,Honduras,18.0
+2022-03-30,Jamaica,Honduras,Jamaica,39.0
+2022-03-30,Mexico,El Salvador,Mexico,43.0
+2022-06-02,Slovenia,Sweden,Sweden,39.0
+2022-06-03,Latvia,Andorra,Latvia,85.0
+2022-06-03,Liechtenstein,Moldova,Moldova,5.0
+2022-06-04,Finland,Bosnia and Herzegovina,Finland,45.0
+2022-06-04,Hungary,England,Hungary,66.0
+2022-06-05,Bulgaria,Georgia,Georgia,58.0
+2022-06-05,Sweden,Norway,Norway,20.0
+2022-06-06,Croatia,France,Croatia,83.0
+2022-06-07,Faroe Islands,Luxembourg,Luxembourg,74.0
+2022-06-07,Germany,England,England,88.0
+2022-06-07,Lithuania,Turkey,Turkey,56.0
+2022-06-09,Gibraltar,Bulgaria,Gibraltar,61.0
+2022-06-09,Kosovo,Northern Ireland,Kosovo,9.0
+2022-06-10,Albania,Israel,Albania,45.0
+2022-06-10,Andorra,Liechtenstein,Andorra,78.0
+2022-06-10,Moldova,Latvia,Moldova,5.0
+2022-06-11,Faroe Islands,Lithuania,Faroe Islands,20.0
+2022-06-11,Luxembourg,Turkey,Turkey,37.0
+2022-06-12,Norway,Sweden,Norway,54.0
+2022-06-13,France,Croatia,Croatia,5.0
+2022-06-14,Bosnia and Herzegovina,Finland,Bosnia and Herzegovina,5.0
+2022-06-14,Germany,Italy,Germany,45.0
+2022-06-14,Luxembourg,Faroe Islands,Luxembourg,12.0
+2022-06-14,Moldova,Andorra,Moldova,26.0
+2022-06-14,Moldova,Andorra,Moldova,50.0
+2022-06-14,Netherlands,Wales,Wales,90.0
+2022-06-14,Turkey,Lithuania,Turkey,54.0
+2022-09-22,Slovakia,Azerbaijan,Slovakia,90.0
+2022-09-22,Turkey,Luxembourg,Turkey,16.0
+2022-09-23,Estonia,Malta,Estonia,45.0
+2022-09-23,Estonia,Malta,Malta,51.0
+2022-09-24,Scotland,Republic of Ireland,Scotland,82.0
+2022-09-26,England,Germany,Germany,52.0
+2022-09-26,England,Germany,England,83.0
+2022-09-26,Gibraltar,Georgia,Georgia,19.0
+2022-09-27,Republic of Ireland,Armenia,Republic of Ireland,90.0
+2022-11-19,Latvia,Iceland,Iceland,62.0
+2022-11-20,Qatar,Ecuador,Ecuador,16.0
+2022-11-21,England,Iran,Iran,90.0
+2022-11-21,United States,Wales,Wales,82.0
+2022-11-22,Argentina,Saudi Arabia,Argentina,10.0
+2022-11-23,Germany,Japan,Germany,33.0
+2022-11-23,Spain,Costa Rica,Spain,31.0
+2022-11-24,Portugal,Ghana,Portugal,65.0
+2022-11-28,Portugal,Uruguay,Portugal,90.0
+2022-11-29,Ecuador,Senegal,Senegal,44.0
+2022-12-04,France,Poland,Poland,90.0
+2022-12-05,Brazil,Korea Republic,Brazil,13.0
+2022-12-09,Netherlands,Argentina,Argentina,73.0
+2022-12-10,England,France,England,54.0
+2022-12-13,Argentina,Croatia,Argentina,34.0
+2022-12-18,Argentina,France,Argentina,23.0
+2022-12-18,Argentina,France,France,80.0
+2022-12-18,Argentina,France,France,118.0
+2023-03-23,Italy,England,England,44.0
+2023-03-23,Portugal,Liechtenstein,Portugal,51.0
+2023-03-24,Moldova,Faroe Islands,Moldova,87.0
+2023-03-26,Kazakhstan,Denmark,Kazakhstan,73.0
+2023-03-26,Liechtenstein,Iceland,Iceland,73.0
+2023-06-14,Netherlands,Croatia,Croatia,55.0
+2023-06-14,Netherlands,Croatia,Croatia,116.0
+2023-06-15,Spain,Italy,Italy,11.0
+2023-06-16,Belarus,Israel,Israel,85.0
+2023-06-16,Gibraltar,France,France,45.0
+2023-06-16,Greece,Republic of Ireland,Greece,15.0
+2023-06-16,Malta,England,England,31.0
+2023-06-16,Malta,England,England,83.0
+2023-06-16,North Macedonia,Ukraine,North Macedonia,31.0
+2023-06-16,San Marino,Kazakhstan,Kazakhstan,64.0
+2023-06-17,Cyprus,Georgia,Cyprus,39.0
+2023-06-17,Iceland,Slovakia,Iceland,41.0
+2023-06-17,Norway,Scotland,Norway,61.0
+2023-06-19,Armenia,Latvia,Armenia,90.0
+2023-06-19,Belarus,Kosovo,Kosovo,87.0
+2023-06-19,England,North Macedonia,England,73.0
+2023-06-19,France,Greece,France,55.0
+2023-06-19,Ukraine,Malta,Ukraine,72.0
+2023-06-20,Norway,Cyprus,Norway,56.0
+2023-06-25,Haiti,Qatar,Haiti,45.0
+2023-06-26,El Salvador,Martinique,El Salvador,90.0
+2023-07-01,Cuba,Guadeloupe,Cuba,62.0
+2023-07-02,United States,Trinidad and Tobago,United States,45.0
+2023-07-04,Canada,Cuba,Canada,21.0
+2023-07-04,Canada,Cuba,Cuba,45.0
+2023-07-04,Canada,Cuba,Cuba,89.0
+2023-07-04,Costa Rica,Martinique,Costa Rica,59.0
+2023-07-04,Costa Rica,Martinique,Martinique,75.0
+2023-07-04,Guadeloupe,Guatemala,Guadeloupe,63.0
+2023-07-08,Mexico,Costa Rica,Mexico,52.0
+2023-07-09,United States,Canada,Canada,90.0
+2023-09-07,Poland,Faroe Islands,Poland,73.0
+2023-09-08,Luxembourg,Iceland,Luxembourg,9.0
+2023-09-10,Republic of Ireland,Netherlands,Republic of Ireland,5.0
+2023-09-10,Republic of Ireland,Netherlands,Netherlands,19.0
+2023-09-11,Latvia,Wales,Wales,29.0
+2023-09-12,Sweden,Austria,Austria,69.0
+2023-09-12,Switzerland,Andorra,Switzerland,90.0
+2023-09-12,Venezuela,Paraguay,Venezuela,90.0
+2023-10-12,Colombia,Uruguay,Uruguay,90.0
+2023-10-12,Indonesia,Brunei,Indonesia,63.0
+2023-10-13,Austria,Belgium,Austria,84.0
+2023-10-13,Estonia,Azerbaijan,Azerbaijan,45.0
+2023-10-13,Portugal,Slovakia,Portugal,29.0
+2023-10-14,Slovenia,Finland,Slovenia,16.0
+2023-10-15,Czech Republic,Faroe Islands,Czech Republic,76.0
+2023-10-15,Georgia,Cyprus,Georgia,90.0
+2023-10-15,Romania,Andorra,Romania,44.0
+2023-10-16,Azerbaijan,Austria,Austria,48.0
+2023-10-16,Belgium,Sweden,Belgium,31.0
+2023-10-16,Bosnia and Herzegovina,Portugal,Portugal,5.0
+2023-10-16,Greece,Netherlands,Netherlands,90.0
+2023-10-16,Iceland,Liechtenstein,Iceland,22.0
+2023-10-17,Brunei,Indonesia,Indonesia,47.0
+2023-10-17,England,Italy,England,32.0
+2023-10-17,Finland,Kazakhstan,Kazakhstan,77.0
+2023-10-17,Lithuania,Hungary,Hungary,67.0
+2023-10-17,Malta,Ukraine,Ukraine,43.0
+2023-11-16,Bulgaria,Hungary,Bulgaria,78.0
+2023-11-16,Burundi,Gambia,Gambia,90.0
+2023-11-16,Egypt,Djibouti,Egypt,22.0
+2023-11-16,Luxembourg,Bosnia and Herzegovina,Luxembourg,30.0
+2023-11-16,Qatar,Afghanistan,Qatar,33.0
+2023-11-16,Qatar,Afghanistan,Qatar,45.0
+2023-11-16,Qatar,Afghanistan,Qatar,53.0
+2023-11-16,Saudi Arabia,Pakistan,Saudi Arabia,48.0
+2023-11-16,Slovakia,Iceland,Slovakia,36.0
+2023-11-16,Korea Republic,Singapore,Korea Republic,68.0
+2023-11-16,Sudan,Togo,Sudan,17.0
+2023-11-16,Syria,Korea DPR,Syria,37.0
+2023-11-16,United Arab Emirates,Nepal,United Arab Emirates,36.0
+2023-11-17,Finland,Northern Ireland,Finland,42.0
+2023-11-17,Ivory Coast,Seychelles,Ivory Coast,20.0
+2023-11-17,Ivory Coast,Seychelles,Ivory Coast,40.0
+2023-11-17,Ivory Coast,Seychelles,Ivory Coast,84.0
+2023-11-17,Kazakhstan,San Marino,Kazakhstan,90.0
+2023-11-17,Moldova,Albania,Albania,25.0
+2023-11-18,France,Gibraltar,France,30.0
+2023-11-18,Senegal,South Sudan,Senegal,56.0
+2023-11-20,San Marino,Finland,San Marino,90.0
+2023-11-20,Slovenia,Kazakhstan,Slovenia,41.0
+2023-11-21,Afghanistan,Kuwait,Kuwait,18.0
+2023-11-21,Bahrain,United Arab Emirates,United Arab Emirates,90.0
+2023-11-21,China,Korea Republic,Korea Republic,11.0
+2023-11-21,Ethiopia,Burkina Faso,Burkina Faso,78.0
+2023-11-21,Libya,Cameroon,Cameroon,34.0
+2023-11-21,Malawi,Tunisia,Tunisia,87.0
+2023-11-21,Myanmar,Korea DPR,Korea DPR,34.0
+2023-11-21,Paraguay,Colombia,Colombia,11.0
+2023-11-21,Wales,Turkey,Turkey,70.0
+2024-01-14,Egypt,Mozambique,Egypt,90.0
+2024-01-14,United Arab Emirates,Hong Kong,United Arab Emirates,34.0
+2024-01-14,United Arab Emirates,Hong Kong,United Arab Emirates,90.0
+2024-01-15,Algeria,Angola,Angola,68.0
+2024-01-15,Malaysia,Jordan,Jordan,18.0
+2024-01-16,Burkina Faso,Mauritania,Burkina Faso,90.0
+2024-01-16,Saudi Arabia,Oman,Oman,14.0
+2024-01-18,Ivory Coast,Nigeria,Nigeria,55.0
+2024-01-19,Vietnam,Indonesia,Indonesia,42.0
+2024-01-20,Algeria,Burkina Faso,Burkina Faso,71.0
+2024-01-20,Jordan,Korea Republic,Korea Republic,9.0
+2024-01-21,South Africa,Namibia,South Africa,14.0
+2024-01-22,Mozambique,Ghana,Ghana,15.0
+2024-01-22,Mozambique,Ghana,Ghana,70.0
+2024-01-22,Mozambique,Ghana,Mozambique,90.0
+2024-01-23,Australia,Uzbekistan,Australia,45.0
+2024-01-24,Iraq,Vietnam,Iraq,90.0
+2024-01-24,Japan,Indonesia,Japan,6.0
+2024-01-25,Korea Republic,Malaysia,Malaysia,62.0
+2024-01-25,Korea Republic,Malaysia,Korea Republic,90.0
+2024-01-28,Egypt,DR Congo,Egypt,45.0
+2024-01-29,Cape Verde,Mauritania,Cape Verde,88.0
+2024-01-29,Ivory Coast,Senegal,Ivory Coast,86.0
+2024-01-29,Qatar,Palestine,Qatar,49.0
+2024-01-30,Mali,Burkina Faso,Burkina Faso,57.0
+2024-01-31,Iran,Syria,Iran,34.0
+2024-01-31,Iran,Syria,Syria,64.0
+2024-02-02,Australia,Korea Republic,Korea Republic,90.0
+2024-02-02,DR Congo,Guinea,Guinea,21.0
+2024-02-02,DR Congo,Guinea,DR Congo,65.0
+2024-02-03,Iran,Japan,Iran,90.0
+2024-02-07,Nigeria,South Africa,Nigeria,67.0
+2024-02-07,Nigeria,South Africa,South Africa,90.0
+2024-02-07,Qatar,Iran,Iran,51.0
+2024-02-10,Qatar,Jordan,Qatar,22.0
+2024-02-10,Qatar,Jordan,Qatar,73.0
+2024-02-10,Qatar,Jordan,Qatar,90.0
+2024-03-21,Greece,Kazakhstan,Greece,9.0
+2024-03-21,Israel,Iceland,Israel,31.0
+2024-03-21,Pakistan,Jordan,Jordan,9.0
+2024-03-21,Taiwan,Kyrgyzstan,Kyrgyzstan,54.0
+2024-03-21,United Arab Emirates,Yemen,United Arab Emirates,24.0
+2024-03-26,Bahrain,Nepal,Bahrain,18.0
+2024-03-26,China,Singapore,China,65.0
+2024-03-26,India,Afghanistan,India,38.0
+2024-03-26,India,Afghanistan,Afghanistan,88.0
+2024-03-26,Jordan,Pakistan,Jordan,28.0
+2024-03-26,Kyrgyzstan,Taiwan,Taiwan,87.0
+2024-03-26,Malaysia,Oman,Oman,45.0
+2024-03-26,Philippines,Iraq,Iraq,14.0
+2024-03-26,Syria,Myanmar,Syria,63.0
+2024-03-26,Turks and Caicos Islands,Anguilla,Anguilla,45.0
+2024-06-05,Curaçao,Barbados,Curaçao,86.0
+2024-06-05,Curaçao,Barbados,Barbados,90.0
+2024-06-05,Sierra Leone,Djibouti,Djibouti,35.0
+2024-06-05,Suriname,Saint Vincent and the Grenadines,Suriname,39.0
+2024-06-05,Trinidad and Tobago,Grenada,Grenada,24.0
+2024-06-05,Tunisia,Equatorial Guinea,Tunisia,82.0
+2024-06-06,Hong Kong,Iran,Iran,12.0
+2024-06-06,Hong Kong,Iran,Iran,34.0
+2024-06-06,Indonesia,Iraq,Iraq,54.0
+2024-06-06,Libya,Mauritius,Libya,20.0
+2024-06-07,Morocco,Zambia,Morocco,6.0
+2024-06-08,Bahamas,Trinidad and Tobago,Trinidad and Tobago,14.0
+2024-06-08,British Virgin Islands,Guatemala,Guatemala,47.0
+2024-06-08,Cameroon,Cape Verde,Cameroon,44.0
+2024-06-08,Gambia,Seychelles,Gambia,52.0
+2024-06-09,Dominica,Jamaica,Jamaica,80.0
+2024-06-10,Burkina Faso,Sierra Leone,Burkina Faso,45.0
+2024-06-10,Ghana,Central African Republic,Ghana,6.0
+2024-06-10,Guinea,Mozambique,Mozambique,90.0
+2024-06-10,Somalia,Botswana,Botswana,72.0
+2024-06-11,Australia,Palestine,Australia,5.0
+2024-06-11,Australia,Palestine,Australia,87.0
+2024-06-11,Dominican Republic,British Virgin Islands,Dominican Republic,15.0
+2024-06-11,Japan,Syria,Japan,73.0
+2024-06-11,Lebanon,Bangladesh,Lebanon,5.0
+2024-06-11,Korea DPR,Myanmar,Korea DPR,87.0
+2024-06-11,Puerto Rico,Anguilla,Puerto Rico,20.0
+2024-06-11,Saint Lucia,Aruba,Aruba,43.0
+2024-06-11,Yemen,Nepal,Yemen,9.0
+2024-06-14,Germany,Scotland,Germany,45.0
+2024-06-19,Fiji,Samoa,Fiji,45.0
+2024-06-19,Fiji,Samoa,Fiji,53.0
+2024-06-21,Poland,Austria,Austria,78.0
+2024-06-22,Fiji,Tahiti,Fiji,26.0
+2024-06-22,Georgia,Czech Republic,Georgia,45.0
+2024-06-25,France,Poland,France,56.0
+2024-06-25,France,Poland,Poland,79.0
+2024-06-26,Ecuador,Jamaica,Ecuador,45.0
+2024-06-26,Georgia,Portugal,Georgia,57.0
+2024-06-26,Slovakia,Romania,Romania,37.0
+2024-06-26,Venezuela,Mexico,Venezuela,57.0
+2024-06-28,Colombia,Costa Rica,Colombia,31.0
+2024-06-28,Paraguay,Brazil,Brazil,65.0
+2024-06-29,Germany,Denmark,Germany,53.0
+2024-07-06,Colombia,Panama,Colombia,15.0
+2024-07-06,Colombia,Panama,Colombia,90.0
+2024-07-10,Netherlands,England,England,18.0
+2024-09-05,Azerbaijan,Sweden,Sweden,80.0
+2024-09-05,Bolivia,Venezuela,Bolivia,45.0
+2024-09-05,Jordan,Kuwait,Kuwait,90.0
+2024-09-05,Scotland,Poland,Poland,44.0
+2024-09-05,Scotland,Poland,Poland,90.0
+2024-09-06,Belgium,Israel,Belgium,52.0
+2024-09-06,Cook Islands,Tonga,Tonga,39.0
+2024-09-06,Kosovo,Romania,Romania,51.0
+2024-09-06,Samoa,American Samoa,Samoa,59.0
+2024-09-06,Slovenia,Austria,Slovenia,16.0
+2024-09-07,Faroe Islands,North Macedonia,Faroe Islands,9.0
+2024-09-07,Faroe Islands,North Macedonia,North Macedonia,49.0
+2024-09-07,Georgia,Czech Republic,Georgia,33.0
+2024-09-07,Germany,Hungary,Germany,81.0
+2024-09-07,Moldova,Malta,Moldova,45.0
+2024-09-08,Gibraltar,Liechtenstein,Liechtenstein,90.0
+2024-09-08,Slovakia,Azerbaijan,Slovakia,22.0
+2024-09-09,Cyprus,Kosovo,Kosovo,9.0
+2024-09-09,Romania,Lithuania,Romania,87.0
+2024-09-10,Bahrain,Japan,Japan,37.0
+2024-09-10,Colombia,Argentina,Colombia,60.0
+2024-09-10,Czech Republic,Ukraine,Czech Republic,80.0
+2024-09-10,Korea DPR,Qatar,Qatar,31.0
+2024-10-10,Papua New Guinea,New Caledonia,New Caledonia,20.0
+2024-10-11,Estonia,Azerbaijan,Azerbaijan,45.0
+2024-10-12,Cyprus,Romania,Romania,25.0
+2024-10-13,Austria,Norway,Austria,49.0
+2024-10-13,Malta,Moldova,Malta,87.0
+2024-10-14,Belgium,France,France,35.0
+2024-10-14,Bosnia and Herzegovina,Hungary,Hungary,50.0
+2024-10-14,Iceland,Turkey,Turkey,67.0
+2024-10-14,Italy,Israel,Italy,41.0
+2024-10-14,Ukraine,Czech Republic,Ukraine,52.0
+2024-10-14,Wales,Montenegro,Wales,36.0
+2024-10-15,Belarus,Luxembourg,Luxembourg,78.0
+2024-10-15,Brazil,Peru,Brazil,38.0
+2024-10-15,Brazil,Peru,Brazil,54.0
+2024-10-15,Jordan,Oman,Jordan,49.0
+2024-10-15,Lithuania,Romania,Lithuania,7.0
+2024-10-15,Lithuania,Romania,Romania,18.0
+2024-10-15,Palestine,Kuwait,Kuwait,31.0
+2024-10-15,Palestine,Kuwait,Palestine,41.0
+2024-10-15,Switzerland,Denmark,Switzerland,45.0
+2024-10-15,Uzbekistan,United Arab Emirates,Uzbekistan,76.0
+2024-11-14,Armenia,Faroe Islands,Faroe Islands,33.0
+2024-11-14,Ecuador,Bolivia,Ecuador,26.0
+2024-11-14,Kuwait,Korea Republic,Korea Republic,19.0
+2024-11-14,Papua New Guinea,Fiji,Fiji,54.0
+2024-11-14,Slovenia,Norway,Slovenia,21.0
+2024-11-14,Solomon Islands,New Caledonia,New Caledonia,6.0
+2024-11-14,Solomon Islands,New Caledonia,New Caledonia,59.0
+2024-11-15,Northern Ireland,Belarus,Northern Ireland,63.0
+2024-11-15,Portugal,Poland,Portugal,72.0
+2024-11-15,San Marino,Gibraltar,Gibraltar,11.0
+2024-11-15,San Marino,Gibraltar,San Marino,90.0
+2024-11-16,Netherlands,Hungary,Netherlands,21.0
+2024-11-16,Netherlands,Hungary,Netherlands,45.0
+2024-11-17,England,Republic of Ireland,England,53.0
+2024-11-17,Fiji,New Caledonia,Fiji,45.0
+2024-11-18,Liechtenstein,San Marino,San Marino,66.0
+2024-11-18,New Zealand,Samoa,New Zealand,90.0
+2024-11-18,Spain,Switzerland,Switzerland,85.0
+2024-11-18,Spain,Switzerland,Spain,90.0
+2024-11-18,Tahiti,Vanuatu,Tahiti,67.0
+2024-11-19,Albania,Ukraine,Albania,75.0
+2024-11-19,Bolivia,Paraguay,Bolivia,80.0
+2024-11-19,Hungary,Germany,Hungary,90.0
+2024-11-19,Kyrgyzstan,Iran,Kyrgyzstan,64.0
+2024-11-19,United Arab Emirates,Qatar,United Arab Emirates,45.0
+2024-11-19,United Arab Emirates,Qatar,United Arab Emirates,56.0
+2025-03-20,Australia,Indonesia,Australia,18.0
+2025-03-20,Brazil,Colombia,Brazil,6.0
+2025-03-20,Gambia,Kenya,Kenya,69.0
+2025-03-20,Greece,Scotland,Scotland,33.0
+2025-03-20,Peru,Bolivia,Bolivia,58.0
+2025-03-21,Burkina Faso,Djibouti,Djibouti,88.0
+2025-03-21,Ghana,Chad,Ghana,36.0
+2025-03-22,Wales,Kazakhstan,Kazakhstan,32.0
+2025-03-23,Germany,Italy,Germany,30.0
+2025-03-23,Germany,Italy,Italy,90.0
+2025-03-23,Hungary,Turkey,Turkey,37.0
+2025-03-23,Kenya,Gabon,Gabon,52.0
+2025-03-23,Spain,Netherlands,Spain,8.0
+2025-03-23,Spain,Netherlands,Netherlands,54.0
+2025-03-23,Spain,Netherlands,Netherlands,109.0
+2025-03-24,Ethiopia,Djibouti,Ethiopia,58.0
+2025-03-24,Ethiopia,Djibouti,Ethiopia,70.0
+2025-03-24,Lithuania,Finland,Finland,17.0
+2025-03-24,San Marino,Romania,Romania,55.0
+2025-03-24,San Marino,Romania,Romania,75.0
+2025-03-24,Tunisia,Malawi,Tunisia,90.0
+2025-03-25,Cameroon,Libya,Cameroon,27.0
+2025-03-25,Morocco,Tanzania,Morocco,58.0
+2025-03-25,Venezuela,Peru,Venezuela,41.0
+2025-06-04,Barbados,Aruba,Barbados,7.0
+2025-06-04,Bermuda,Cayman Islands,Bermuda,12.0
+2025-06-04,Saint Vincent and the Grenadines,Anguilla,Saint Vincent and the Grenadines,25.0
+2025-06-05,Indonesia,China,Indonesia,45.0
+2025-06-05,Kuwait,Palestine,Palestine,88.0
+2025-06-05,Oman,Jordan,Jordan,45.0
+2025-06-05,Paraguay,Uruguay,Paraguay,81.0
+2025-06-05,Spain,France,Spain,54.0
+2025-06-05,Spain,France,France,59.0
+2025-06-06,Estonia,Israel,Israel,89.0
+2025-06-06,Trinidad and Tobago,Saint Kitts and Nevis,Trinidad and Tobago,48.0
+2025-06-09,Belgium,Wales,Belgium,15.0
+2025-06-09,Belgium,Wales,Wales,45.0
+2025-06-09,Croatia,Czech Republic,Croatia,62.0
+2025-06-09,Croatia,Czech Republic,Croatia,72.0
+2025-06-10,China,Bahrain,China,90.0
+2025-06-10,Finland,Poland,Finland,31.0
+2025-06-10,Netherlands,Malta,Netherlands,9.0
+2025-06-10,Palestine,Oman,Oman,90.0
+2025-06-10,Saint Lucia,Barbados,Saint Lucia,42.0
+2025-06-10,Saint Lucia,Barbados,Saint Lucia,90.0
+2025-06-10,Serbia,Andorra,Serbia,53.0
+2025-06-15,Costa Rica,Suriname,Costa Rica,19.0
+2025-06-15,Costa Rica,Suriname,Suriname,64.0
+2025-06-15,Costa Rica,Suriname,Costa Rica,90.0
+2025-06-15,Haiti,Saudi Arabia,Saudi Arabia,21.0
+2025-06-16,Panama,Guadeloupe,Panama,22.0
+2025-06-16,Panama,Guadeloupe,Guadeloupe,71.0
+2025-06-18,Costa Rica,Dominican Republic,Costa Rica,44.0
+2025-06-24,Guadeloupe,Guatemala,Guatemala,13.0
+2025-06-24,Guadeloupe,Guatemala,Guadeloupe,50.0
+2025-06-24,Panama,Jamaica,Panama,45.0
+2025-06-28,Panama,Honduras,Panama,45.0
+2025-06-29,Canada,Guatemala,Canada,30.0
+2025-06-29,United States,Costa Rica,Costa Rica,12.0
+2025-09-04,Liechtenstein,Belgium,Belgium,70.0
+2025-09-04,Lithuania,Malta,Lithuania,90.0
+2025-09-04,Mali,Comoros,Mali,70.0
+2025-09-04,São Tomé and Príncipe,Equatorial Guinea,São Tomé and Príncipe,8.0
+2025-09-04,São Tomé and Príncipe,Equatorial Guinea,São Tomé and Príncipe,42.0
+2025-09-05,Djibouti,Burkina Faso,Burkina Faso,86.0
+2025-09-05,Egypt,Ethiopia,Egypt,41.0
+2025-09-05,Egypt,Ethiopia,Egypt,45.0
+2025-09-05,Greece,Belarus,Belarus,72.0
+2025-09-05,Nicaragua,Costa Rica,Nicaragua,80.0
+2025-09-06,Austria,Cyprus,Austria,54.0
+2025-09-08,Uganda,Somalia,Uganda,6.0
+2025-09-09,Albania,Latvia,Albania,25.0
+2025-09-09,Armenia,Republic of Ireland,Armenia,45.0
+2025-09-09,Azerbaijan,Ukraine,Azerbaijan,72.0
+2025-09-09,Bolivia,Brazil,Bolivia,45.0
+2025-09-09,Ecuador,Argentina,Ecuador,45.0
+2025-09-09,France,Iceland,France,45.0
+2025-09-09,Gambia,Burundi,Gambia,34.0
+2025-09-09,Hungary,Portugal,Portugal,58.0
+2025-09-09,Kenya,Seychelles,Kenya,45.0
+2025-09-09,Norway,Moldova,Norway,78.0
+2025-09-09,Serbia,England,England,90.0
+2025-10-08,Saudi Arabia,Indonesia,Indonesia,11.0
+2025-10-08,Saudi Arabia,Indonesia,Saudi Arabia,36.0
+2025-10-08,Saudi Arabia,Indonesia,Indonesia,88.0
+2025-10-09,Cyprus,Bosnia and Herzegovina,Cyprus,90.0
+2025-10-09,Faroe Islands,Montenegro,Faroe Islands,72.0
+2025-10-09,Liberia,Namibia,Liberia,3.0
+2025-10-09,Malta,Netherlands,Netherlands,12.0
+2025-10-09,Malta,Netherlands,Netherlands,49.0
+2025-10-10,Germany,Luxembourg,Germany,21.0
+2025-10-10,Lesotho,Nigeria,Nigeria,55.0
+2025-10-10,Seychelles,Ivory Coast,Ivory Coast,7.0
+2025-10-10,South Sudan,Senegal,Senegal,60.0
+2025-10-10,Sweden,Switzerland,Switzerland,65.0
+2025-10-10,Tunisia,São Tomé and Príncipe,Tunisia,68.0
+2025-10-11,Latvia,Andorra,Latvia,55.0
+2025-10-12,Netherlands,Finland,Netherlands,38.0
+2025-10-12,San Marino,Cyprus,Cyprus,67.0
+2025-10-13,São Tomé and Príncipe,Malawi,São Tomé and Príncipe,62.0
+2025-10-13,Tunisia,Namibia,Tunisia,28.0
+2025-10-13,Wales,Belgium,Belgium,18.0
+2025-10-13,Wales,Belgium,Belgium,76.0
+2025-10-14,Algeria,Uganda,Algeria,81.0
+2025-10-14,Algeria,Uganda,Algeria,90.0
+2025-10-14,Andorra,Serbia,Serbia,77.0
+2025-10-14,Italy,Israel,Italy,45.0
+2025-10-14,Latvia,England,England,45.0
+2025-10-14,Spain,Bulgaria,Spain,90.0
+2025-11-13,Bermuda,Curaçao,Curaçao,6.0
+2025-11-13,Bermuda,Curaçao,Curaçao,48.0
+2025-11-13,France,Ukraine,France,55.0
+2025-11-13,Suriname,El Salvador,Suriname,44.0
+2025-11-14,Gibraltar,Montenegro,Montenegro,42.0
+2025-11-15,Cyprus,Austria,Austria,18.0
+2025-11-15,Georgia,Spain,Spain,11.0
+2025-11-15,Switzerland,Sweden,Switzerland,60.0
+2025-11-15,Turkey,Bulgaria,Turkey,18.0
+2025-11-16,Hungary,Republic of Ireland,Republic of Ireland,15.0
+2025-11-16,Moldova,Israel,Israel,21.0
+2025-11-16,Portugal,Armenia,Portugal,45.0
+2025-11-16,Portugal,Armenia,Portugal,72.0
+2025-11-17,Malta,Poland,Malta,68.0
+2025-11-17,Montenegro,Croatia,Croatia,37.0
+2025-11-17,Netherlands,Lithuania,Netherlands,58.0
+2025-11-17,Northern Ireland,Luxembourg,Northern Ireland,44.0
+2025-11-18,Iraq,United Arab Emirates,Iraq,90.0
+2025-11-18,Panama,El Salvador,Panama,45.0
+2025-11-18,Romania,San Marino,Romania,86.0
+2025-11-18,Scotland,Denmark,Denmark,57.0
+2025-11-18,Wales,North Macedonia,Wales,18.0
+2025-11-18,Wales,North Macedonia,Wales,81.0
+2025-12-26,Egypt,South Africa,Egypt,45.0
+2025-12-26,Morocco,Mali,Morocco,45.0
+2025-12-26,Morocco,Mali,Mali,64.0
+2025-12-27,Nigeria,Tunisia,Tunisia,87.0
+2025-12-27,Uganda,Tanzania,Tanzania,59.0
+2025-12-28,Algeria,Burkina Faso,Algeria,23.0
+2025-12-28,Gabon,Mozambique,Mozambique,42.0
+2025-12-29,Zimbabwe,South Africa,South Africa,82.0
+2025-12-30,Benin,Senegal,Senegal,90.0
+2025-12-30,Botswana,DR Congo,DR Congo,41.0
+2025-12-30,Tanzania,Tunisia,Tunisia,43.0
+2026-01-03,Mali,Tunisia,Mali,90.0
+2026-03-26,Bolivia,Suriname,Bolivia,79.0
+2026-03-26,Czech Republic,Republic of Ireland,Republic of Ireland,19.0
+2026-03-26,Czech Republic,Republic of Ireland,Czech Republic,27.0
+2026-03-26,Ukraine,Sweden,Sweden,73.0
+2026-06-13,Qatar,Switzerland,Switzerland,17.0
+2026-06-14,Germany,Curaçao,Germany,45.0
+2026-06-16,Austria,Jordan,Austria,90.0
+2026-06-17,England,Croatia,England,12.0
+2026-06-18,Czech Republic,South Africa,South Africa,83.0
+2026-06-18,Switzerland,Bosnia and Herzegovina,Switzerland,90.0
+2026-06-27,DR Congo,Uzbekistan,DR Congo,68.0
+2026-06-27,Jordan,Argentina,Argentina,31.0

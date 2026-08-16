@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Switzerland,Germany,Friendly,Random Forest,D,0.24667,0.52,0.23333,Draw
+2026-03-27,Switzerland,Germany,Friendly,XGBoost,D,0.311,0.51104,0.17797,Draw

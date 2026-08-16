@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-28,San Marino,Faroe Islands,Friendly,Random Forest,A,0.03,0.06333,0.90667,Away Win
+2026-03-28,San Marino,Faroe Islands,Friendly,XGBoost,A,0.00711,0.01046,0.98243,Away Win

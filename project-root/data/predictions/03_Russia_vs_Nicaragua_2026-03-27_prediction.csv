@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Russia,Nicaragua,Friendly,Random Forest,H,0.98667,0.01333,0.0,Home Win
+2026-03-27,Russia,Nicaragua,Friendly,XGBoost,H,0.98901,0.00885,0.00214,Home Win

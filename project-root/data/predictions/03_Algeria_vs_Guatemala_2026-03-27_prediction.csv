@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Algeria,Guatemala,Friendly,Random Forest,H,0.75,0.20333,0.04667,Home Win
+2026-03-27,Algeria,Guatemala,Friendly,XGBoost,H,0.92398,0.06731,0.00872,Home Win

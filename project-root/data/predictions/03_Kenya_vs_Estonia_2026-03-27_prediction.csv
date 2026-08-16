@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Kenya,Estonia,Friendly,Random Forest,H,0.71,0.14,0.15,Home Win
+2026-03-27,Kenya,Estonia,Friendly,XGBoost,H,0.92967,0.03448,0.03586,Home Win

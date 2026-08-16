@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,New Zealand,Finland,Friendly,Random Forest,D,0.33333,0.58,0.08667,Draw
+2026-03-27,New Zealand,Finland,Friendly,XGBoost,H,0.53445,0.43079,0.03475,Home Win

@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-29,Armenia,Belarus,Friendly,Random Forest,D,0.14667,0.7,0.15333,Draw
+2026-03-29,Armenia,Belarus,Friendly,XGBoost,D,0.01919,0.92846,0.05235,Draw

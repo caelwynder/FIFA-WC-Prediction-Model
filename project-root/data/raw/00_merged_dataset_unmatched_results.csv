@@ -1,0 +1,1472 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2000-02-20,Lesotho,Eswatini,1.0,0.0,Friendly,Maseru,Lesotho,False
+2000-02-20,Kernow,Guernsey,1.0,2.0,Friendly,Cornwall,England,False
+2000-03-21,Namibia,Zimbabwe,2.0,1.0,Friendly,Windhoek,Namibia,False
+2000-03-25,Alderney,Jersey,0.0,10.0,Muratti Vase,Alderney,Alderney,False
+2000-04-08,Central African Republic,Zimbabwe,0.0,1.0,FIFA World Cup qualification,Bangui,Central African Republic,False
+2000-04-08,Seychelles,Namibia,1.0,1.0,FIFA World Cup qualification,Victoria,Seychelles,False
+2000-04-09,Egypt,Mauritius,2.0,0.0,FIFA World Cup qualification,Cairo,Egypt,False
+2000-04-22,Namibia,Seychelles,3.0,0.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2000-05-01,Jersey,Guernsey,1.0,0.0,Muratti Vase,St Helier,Jersey,False
+2000-05-14,Zimbabwe,Namibia,3.0,2.0,COSAFA Cup,Harare,Zimbabwe,False
+2000-06-03,Algeria,Guinea,4.0,0.0,Friendly,Annaba,Algeria,False
+2000-06-11,Gibraltar,Monaco,5.0,0.0,Friendly,Gibraltar,Gibraltar,False
+2000-06-17,Namibia,Morocco,0.0,0.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2000-06-22,Tahiti,Vanuatu,2.0,3.0,Oceania Nations Cup,Papeete,Tahiti,False
+2000-06-30,Chad,Libya,3.0,1.0,African Cup of Nations qualification,N'Djamena,Chad,False
+2000-07-02,Benin,Namibia,2.0,0.0,African Cup of Nations qualification,Cotonou,Benin,False
+2000-07-06,Malawi,Namibia,1.0,2.0,Friendly,Lilongwe,Malawi,False
+2000-07-09,Ghana,Sierra Leone,5.0,0.0,FIFA World Cup qualification,Accra,Ghana,False
+2000-07-15,Namibia,Benin,8.0,2.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2000-08-05,El Salvador,Haiti,1.0,2.0,Friendly,Foxborough,United States,True
+2000-08-28,Iraq,Taiwan,3.0,0.0,Friendly,Jakarta,Indonesia,True
+2000-08-30,Myanmar,Iraq,0.0,1.0,Friendly,Jakarta,Indonesia,True
+2000-09-01,Indonesia,Iraq,0.0,0.0,Friendly,Jakarta,Indonesia,False
+2000-09-02,China,Thailand,3.0,1.0,Friendly,Shanghai,China,False
+2000-09-02,Iraq,Uzbekistan,2.0,0.0,Friendly,Shanghai,China,True
+2000-09-02,Nigeria,Namibia,4.0,0.0,African Cup of Nations qualification,Lagos,Nigeria,False
+2000-09-03,Latvia,Scotland,0.0,1.0,FIFA World Cup qualification,Riga,Latvia,False
+2000-09-03,Indonesia,Iraq,3.0,0.0,Friendly,Jakarta,Indonesia,False
+2000-10-08,Namibia,Zambia,1.0,2.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2000-10-15,Kenya,Tanzania,3.0,0.0,Friendly,Nairobi,Kenya,False
+2000-11-14,Saint Vincent and the Grenadines,Honduras,0.0,7.0,FIFA World Cup qualification,Kingstown,Saint Vincent and the Grenadines,False
+2000-12-22,Catalonia,Lithuania,5.0,0.0,Friendly,Barcelona,Spain,False
+2000-12-22,Andalusia,Morocco,2.0,0.0,Friendly,Córdoba,Spain,False
+2000-12-29,Basque Country,Morocco,3.0,2.0,Friendly,Bilbao,Spain,False
+2001-01-07,Eswatini,Namibia,2.0,1.0,Friendly,Manzini,Swaziland,False
+2001-01-11,Romania,Jordan,0.0,1.0,Millennium Cup,Margao,India,True
+2001-01-12,Uzbekistan,Bahrain,5.0,0.0,Millennium Cup,Calcutta,India,True
+2001-01-13,Namibia,Madagascar,2.0,2.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2001-01-14,Romania,Hong Kong,4.0,2.0,Millennium Cup,Margao,India,True
+2001-01-14,Serbia,Bosnia and Herzegovina,1.0,1.0,Millennium Cup,Kochi,India,True
+2001-01-15,Chile,Bahrain,2.0,0.0,Millennium Cup,Calcutta,India,True
+2001-01-16,Bangladesh,Serbia,1.0,4.0,Millennium Cup,Kochi,India,True
+2001-01-17,Chile,Uzbekistan,2.0,0.0,Millennium Cup,Calcutta,India,True
+2001-01-20,Chile,Iceland,2.0,0.0,Millennium Cup,Calcutta,India,True
+2001-01-20,Serbia,Romania,2.0,0.0,Millennium Cup,Margao,India,True
+2001-01-22,Bosnia and Herzegovina,Chile,1.0,0.0,Millennium Cup,Calcutta,India,True
+2001-01-23,Serbia,Japan,1.0,0.0,Millennium Cup,Calcutta,India,True
+2001-01-25,Bosnia and Herzegovina,Serbia,0.0,2.0,Millennium Cup,Calcutta,India,True
+2001-01-26,Algeria,Namibia,1.0,0.0,FIFA World Cup qualification,Algiers,Algeria,False
+2001-02-24,Namibia,Egypt,1.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-02-27,Western Sahara,Basque Country,2.0,2.0,Friendly,Tindouf,Algeria,True
+2001-03-10,Senegal,Namibia,4.0,0.0,FIFA World Cup qualification,Dakar,Senegal,False
+2001-03-24,Madagascar,Namibia,1.0,2.0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2001-03-24,Alderney,Guernsey,0.0,6.0,Muratti Vase,Alderney,Alderney,False
+2001-03-25,Costa Rica,Trinidad and Tobago,3.0,0.0,FIFA World Cup qualification,Alajuela,Costa Rica,False
+2001-04-08,Mali,Liberia,3.0,0.0,Friendly,Bamako,Mali,False
+2001-04-08,Mauritius,Namibia,1.0,0.0,COSAFA Cup,Mapou,Mauritius,False
+2001-04-21,Morocco,Namibia,3.0,0.0,FIFA World Cup qualification,Rabat,Morocco,False
+2001-05-07,Guernsey,Jersey,4.0,1.0,Muratti Vase,Saint Sampson,Guernsey,False
+2001-05-11,Brunei,India,0.0,1.0,FIFA World Cup qualification,Bandar Seri Begawan,Brunei,False
+2001-05-17,Andalusia,Iraq,3.0,1.0,Friendly,Vélez-Málaga,Spain,False
+2001-06-02,Zambia,Namibia,0.0,0.0,African Cup of Nations qualification,Chingola,Zambia,False
+2001-06-16,Namibia,Nigeria,0.0,2.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2001-06-21,Slovakia,Bosnia and Herzegovina,0.0,1.0,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-23,Malaysia,Slovakia,0.0,2.0,Merdeka Tournament,Shah Alam,Malaysia,False
+2001-06-25,Bahrain,Slovakia,2.0,0.0,Merdeka Tournament,Shah Alam,Malaysia,True
+2001-06-30,Greenland,Tibet,4.0,1.0,Friendly,Copenhagen,Denmark,True
+2001-06-30,Namibia,Algeria,0.0,4.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-07-08,Ynys Môn,Saare County,4.0,1.0,Island Games,Castletown,Isle of Man,True
+2001-07-08,Jersey,Orkney,12.0,0.0,Island Games,Douglas,Isle of Man,True
+2001-07-08,Isle of Wight,Greenland,0.0,0.0,Island Games,Peel,Isle of Man,True
+2001-07-08,Isle of Man,Falkland Islands,9.0,0.0,Island Games,Douglas,Isle of Man,False
+2001-07-09,Saare County,Shetland,2.0,3.0,Island Games,Port Erin,Isle of Man,True
+2001-07-09,Orkney,Gibraltar,0.0,2.0,Island Games,Douglas,Isle of Man,True
+2001-07-09,Greenland,Rhodes,0.0,2.0,Island Games,Ramsey,Isle of Man,True
+2001-07-09,Guernsey,Falkland Islands,3.0,0.0,Island Games,Douglas,Isle of Man,True
+2001-07-10,Ynys Môn,Shetland,1.0,1.0,Island Games,Douglas,Isle of Man,True
+2001-07-10,Jersey,Gibraltar,2.0,1.0,Island Games,Douglas,Isle of Man,True
+2001-07-10,Rhodes,Isle of Wight,1.0,4.0,Island Games,Douglas,Isle of Man,True
+2001-07-10,Isle of Man,Guernsey,2.0,3.0,Island Games,Douglas,Isle of Man,False
+2001-07-12,Saare County,Orkney,2.0,1.0,Island Games,Douglas,Isle of Man,True
+2001-07-12,Isle of Man,Rhodes,1.0,3.0,Island Games,Ramsey,Isle of Man,False
+2001-07-12,Gibraltar,Shetland,2.0,0.0,Island Games,Peel,Isle of Man,True
+2001-07-12,Isle of Wight,Guernsey,2.0,3.0,Island Games,Port Erin,Isle of Man,True
+2001-07-12,Ynys Môn,Jersey,2.0,2.0,Island Games,Castletown,Isle of Man,True
+2001-07-13,Egypt,Namibia,8.0,2.0,FIFA World Cup qualification,Alexandria,Egypt,False
+2001-07-13,Orkney,Falkland Islands,1.0,4.0,Island Games,Peel,Isle of Man,True
+2001-07-13,Greenland,Saare County,2.0,0.0,Island Games,Ramsey,Isle of Man,True
+2001-07-13,Isle of Man,Shetland,2.0,2.0,Island Games,Castletown,Isle of Man,False
+2001-07-13,Gibraltar,Rhodes,2.0,0.0,Island Games,Douglas,Isle of Man,True
+2001-07-13,Isle of Wight,Jersey,0.0,2.0,Island Games,Douglas,Isle of Man,True
+2001-07-13,Guernsey,Ynys Môn,0.0,0.0,Island Games,Douglas,Isle of Man,True
+2001-07-14,Monaco,Tibet,2.0,1.0,Friendly,Freiburg,Germany,True
+2001-07-21,Namibia,Senegal,0.0,5.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2001-07-29,Uruguay,Honduras,2.0,2.0,Copa América,Bogotá,Colombia,True
+2001-10-15,Algeria,Burkina Faso,2.0,0.0,Friendly,Annaba,Algeria,False
+2001-11-20,Madagascar,Mayotte,1.0,0.0,Friendly,Antananarivo,Madagascar,False
+2001-12-15,Botswana,Namibia,3.0,2.0,Friendly,Gaborone,Botswana,False
+2001-12-27,Andalusia,Tunisia,3.0,3.0,Friendly,Seville,Spain,False
+2001-12-28,Catalonia,Chile,1.0,0.0,Friendly,Barcelona,Spain,False
+2001-12-29,Basque Country,Ghana,3.0,2.0,Friendly,Bilbao,Spain,False
+2002-01-30,Bahrain,Oman,1.0,1.0,Gulf Cup,Riyadh,Saudi Arabia,True
+2002-03-09,Alderney,Jersey,1.0,2.0,Muratti Vase,Alderney,Alderney,False
+2002-03-16,Botswana,Namibia,3.0,1.0,Friendly,Gaborone,Botswana,False
+2002-04-21,Eswatini,Namibia,2.0,1.0,COSAFA Cup,Lobamba,Swaziland,False
+2002-05-06,Jersey,Guernsey,2.0,1.0,Muratti Vase,St Helier,Jersey,False
+2002-05-17,Canary Islands,Venezuela,0.0,2.0,Friendly,Las Palmas,Spain,False
+2002-05-18,Catalonia,Brazil,1.0,3.0,Friendly,Barcelona,Spain,False
+2002-08-26,Congo,DR Congo,1.0,3.0,Friendly,Brazzaville,Congo,False
+2002-09-07,Namibia,Algeria,0.0,1.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2002-09-17,Iran,Morocco,1.0,1.0,Friendly,Tabriz,Iran,False
+2002-10-26,Jersey,Kernow,0.0,3.0,Friendly,St Helier,Jersey,False
+2002-12-10,Chile,Palestine,3.0,1.0,Friendly,Independencia,Chile,False
+2002-12-27,Andalusia,Chile,3.0,2.0,Friendly,Málaga,Spain,False
+2002-12-28,Basque Country,North Macedonia,1.0,1.0,Friendly,Bilbao,Spain,False
+2002-12-28,Catalonia,China,2.0,0.0,Friendly,Barcelona,Spain,False
+2003-02-12,Serbia,Azerbaijan,2.0,2.0,UEFA Euro qualification,Podgorica,Serbia and Montenegro,False
+2003-03-15,Namibia,Botswana,0.0,1.0,COSAFA Cup,Windhoek,Namibia,False
+2003-03-22,Alderney,Guernsey,1.0,4.0,Muratti Vase,Alderney,Alderney,False
+2003-03-27,Serbia,Bulgaria,1.0,2.0,Friendly,Kruševac,Serbia and Montenegro,False
+2003-03-30,Chad,Namibia,2.0,0.0,African Cup of Nations qualification,N'Djamena,Chad,False
+2003-04-30,Germany,Serbia,1.0,0.0,Friendly,Bremen,Germany,False
+2003-05-05,Guernsey,Jersey,3.0,3.0,Muratti Vase,Saint Sampson,Guernsey,False
+2003-05-18,Jersey,Guernsey,1.0,0.0,Muratti Vase,St Helier,Jersey,False
+2003-05-24,Botswana,Malawi,1.0,1.0,COSAFA Cup,Gaborone,Botswana,False
+2003-06-03,England,Serbia,2.0,1.0,Friendly,Leicester,England,False
+2003-06-07,Finland,Serbia,3.0,0.0,UEFA Euro qualification,Helsinki,Finland,False
+2003-06-07,Namibia,Chad,2.0,1.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2003-06-11,Azerbaijan,Serbia,2.0,1.0,UEFA Euro qualification,Baku,Azerbaijan,False
+2003-06-20,Algeria,Namibia,1.0,0.0,African Cup of Nations qualification,Blida,Algeria,False
+2003-06-29,Saare County,Ynys Môn,0.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2003-06-29,Frøya,Jersey,1.0,5.0,Island Games,Saint Sampson,Guernsey,True
+2003-06-29,Shetland,Gotland,0.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2003-06-29,Guernsey,Alderney,7.0,1.0,Island Games,Saint Sampson,Guernsey,False
+2003-06-29,Gibraltar,Sark,19.0,0.0,Island Games,Saint Martin,Guernsey,True
+2003-06-29,Isle of Wight,Greenland,1.0,2.0,Island Games,Saint Martin,Guernsey,True
+2003-06-30,Isle of Man,Saare County,4.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2003-06-30,Gotland,Frøya,2.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2003-06-30,Jersey,Shetland,5.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2003-06-30,Guernsey,Orkney,10.0,0.0,Island Games,Saint Sampson,Guernsey,False
+2003-06-30,Sark,Isle of Wight,0.0,20.0,Island Games,Saint Martin,Guernsey,True
+2003-07-01,Ynys Môn,Isle of Man,1.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-01,Shetland,Frøya,3.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-01,Jersey,Gotland,0.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-01,Orkney,Alderney,3.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-01,Isle of Wight,Gibraltar,2.0,1.0,Island Games,Saint Martin,Guernsey,True
+2003-07-01,Greenland,Sark,16.0,0.0,Island Games,Saint Martin,Guernsey,True
+2003-07-03,Frøya,Sark,15.0,0.0,Island Games,Alderney,Guernsey,True
+2003-07-03,Alderney,Greenland,0.0,3.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-03,Gotland,Saare County,3.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-03,Orkney,Gibraltar,1.0,7.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-03,Isle of Man,Jersey,2.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-03,Guernsey,Isle of Wight,3.0,1.0,Island Games,Saint Sampson,Guernsey,False
+2003-07-04,Saare County,Alderney,0.0,1.0,Island Games,Saint Martin,Guernsey,True
+2003-07-04,Gotland,Greenland,2.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-04,Orkney,Shetland,0.0,6.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-04,Gibraltar,Ynys Môn,0.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2003-07-04,Jersey,Isle of Wight,3.0,0.0,Island Games,Saint Martin,Guernsey,True
+2003-07-04,Guernsey,Isle of Man,3.0,1.0,Island Games,St. Peter Port,Guernsey,False
+2003-07-06,Madagascar,Mauritius,0.0,2.0,African Cup of Nations qualification,Antananarivo,Madagascar,False
+2003-07-06,Sudan,Tanzania,3.0,0.0,African Cup of Nations qualification,Omdurman,Sudan,False
+2003-08-20,Serbia,Wales,1.0,0.0,UEFA Euro qualification,Belgrade,Serbia and Montenegro,False
+2003-08-31,Zimbabwe,Eswatini,2.0,0.0,COSAFA Cup,Bulawayo,Zimbabwe,False
+2003-09-07,Angola,Namibia,2.0,0.0,Friendly,Luanda,Angola,False
+2003-09-10,Serbia,Italy,1.0,1.0,UEFA Euro qualification,Belgrade,Serbia and Montenegro,False
+2003-09-20,Namibia,Angola,1.0,3.0,Friendly,Windhoek,Namibia,False
+2003-10-11,Wales,Serbia,2.0,3.0,UEFA Euro qualification,Cardiff,Wales,False
+2003-10-11,Kernow,Jersey,1.0,0.0,Friendly,Cornwall,England,False
+2003-10-11,Sudan,Eritrea,3.0,0.0,FIFA World Cup qualification,Khartoum,Sudan,False
+2003-10-12,Rwanda,Namibia,3.0,0.0,FIFA World Cup qualification,Kigali,Rwanda,False
+2003-10-22,India,Rwanda,3.0,1.0,Afro-Asian Games,Hyderabad,India,False
+2003-10-31,Rwanda,Zimbabwe,2.0,2.0,Afro-Asian Games,Hyderabad,India,True
+2003-11-12,Iran,Korea DPR,3.0,0.0,AFC Asian Cup qualification,Tehran,Iran,False
+2003-11-15,Namibia,Rwanda,1.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2003-11-16,Poland,Serbia,4.0,3.0,Friendly,Płock,Poland,False
+2003-12-27,Basque Country,Uruguay,2.0,1.0,Friendly,Bilbao,Spain,False
+2003-12-27,Andalusia,Latvia,1.0,0.0,Friendly,Huelva,Spain,False
+2003-12-28,Catalonia,Ecuador,4.0,2.0,Friendly,Barcelona,Spain,False
+2004-02-14,Belarus,Estonia,1.0,2.0,Friendly,Ta' Qali,Malta,True
+2004-02-28,Lesotho,Botswana,0.0,0.0,COSAFA Cup,Maseru,Lesotho,False
+2004-03-06,Alderney,Jersey,0.0,4.0,Muratti Vase,Alderney,Alderney,False
+2004-03-31,Serbia,Norway,0.0,1.0,Friendly,Belgrade,Serbia and Montenegro,False
+2004-04-28,Namibia,Botswana,0.0,0.0,Friendly,Windhoek,Namibia,False
+2004-04-28,Northern Ireland,Serbia,1.0,1.0,Friendly,Belfast,Northern Ireland,False
+2004-05-03,Jersey,Guernsey,3.0,0.0,Muratti Vase,St Helier,Jersey,False
+2004-05-09,Angola,Namibia,2.0,1.0,COSAFA Cup,Luanda,Angola,False
+2004-05-15,Åland Islands,Sealand,2.0,2.0,Friendly,Åland,Finland,False
+2004-05-25,Catalonia,Brazil,2.0,5.0,Friendly,Barcelona,Spain,False
+2004-06-13,Burkina Faso,Benin,4.0,2.0,Friendly,Ouagadougou,Burkina Faso,False
+2004-07-11,Serbia,Slovakia,2.0,0.0,Kirin Cup,Fukuoka,Japan,True
+2004-07-13,Japan,Serbia,1.0,0.0,Kirin Cup,Yokohama,Japan,False
+2004-08-18,Slovenia,Serbia,1.0,1.0,Friendly,Ljubljana,Slovenia,False
+2004-09-04,San Marino,Serbia,0.0,3.0,FIFA World Cup qualification,Serravalle,San Marino,False
+2004-10-03,Gabon,Benin,2.0,0.0,Friendly,Libreville,Gabon,False
+2004-10-09,Bosnia and Herzegovina,Serbia,0.0,0.0,FIFA World Cup qualification,Sarajevo,Bosnia and Herzegovina,False
+2004-10-13,Serbia,San Marino,5.0,0.0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,False
+2004-10-16,Jersey,Kernow,1.0,4.0,Friendly,St Helier,Jersey,False
+2004-11-17,Belgium,Serbia,0.0,2.0,FIFA World Cup qualification,Brussels,Belgium,False
+2004-11-28,Singapore,Myanmar,1.0,0.0,Friendly,Singapore,Singapore,False
+2004-12-29,Basque Country,Honduras,2.0,0.0,Friendly,San Sebastián,Spain,False
+2004-12-29,Catalonia,Argentina,0.0,3.0,Friendly,Barcelona,Spain,False
+2004-12-29,Andalusia,Malta,0.0,0.0,Friendly,Seville,Spain,False
+2005-02-09,Bulgaria,Serbia,0.0,0.0,Friendly,Sofia,Bulgaria,False
+2005-02-12,Occitania,Monaco,0.0,0.0,Friendly,Béziers,France,False
+2005-02-22,Congo,Angola,0.0,2.0,Friendly,Brazzaville,Congo,False
+2005-03-12,Alderney,Guernsey,1.0,2.0,Muratti Vase,Alderney,Alderney,False
+2005-03-19,Lesotho,Namibia,1.0,2.0,Friendly,Maseru,Lesotho,False
+2005-03-30,Serbia,Spain,0.0,0.0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,False
+2005-04-16,Namibia,Botswana,1.0,1.0,COSAFA Cup,Windhoek,Namibia,False
+2005-05-02,Guernsey,Jersey,0.0,0.0,Muratti Vase,Saint Sampson,Guernsey,False
+2005-05-03,Occitania,Chechnya,14.0,0.0,Friendly,Occitania,France,False
+2005-05-15,Jersey,Guernsey,3.0,3.0,Muratti Vase,St Helier,Jersey,False
+2005-05-17,Monaco,Occitania,1.0,1.0,Friendly,Cap-d'Ail,France,True
+2005-05-22,Sudan,Chad,4.0,1.0,Friendly,Khartoum,Sudan,False
+2005-05-27,Sudan,Chad,1.0,1.0,Friendly,Khartoum,Sudan,False
+2005-06-04,Serbia,Belgium,0.0,0.0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,False
+2005-06-08,Italy,Serbia,1.0,1.0,Friendly,Toronto,Canada,True
+2005-06-10,Gambia,Guinea,2.0,3.0,Friendly,Freetown,Sierra Leone,True
+2005-06-10,Sierra Leone,Liberia,2.0,0.0,Friendly,Freetown,Sierra Leone,False
+2005-06-14,Sierra Leone,Guinea,2.0,0.0,Friendly,Freetown,Sierra Leone,False
+2005-06-23,Chechnya,Ambazonia,2.0,2.0,Friendly,The Hague,Netherlands,True
+2005-07-10,Saare County,Åland Islands,2.0,1.0,Island Games,Shetland,Scotland,True
+2005-07-10,Shetland,Falkland Islands,4.0,0.0,Island Games,Shetland,Scotland,False
+2005-07-10,Guernsey,Orkney,3.0,0.0,Island Games,Shetland,Scotland,True
+2005-07-10,Greenland,Ynys Môn,0.0,0.0,Island Games,Shetland,Scotland,True
+2005-07-11,Shetland,Åland Islands,3.0,1.0,Island Games,Shetland,Scotland,False
+2005-07-11,Isle of Man,Saare County,2.0,2.0,Island Games,Shetland,Scotland,True
+2005-07-11,Orkney,Greenland,1.0,2.0,Island Games,Shetland,Scotland,True
+2005-07-11,Guernsey,Western Isles,2.0,1.0,Island Games,Shetland,Scotland,True
+2005-07-12,Saare County,Falkland Islands,1.0,2.0,Island Games,Shetland,Scotland,True
+2005-07-12,Åland Islands,Isle of Man,0.0,1.0,Island Games,Shetland,Scotland,True
+2005-07-12,Orkney,Ynys Môn,0.0,2.0,Island Games,Shetland,Scotland,True
+2005-07-12,Western Isles,Greenland,4.0,4.0,Island Games,Shetland,Scotland,True
+2005-07-13,Shetland,Saare County,0.0,0.0,Island Games,Shetland,Scotland,False
+2005-07-13,Falkland Islands,Isle of Man,0.0,9.0,Island Games,Shetland,Scotland,True
+2005-07-13,Ynys Môn,Western Isles,0.0,0.0,Island Games,Shetland,Scotland,True
+2005-07-13,Greenland,Guernsey,0.0,6.0,Island Games,Shetland,Scotland,True
+2005-07-14,Shetland,Isle of Man,0.0,1.0,Island Games,Shetland,Scotland,False
+2005-07-14,Åland Islands,Falkland Islands,2.0,1.0,Island Games,Shetland,Scotland,True
+2005-07-14,Guernsey,Ynys Môn,3.0,0.0,Island Games,Shetland,Scotland,True
+2005-07-14,Western Isles,Orkney,5.0,4.0,Island Games,Shetland,Scotland,True
+2005-07-15,Orkney,Falkland Islands,2.0,0.0,Island Games,Shetland,Scotland,True
+2005-07-15,Åland Islands,Greenland,3.0,2.0,Island Games,Shetland,Scotland,True
+2005-07-15,Ynys Môn,Saare County,3.0,2.0,Island Games,Shetland,Scotland,True
+2005-07-15,Western Isles,Isle of Man,4.0,0.0,Island Games,Shetland,Scotland,True
+2005-07-15,Shetland,Guernsey,2.0,0.0,Island Games,Shetland,Scotland,False
+2005-07-28,Kuwait,United Arab Emirates,1.0,1.0,Friendly,Geneva,Switzerland,True
+2005-07-30,Egypt,United Arab Emirates,0.0,0.0,Friendly,Geneva,Switzerland,True
+2005-08-15,Poland,Serbia,3.0,2.0,Friendly,Kyiv,Ukraine,True
+2005-08-17,Ukraine,Serbia,2.0,1.0,Friendly,Kyiv,Ukraine,False
+2005-09-03,Serbia,Lithuania,2.0,0.0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,False
+2005-09-07,Spain,Serbia,1.0,1.0,FIFA World Cup qualification,Madrid,Spain,False
+2005-10-08,Lithuania,Serbia,0.0,2.0,FIFA World Cup qualification,Vilnius,Lithuania,False
+2005-10-12,Serbia,Bosnia and Herzegovina,1.0,0.0,FIFA World Cup qualification,Belgrade,Serbia and Montenegro,False
+2005-10-15,Kernow,Jersey,3.0,2.0,Friendly,Cornwall,England,False
+2005-11-13,China,Serbia,0.0,2.0,Friendly,Nanjing,China,False
+2005-11-16,Korea Republic,Serbia,2.0,0.0,Friendly,Seoul,South Korea,False
+2005-12-17,Occitania,Monaco,1.0,2.0,Friendly,Cap-d'Ail,France,False
+2005-12-25,Galicia,Uruguay,3.0,2.0,Friendly,Santiago de Compostela,Spain,False
+2005-12-28,Basque Country,Cameroon,0.0,1.0,Friendly,Bilbao,Spain,False
+2005-12-28,Catalonia,Paraguay,1.0,1.0,Friendly,Barcelona,Spain,False
+2005-12-28,Andalusia,China,4.0,1.0,Friendly,Cádiz,Spain,False
+2006-02-18,Monaco,Chechnya,13.0,1.0,Friendly,Cap-d'Ail,France,True
+2006-03-01,Tunisia,Serbia,0.0,1.0,Friendly,Radès,Tunisia,False
+2006-03-18,Alderney,Jersey,1.0,4.0,Muratti Vase,Alderney,Alderney,False
+2006-05-01,Jersey,Guernsey,3.0,2.0,Muratti Vase,St Helier,Jersey,False
+2006-05-21,Basque Country,Wales,0.0,1.0,Friendly,Bilbao,Spain,False
+2006-05-23,Romania,Uruguay,0.0,2.0,Friendly,Los Angeles,United States,True
+2006-05-24,Catalonia,Costa Rica,2.0,0.0,Friendly,Terrassa,Spain,False
+2006-05-27,Serbia,Uruguay,1.0,1.0,Friendly,Belgrade,Serbia and Montenegro,False
+2006-05-29,Republic of St. Pauli,Gibraltar,1.0,1.0,FIFI Wild Cup,Hamburg,Germany,False
+2006-05-30,Republic of St. Pauli,Tibet,7.0,0.0,FIFI Wild Cup,Hamburg,Germany,False
+2006-05-31,Gibraltar,Tibet,5.0,0.0,FIFI Wild Cup,Hamburg,Germany,True
+2006-06-01,Republic of St. Pauli,Zanzibar,1.0,2.0,FIFI Wild Cup,Hamburg,Germany,False
+2006-06-03,Republic of St. Pauli,Gibraltar,1.0,2.0,FIFI Wild Cup,Hamburg,Germany,False
+2006-06-11,Serbia,Netherlands,0.0,1.0,FIFA World Cup,Leipzig,Germany,True
+2006-06-16,Argentina,Serbia,6.0,0.0,FIFA World Cup,Gelsenkirchen,Germany,True
+2006-06-21,Ivory Coast,Serbia,3.0,2.0,FIFA World Cup,Munich,Germany,True
+2006-07-22,Namibia,Seychelles,1.0,1.0,COSAFA Cup,Windhoek,Namibia,False
+2006-07-23,Namibia,Malawi,3.0,2.0,COSAFA Cup,Windhoek,Namibia,False
+2006-08-16,Namibia,South Africa,0.0,1.0,Friendly,Windhoek,Namibia,False
+2006-09-03,DR Congo,Namibia,3.0,2.0,African Cup of Nations qualification,Kinshasa,DR Congo,False
+2006-10-07,Namibia,Ethiopia,1.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2006-10-08,Catalonia,Basque Country,2.0,2.0,Friendly,Barcelona,Spain,False
+2006-11-15,Zimbabwe,Namibia,3.0,2.0,Friendly,Harare,Zimbabwe,False
+2006-11-19,Găgăuzia,Greenland,0.0,2.0,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-19,Kyrgyzstan,Zanzibar,0.0,1.0,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-19,Tibet,Tajikistan,0.0,3.0,ELF Cup,Güzelyurt,Northern Cyprus,True
+2006-11-19,Northern Cyprus,Crimea,5.0,0.0,ELF Cup,Lefkoşa,Northern Cyprus,False
+2006-11-20,Monaco,Ambazonia,3.0,0.0,Viva World Cup,Costebelle,France,True
+2006-11-20,Occitania,Sápmi,0.0,7.0,Viva World Cup,Costebelle,France,False
+2006-11-20,Găgăuzia,Kyrgyzstan,1.0,6.0,ELF Cup,Gazimağusa,Northern Cyprus,True
+2006-11-20,Greenland,Zanzibar,1.0,1.0,ELF Cup,Gazimağusa,Northern Cyprus,True
+2006-11-20,Tibet,Crimea,0.0,1.0,ELF Cup,Güzelyurt,Northern Cyprus,True
+2006-11-20,Northern Cyprus,Tajikistan,5.0,1.0,ELF Cup,Güzelyurt,Northern Cyprus,False
+2006-11-21,Sápmi,Ambazonia,3.0,0.0,Viva World Cup,Costebelle,France,True
+2006-11-21,Occitania,Monaco,2.0,3.0,Viva World Cup,Hyères,France,False
+2006-11-21,Greenland,Kyrgyzstan,0.0,1.0,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-21,Găgăuzia,Zanzibar,1.0,1.0,ELF Cup,Kyrenia,Northern Cyprus,True
+2006-11-21,Tajikistan,Crimea,1.0,2.0,ELF Cup,Gazimağusa,Northern Cyprus,True
+2006-11-21,Northern Cyprus,Tibet,10.0,0.0,ELF Cup,Gazimağusa,Northern Cyprus,False
+2006-11-23,Occitania,Ambazonia,3.0,0.0,Viva World Cup,Hyères,France,True
+2006-11-23,Sápmi,Monaco,14.0,0.0,Viva World Cup,Hyères,France,True
+2006-11-23,Kyrgyzstan,Crimea,2.0,3.0,ELF Cup,Lefkoşa,Northern Cyprus,True
+2006-11-23,Northern Cyprus,Zanzibar,5.0,0.0,ELF Cup,Lefkoşa,Northern Cyprus,False
+2006-11-24,Occitania,Ambazonia,3.0,0.0,Viva World Cup,Hyères,France,True
+2006-11-24,Sápmi,Monaco,21.0,1.0,Viva World Cup,Hyères,France,True
+2006-11-25,Kyrgyzstan,Zanzibar,2.0,2.0,ELF Cup,Lefkoşa,Northern Cyprus,True
+2006-11-25,Northern Cyprus,Crimea,3.0,1.0,ELF Cup,Lefkoşa,Northern Cyprus,False
+2006-12-09,Tanzania,DR Congo,2.0,0.0,Friendly,Dar es Salaam,Tanzania,False
+2006-12-09,Silesia,Poland,1.0,1.0,Friendly,Chorzów,Poland,False
+2006-12-27,Basque Country,Serbia,4.0,0.0,Friendly,Bilbao,Spain,False
+2006-12-28,Galicia,Ecuador,1.0,1.0,Friendly,A Coruña,Spain,False
+2007-02-06,Botswana,Namibia,1.0,0.0,Friendly,Gaborone,Botswana,False
+2007-03-17,Alderney,Guernsey,0.0,5.0,Muratti Vase,Alderney,Alderney,False
+2007-03-24,Kernow,Guernsey,1.0,1.0,Friendly,Cornwall,England,False
+2007-03-25,Libya,Namibia,2.0,1.0,African Cup of Nations qualification,Tripoli,Libya,False
+2007-05-06,Guernsey,Jersey,0.0,0.0,Muratti Vase,St. Peter Port,Guernsey,False
+2007-05-26,Namibia,Zambia,1.0,2.0,Friendly,Windhoek,Namibia,False
+2007-06-02,Denmark,Sweden,0.0,3.0,UEFA Euro qualification,Copenhagen,Denmark,False
+2007-06-02,Namibia,Libya,1.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2007-06-03,Mozambique,Burkina Faso,3.0,0.0,African Cup of Nations qualification,Maputo,Mozambique,False
+2007-06-07,Romani people,Ambazonia,3.0,1.0,Friendly,Montreuil,France,True
+2007-06-16,Namibia,DR Congo,1.0,1.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2007-06-20,Venezuela,Basque Country,3.0,4.0,Friendly,Táchira,Venezuela,False
+2007-06-30,Menorca,Jersey,0.0,1.0,Island Games,Rhodes,Greece,True
+2007-06-30,Bermuda,Ynys Môn,1.0,2.0,Island Games,Rhodes,Greece,True
+2007-06-30,Rhodes,Saare County,2.0,0.0,Island Games,Rhodes,Greece,True
+2007-07-01,Jersey,Gibraltar,1.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-01,Åland Islands,Bermuda,0.0,2.0,Island Games,Rhodes,Greece,True
+2007-07-01,Rhodes,Frøya,3.0,1.0,Island Games,Rhodes,Greece,False
+2007-07-01,Western Isles,Gotland,2.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-02,Gibraltar,Menorca,2.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-02,Ynys Môn,Åland Islands,0.0,2.0,Island Games,Rhodes,Greece,True
+2007-07-02,Saare County,Frøya,2.0,3.0,Island Games,Rhodes,Greece,True
+2007-07-02,Gotland,Western Isles,1.0,3.0,Island Games,Rhodes,Greece,True
+2007-07-04,Menorca,Ynys Môn,6.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-04,Jersey,Åland Islands,1.0,0.0,Island Games,Rhodes,Greece,True
+2007-07-04,Frøya,Gotland,0.0,3.0,Island Games,Rhodes,Greece,True
+2007-07-04,Rhodes,Western Isles,1.0,0.0,Island Games,Rhodes,Greece,False
+2007-07-05,Menorca,Saare County,4.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-05,Åland Islands,Frøya,3.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-05,Jersey,Gotland,1.0,0.0,Island Games,Rhodes,Greece,True
+2007-07-05,Bermuda,Western Isles,0.0,1.0,Island Games,Rhodes,Greece,True
+2007-07-05,Rhodes,Gibraltar,0.0,4.0,Island Games,Rhodes,Greece,False
+2007-07-06,Malawi,Namibia,1.0,2.0,Friendly,Blantyre,Malawi,False
+2007-07-23,Botswana,Zambia,0.0,0.0,Friendly,Orapa,Botswana,False
+2007-07-28,Botswana,Namibia,1.0,0.0,COSAFA Cup,Gaborone,Botswana,False
+2007-07-29,Lesotho,Namibia,2.0,3.0,COSAFA Cup,Gaborone,Botswana,True
+2007-08-21,Singapore,Zimbabwe,4.0,2.0,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-23,Singapore,Bangladesh,4.0,2.0,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-25,Zimbabwe,Bangladesh,2.0,1.0,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-08-27,Zimbabwe,Myanmar,1.0,3.0,Merdeka Tournament,Petaling Jaya,Malaysia,True
+2007-09-08,Ethiopia,Namibia,2.0,3.0,African Cup of Nations qualification,Addis Ababa,Ethiopia,False
+2007-10-17,Morocco,Namibia,2.0,0.0,Friendly,Tangier,Morocco,False
+2007-11-02,Bhutan,Tibet,3.0,0.0,Friendly,Gangtok,India,True
+2007-11-02,Saudi Arabia,Namibia,1.0,0.0,Friendly,Riyadh,Saudi Arabia,False
+2007-11-17,Tunisia,Namibia,2.0,0.0,Friendly,Radès,Tunisia,False
+2007-12-27,Galicia,Cameroon,1.0,1.0,Friendly,Vigo,Spain,False
+2007-12-27,Andalusia,Zambia,4.0,1.0,Friendly,Jerez de la Frontera,Spain,False
+2007-12-29,Basque Country,Catalonia,1.0,1.0,Friendly,Bilbao,Spain,False
+2007-12-29,Canary Islands,Angola,2.0,0.0,Friendly,Las Palmas,Spain,False
+2008-01-05,Egypt,Namibia,3.0,0.0,Friendly,Aswan,Egypt,False
+2008-01-12,Senegal,Namibia,3.0,1.0,Friendly,Dakar,Senegal,False
+2008-01-21,Namibia,Morocco,1.0,5.0,African Cup of Nations,Accra,Ghana,True
+2008-01-24,Ghana,Namibia,1.0,0.0,African Cup of Nations,Accra,Ghana,False
+2008-01-28,Guinea,Namibia,1.0,1.0,African Cup of Nations,Sekondi,Ghana,True
+2008-03-08,Alderney,Jersey,0.0,7.0,Muratti Vase,Alderney,Alderney,False
+2008-03-26,Namibia,Malawi,1.0,3.0,Friendly,Windhoek,Namibia,False
+2008-05-05,Jersey,Guernsey,1.0,1.0,Muratti Vase,St Helier,Jersey,False
+2008-05-20,Brittany,Congo,3.0,1.0,Friendly,Saint-Brieuc,France,False
+2008-05-24,Catalonia,Argentina,0.0,1.0,Friendly,Barcelona,Spain,False
+2008-05-31,Namibia,Kenya,2.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-06-07,Uzbekistan,Singapore,3.0,0.0,FIFA World Cup qualification,Tashkent,Uzbekistan,False
+2008-06-08,Zimbabwe,Namibia,2.0,0.0,FIFA World Cup qualification,Harare,Zimbabwe,False
+2008-06-14,Namibia,Guinea,1.0,2.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-06-14,Singapore,Saudi Arabia,0.0,3.0,FIFA World Cup qualification,Singapore,Singapore,False
+2008-06-22,Guinea,Namibia,4.0,0.0,FIFA World Cup qualification,Conakry,Guinea,False
+2008-07-07,Sápmi,Iraqi Kurdistan,2.0,2.0,Viva World Cup,Gällivare,Sweden,False
+2008-07-08,Provence,Padania,1.0,6.0,Viva World Cup,Gällivare,Sweden,True
+2008-07-09,Provence,Iraqi Kurdistan,0.0,3.0,Viva World Cup,Malmberget,Sweden,True
+2008-07-09,Sápmi,Arameans Suryoye,0.0,1.0,Viva World Cup,Gällivare,Sweden,False
+2008-07-10,Arameans Suryoye,Provence,5.0,0.0,Viva World Cup,Malmberget,Sweden,True
+2008-07-10,Padania,Iraqi Kurdistan,2.0,1.0,Viva World Cup,Gällivare,Sweden,True
+2008-07-11,Sápmi,Padania,0.0,2.0,Viva World Cup,Malmberget,Sweden,False
+2008-07-11,Iraqi Kurdistan,Arameans Suryoye,0.0,0.0,Viva World Cup,Gällivare,Sweden,True
+2008-07-12,Padania,Arameans Suryoye,4.0,1.0,Viva World Cup,Malmberget,Sweden,True
+2008-07-12,Sápmi,Provence,4.0,2.0,Viva World Cup,Gällivare,Sweden,False
+2008-07-13,Sápmi,Iraqi Kurdistan,3.0,1.0,Viva World Cup,Malmberget,Sweden,False
+2008-07-13,Padania,Arameans Suryoye,2.0,0.0,Viva World Cup,Gällivare,Sweden,True
+2008-07-20,Comoros,Namibia,0.0,3.0,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-22,Lesotho,Namibia,1.0,1.0,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-24,Malawi,Namibia,0.0,1.0,COSAFA Cup qualification,Secunda,South Africa,True
+2008-07-26,South Africa,Namibia,1.0,0.0,COSAFA Cup,Witbank,South Africa,False
+2008-08-28,Libya,Niger,6.0,2.0,Friendly,Tripoli,Libya,False
+2008-09-06,Kenya,Namibia,1.0,0.0,FIFA World Cup qualification,Nairobi,Kenya,False
+2008-10-11,Namibia,Zimbabwe,4.0,2.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2008-11-08,Jersey,Gibraltar,2.0,1.0,Friendly,St Helier,Jersey,False
+2008-11-08,Occitania,Monaco,2.0,2.0,Friendly,Caraglio,Italy,False
+2008-12-20,Monaco,Provence,2.0,3.0,Friendly,Cap-d'Ail,France,True
+2008-12-27,Galicia,Iran,3.0,2.0,Friendly,A Coruña,Spain,False
+2008-12-28,Catalonia,Colombia,2.0,1.0,Friendly,Barcelona,Spain,False
+2009-01-30,Costa Rica,El Salvador,3.0,0.0,UNCAF Cup,Tegucigalpa,Honduras,True
+2009-03-14,Nepal,Sri Lanka,4.0,2.0,Friendly,Kathmandu,Nepal,False
+2009-03-21,Namibia,Botswana,0.0,0.0,Friendly,Keetmanshoop,Namibia,False
+2009-03-21,Alderney,Guernsey,0.0,5.0,Muratti Vase,Alderney,Alderney,False
+2009-04-01,Lebanon,Namibia,1.0,1.0,Friendly,Beirut,Lebanon,False
+2009-04-04,Angola,Namibia,0.0,0.0,Friendly,Dundo,Angola,False
+2009-05-03,Guernsey,Jersey,0.0,1.0,Muratti Vase,Saint Sampson,Guernsey,False
+2009-05-31,Malawi,Rwanda,2.0,0.0,Friendly,Blantyre,Malawi,False
+2009-06-06,Namibia,DR Congo,4.0,0.0,Friendly,Windhoek,Namibia,False
+2009-06-06,Corsica,Congo,1.0,1.0,Friendly,Ajaccio,France,False
+2009-06-22,Padania,Occitania,1.0,0.0,Viva World Cup,Novara,Italy,False
+2009-06-22,Provence,Gozo,3.0,1.0,Viva World Cup,Novara,Italy,True
+2009-06-23,Occitania,Iraqi Kurdistan,0.0,4.0,Viva World Cup,Varese,Italy,True
+2009-06-23,Sápmi,Provence,1.0,2.0,Viva World Cup,Varese,Italy,True
+2009-06-24,Padania,Iraqi Kurdistan,2.0,1.0,Viva World Cup,Brescia,Italy,False
+2009-06-24,Sápmi,Gozo,7.0,2.0,Viva World Cup,Brescia,Italy,True
+2009-06-25,Provence,Iraqi Kurdistan,0.0,6.0,Viva World Cup,Varese,Italy,True
+2009-06-25,Padania,Sápmi,4.0,0.0,Viva World Cup,Varese,Italy,False
+2009-06-26,Occitania,Gozo,2.0,1.0,Viva World Cup,Brescia,Italy,True
+2009-06-26,Provence,Sápmi,4.0,4.0,Viva World Cup,Brescia,Italy,True
+2009-06-27,Padania,Iraqi Kurdistan,2.0,0.0,Viva World Cup,Verona,Italy,False
+2009-06-28,Åland Islands,Greenland,4.0,2.0,Island Games,Mariehamn,Finland,False
+2009-06-28,Shetland,Menorca,2.0,2.0,Island Games,Hammarland,Finland,True
+2009-06-28,Gibraltar,Guernsey,0.0,0.0,Island Games,Eckerö,Finland,True
+2009-06-28,Ynys Môn,Frøya,3.0,0.0,Island Games,Jomala,Finland,True
+2009-06-28,Rhodes,Isle of Wight,2.0,0.0,Island Games,Sund,Finland,True
+2009-06-28,Saare County,Jersey,0.0,1.0,Island Games,Saltvik,Finland,True
+2009-06-28,Western Isles,Gotland,2.0,1.0,Island Games,Hammarland,Finland,True
+2009-06-28,Falkland Islands,Isle of Man,1.0,2.0,Island Games,Eckerö,Finland,True
+2009-06-29,Menorca,Greenland,6.0,0.0,Island Games,Sund,Finland,True
+2009-06-29,Åland Islands,Shetland,2.0,1.0,Island Games,Hammarland,Finland,False
+2009-06-29,Ynys Môn,Guernsey,0.0,2.0,Island Games,Jomala,Finland,True
+2009-06-29,Frøya,Gibraltar,0.0,8.0,Island Games,Eckerö,Finland,True
+2009-06-29,Jersey,Rhodes,1.0,0.0,Island Games,Saltvik,Finland,True
+2009-06-29,Isle of Wight,Saare County,5.0,1.0,Island Games,Hammarland,Finland,True
+2009-06-29,Isle of Man,Western Isles,5.0,0.0,Island Games,Finström,Finland,True
+2009-06-29,Gotland,Falkland Islands,2.0,0.0,Island Games,Jomala,Finland,True
+2009-06-30,Greenland,Shetland,3.0,1.0,Island Games,Sund,Finland,True
+2009-06-30,Åland Islands,Menorca,1.0,1.0,Island Games,Finström,Finland,False
+2009-06-30,Gibraltar,Ynys Môn,1.0,3.0,Island Games,Hammarland,Finland,True
+2009-06-30,Guernsey,Frøya,8.0,0.0,Island Games,Jomala,Finland,True
+2009-06-30,Rhodes,Saare County,3.0,0.0,Island Games,Saltvik,Finland,True
+2009-06-30,Jersey,Isle of Wight,4.0,1.0,Island Games,Hammarland,Finland,True
+2009-06-30,Western Isles,Falkland Islands,7.0,1.0,Island Games,Eckerö,Finland,True
+2009-06-30,Isle of Man,Gotland,4.0,2.0,Island Games,Finström,Finland,True
+2009-07-02,Falkland Islands,Frøya,1.0,3.0,Island Games,Jomala,Finland,True
+2009-07-02,Shetland,Saare County,3.0,2.0,Island Games,Hammarland,Finland,True
+2009-07-02,Gotland,Greenland,4.0,2.0,Island Games,Jomala,Finland,True
+2009-07-02,Åland Islands,Isle of Man,2.0,1.0,Island Games,Jomala,Finland,False
+2009-07-02,Guernsey,Jersey,0.0,2.0,Island Games,Sund,Finland,True
+2009-07-03,Gibraltar,Isle of Wight,3.0,0.0,Island Games,Jomala,Finland,True
+2009-07-03,Menorca,Western Isles,4.0,1.0,Island Games,Jomala,Finland,True
+2009-07-03,Rhodes,Ynys Môn,4.0,0.0,Island Games,Eckerö,Finland,True
+2009-07-03,Isle of Man,Guernsey,0.0,5.0,Island Games,Eckerö,Finland,True
+2009-07-03,Åland Islands,Jersey,1.0,2.0,Island Games,Mariehamn,Finland,False
+2009-09-05,Namibia,Eswatini,1.0,1.0,Friendly,Windhoek,Namibia,False
+2009-10-25,Namibia,Zambia,0.0,1.0,COSAFA Cup,Harare,Zimbabwe,True
+2009-12-04,Korea DPR,Macau,8.0,0.0,East Asian Games,Hong Kong,Hong Kong,True
+2009-12-22,Catalonia,Argentina,4.0,2.0,Friendly,Barcelona,Spain,False
+2010-02-25,Turkmenistan,Korea DPR,1.0,1.0,AFC Challenge Cup,Colombo,Sri Lanka,True
+2010-03-03,South Africa,Namibia,1.0,1.0,Friendly,Durban,South Africa,False
+2010-03-11,Padania,Provence,1.0,3.0,Friendly,Rodengo Saiano,Italy,False
+2010-03-20,Alderney,Jersey,0.0,3.0,Muratti Vase,Alderney,Alderney,False
+2010-03-21,Namibia,Botswana,0.0,0.0,Friendly,Windhoek,Namibia,False
+2010-04-03,Occitania,Monaco,5.0,1.0,Friendly,Saint-Dalmas-De-Tende,France,False
+2010-05-08,Jersey,Guernsey,0.0,1.0,Muratti Vase,Jersey,Jersey,False
+2010-05-19,Corsica,Brittany,2.0,0.0,Corsica Cup,Ajaccio,France,False
+2010-05-21,Brittany,Togo,2.0,1.0,Corsica Cup,Bastia,France,False
+2010-05-21,Corsica,Gabon,1.0,1.0,Corsica Cup,Bastia,France,False
+2010-05-30,Grenada,Martinique,2.0,2.0,Friendly,Grenville,Grenada,False
+2010-05-31,Gozo,Padania,1.0,2.0,Viva World Cup,Xewkija,Malta,False
+2010-05-31,Iraqi Kurdistan,Two Sicilies,4.0,1.0,Viva World Cup,Sannat,Malta,True
+2010-06-01,Occitania,Padania,0.0,1.0,Viva World Cup,Xewkija,Malta,True
+2010-06-01,Provence,Two Sicilies,0.0,1.0,Viva World Cup,Sannat,Malta,True
+2010-06-02,Gozo,Occitania,0.0,5.0,Viva World Cup,Xewkija,Malta,False
+2010-06-02,Iraqi Kurdistan,Provence,3.0,2.0,Viva World Cup,Sannat,Malta,True
+2010-06-04,Iraqi Kurdistan,Occitania,2.0,1.0,Viva World Cup,Sannat,Malta,True
+2010-06-04,Padania,Two Sicilies,2.0,0.0,Viva World Cup,Xewkija,Malta,True
+2010-06-04,Gozo,Provence,2.0,1.0,Viva World Cup,Xewkija,Malta,False
+2010-06-05,Occitania,Two Sicilies,2.0,0.0,Viva World Cup,Sannat,Malta,True
+2010-06-05,Iraqi Kurdistan,Padania,0.0,1.0,Viva World Cup,Xewkija,Malta,True
+2010-09-04,Gambia,Namibia,3.0,1.0,African Cup of Nations qualification,Bakau,Gambia,False
+2010-09-06,Burkina Faso,Gabon,1.0,1.0,Friendly,Cannes,France,True
+2010-09-07,Bahrain,Togo,3.0,0.0,Friendly,Riffa,Bahrain,False
+2010-09-15,India,Namibia,2.0,0.0,Friendly,New Delhi,India,False
+2010-10-01,Saint Martin,Cayman Islands,1.0,1.0,CFU Caribbean Cup qualification,Bayamón,Puerto Rico,True
+2010-10-12,Italy,Serbia,3.0,0.0,UEFA Euro qualification,Genoa,Italy,False
+2010-11-17,Mozambique,Zimbabwe,1.0,3.0,Friendly,Maputo,Mozambique,False
+2010-12-28,Catalonia,Honduras,4.0,0.0,Friendly,Barcelona,Spain,False
+2010-12-29,Basque Country,Venezuela,3.0,1.0,Friendly,Bilbao,Spain,False
+2011-02-09,Latvia,Bolivia,2.0,1.0,Friendly,Antalya,Turkey,True
+2011-02-09,Namibia,Malawi,1.0,2.0,Friendly,Windhoek,Namibia,False
+2011-02-27,Western Sahara,Galicia,1.0,2.0,Friendly,Teo,Spain,True
+2011-03-16,Botswana,Namibia,1.0,1.0,Friendly,Maun,Botswana,False
+2011-03-19,Alderney,Guernsey,0.0,5.0,Muratti Vase,Alderney,Alderney,False
+2011-03-26,Burkina Faso,Namibia,4.0,0.0,African Cup of Nations qualification,Ouagadougou,Burkina Faso,False
+2011-03-26,Korea DPR,Iraq,2.0,0.0,Friendly,Sharjah,United Arab Emirates,True
+2011-04-07,Tahiti,New Caledonia,1.0,0.0,Friendly,Papeete,Tahiti,False
+2011-05-08,Guernsey,Jersey,1.0,1.0,Muratti Vase,Guernsey,Guernsey,False
+2011-05-25,Estonia,Basque Country,1.0,2.0,Friendly,Tallinn,Estonia,False
+2011-05-28,Occitania,Romani people,11.0,2.0,Friendly,Olargues,France,False
+2011-05-29,Ethiopia,Sudan,1.0,2.0,Friendly,Addis Ababa,Ethiopia,False
+2011-05-31,Corsica,Bulgaria,1.0,0.0,Friendly,Ajaccio,France,False
+2011-06-02,Brittany,Equatorial Guinea,0.0,1.0,Friendly,Saint-Nazaire,France,False
+2011-06-04,Central African Republic,Tanzania,2.0,1.0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2011-06-04,Namibia,Burkina Faso,1.0,4.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2011-06-11,Mexico,Venezuela,0.0,3.0,Friendly,Las Vegas,United States,True
+2011-06-12,Palestine,Vatican City,9.0,1.0,Friendly,Al-Khader,Palestine,False
+2011-06-25,Colombia,Senegal,2.0,0.0,Friendly,Medellín,Colombia,False
+2011-06-26,Rhodes,Greenland,2.0,1.0,Island Games,Brading,England,True
+2011-06-26,Jersey,Menorca,2.0,0.0,Island Games,Cowes,England,True
+2011-06-26,Alderney,Gibraltar,1.0,6.0,Island Games,Newport,England,True
+2011-06-26,Isle of Wight,Ynys Môn,4.0,0.0,Island Games,Newport,England,False
+2011-06-26,Gotland,Isle of Man,2.0,4.0,Island Games,Cowes,England,True
+2011-06-26,Guernsey,Falkland Islands,5.0,0.0,Island Games,Brading,England,True
+2011-06-26,Åland Islands,Saare County,3.0,3.0,Island Games,East Cowes,England,True
+2011-06-27,Bolivia,Mexico,0.0,1.0,Friendly,Buenos Aires,Argentina,True
+2011-06-27,Greenland,Menorca,2.0,3.0,Island Games,East Cowes,England,True
+2011-06-27,Jersey,Rhodes,2.0,0.0,Island Games,Newport,England,True
+2011-06-27,Isle of Wight,Alderney,4.0,0.0,Island Games,Cowes,England,False
+2011-06-27,Gibraltar,Ynys Môn,6.0,3.0,Island Games,Brading,England,True
+2011-06-27,Isle of Man,Falkland Islands,6.0,0.0,Island Games,Rookley,England,True
+2011-06-27,Gotland,Guernsey,2.0,5.0,Island Games,Freshwater,England,True
+2011-06-27,Western Isles,Åland Islands,0.0,2.0,Island Games,Newport,England,True
+2011-06-28,Peru,Senegal,1.0,0.0,Friendly,Lima,Peru,False
+2011-06-28,Greenland,Jersey,1.0,2.0,Island Games,Freshwater,England,True
+2011-06-28,Alderney,Ynys Môn,0.0,5.0,Island Games,Shanklin,England,True
+2011-06-28,Isle of Wight,Gibraltar,3.0,2.0,Island Games,East Cowes,England,False
+2011-06-28,Guernsey,Isle of Man,2.0,1.0,Island Games,East Cowes,England,True
+2011-06-28,Falkland Islands,Gotland,1.0,6.0,Island Games,Oakfield,England,True
+2011-06-28,Saare County,Western Isles,2.0,0.0,Island Games,Cowes,England,True
+2011-06-30,Alderney,Falkland Islands,0.0,3.0,Island Games,Shanklin,England,True
+2011-06-30,Greenland,Western Isles,1.0,0.0,Island Games,Shanklin,England,True
+2011-06-30,Gotland,Ynys Môn,1.0,2.0,Island Games,Freshwater,England,True
+2011-06-30,Isle of Man,Menorca,2.0,2.0,Island Games,Cowes,England,True
+2011-06-30,Saare County,Gibraltar,0.0,4.0,Island Games,Brading,England,True
+2011-06-30,Isle of Wight,Jersey,1.0,0.0,Island Games,Cowes,England,False
+2011-06-30,Guernsey,Åland Islands,3.0,2.0,Island Games,Brading,England,True
+2011-07-01,Jersey,Åland Islands,5.0,1.0,Island Games,Brading,England,True
+2011-07-01,Isle of Wight,Guernsey,4.0,2.0,Island Games,Newport,England,False
+2011-07-06,Malawi,Namibia,0.0,1.0,Friendly,Mzuzu,Malawi,False
+2011-07-23,Syria,Tajikistan,0.0,3.0,FIFA World Cup qualification,Amman,Jordan,True
+2011-07-28,Tajikistan,Syria,3.0,0.0,FIFA World Cup qualification,Tursunzoda,Tajikistan,False
+2011-09-03,Namibia,Gambia,1.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2011-10-31,Namibia,Lesotho,0.0,0.0,Friendly,Windhoek,Namibia,False
+2011-11-11,Djibouti,Namibia,0.0,4.0,FIFA World Cup qualification,Djibouti,Djibouti,False
+2011-11-15,Namibia,Djibouti,4.0,0.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2011-12-04,Chagos Islands,Raetia,6.0,1.0,Friendly,Crawley,England,True
+2011-12-22,Angola,Namibia,0.0,0.0,Friendly,Lubango,Angola,False
+2011-12-28,Basque Country,Tunisia,0.0,2.0,Friendly,Bilbao,Spain,False
+2011-12-29,Occitania,Cilento,2.0,0.0,Friendly,Fontès,France,False
+2011-12-30,Catalonia,Tunisia,0.0,0.0,Friendly,Barcelona,Spain,False
+2012-01-14,Zambia,Namibia,0.0,0.0,Friendly,Johannesburg,South Africa,True
+2012-01-14,Gozo,Raetia,17.0,1.0,Friendly,Xewkija,Malta,False
+2012-02-27,Egypt,Kenya,5.0,0.0,Friendly,Doha,Qatar,True
+2012-02-29,Liberia,Namibia,1.0,0.0,African Cup of Nations qualification,Monrovia,Liberia,False
+2012-03-24,Alderney,Guernsey,0.0,7.0,Muratti Vase,Alderney,Alderney,False
+2012-03-30,Occitania,Sápmi,3.0,2.0,Friendly,Toulouse,France,False
+2012-05-05,Sealand,Chagos Islands,1.0,3.0,Friendly,Godalming,England,True
+2012-05-06,Jersey,Guernsey,0.0,2.0,Muratti Vase,Jersey,Jersey,False
+2012-05-15,Kurdistan,Mauritania,3.0,1.0,Palestine International Championship,Hebron,Palestine,True
+2012-05-19,Indonesia,Kurdistan,1.0,1.0,Palestine International Championship,Hebron,Palestine,True
+2012-05-26,Mozambique,Namibia,0.0,0.0,Friendly,Würzburg,Germany,True
+2012-06-02,Burkina Faso,Congo,0.0,3.0,FIFA World Cup qualification,Ouagadougou,Burkina Faso,False
+2012-06-02,Sudan,Zambia,0.0,3.0,FIFA World Cup qualification,Khartoum,Sudan,False
+2012-06-03,Niger,Gabon,3.0,0.0,FIFA World Cup qualification,Niamey,Niger,False
+2012-06-03,Nigeria,Namibia,1.0,0.0,FIFA World Cup qualification,Calabar,Nigeria,False
+2012-06-04,Iraqi Kurdistan,Western Sahara,6.0,0.0,Viva World Cup,Erbil,Iraq,False
+2012-06-04,Zanzibar,Raetia,6.0,0.0,Viva World Cup,Erbil,Iraq,True
+2012-06-04,Northern Cyprus,Darfur,15.0,0.0,Viva World Cup,Erbil,Iraq,True
+2012-06-05,Western Sahara,Occitania,2.0,6.0,Viva World Cup,Salahaddin,Iraq,True
+2012-06-05,Raetia,Tamil Eelam,1.0,0.0,Viva World Cup,Erbil,Iraq,True
+2012-06-05,Darfur,Provence,0.0,18.0,Viva World Cup,Erbil,Iraq,True
+2012-06-06,Iraqi Kurdistan,Occitania,1.0,0.0,Viva World Cup,Sulaymaniyah,Iraq,False
+2012-06-06,Tamil Eelam,Zanzibar,0.0,3.0,Viva World Cup,Erbil,Iraq,True
+2012-06-06,Provence,Northern Cyprus,2.0,1.0,Viva World Cup,Erbil,Iraq,True
+2012-06-07,Western Sahara,Darfur,5.0,1.0,Viva World Cup,Erbil,Iraq,True
+2012-06-07,Occitania,Tamil Eelam,7.0,0.0,Viva World Cup,Erbil,Iraq,True
+2012-06-08,Western Sahara,Raetia,3.0,0.0,Viva World Cup,Erbil,Iraq,True
+2012-06-08,Iraqi Kurdistan,Provence,2.0,1.0,Viva World Cup,Duhok,Iraq,False
+2012-06-09,Namibia,Kenya,1.0,0.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2012-06-09,Tamil Eelam,Raetia,4.0,0.0,Viva World Cup,Erbil,Iraq,True
+2012-06-09,Occitania,Western Sahara,3.0,1.0,Viva World Cup,Salahaddin,Iraq,True
+2012-06-09,Provence,Zanzibar,2.0,7.0,Viva World Cup,Erbil,Iraq,True
+2012-06-09,Iraqi Kurdistan,Northern Cyprus,2.0,1.0,Viva World Cup,Erbil,Iraq,False
+2012-06-10,Monaco,Raetia,1.0,2.0,Friendly,Beausoleil,France,True
+2012-06-16,Namibia,Liberia,0.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2012-06-18,Saudi Arabia,Morocco,4.0,0.0,Friendly,Taif,Saudi Arabia,False
+2012-08-24,Syria,Cameroon,2.0,2.0,Nehru Cup,New Delhi,India,True
+2012-08-25,Alderney,Sealand,1.0,1.0,Friendly,Saint Anne,Alderney,False
+2012-08-26,Nepal,Cameroon,0.0,5.0,Nehru Cup,New Delhi,India,True
+2012-08-29,Cameroon,Maldives,3.0,1.0,Nehru Cup,New Delhi,India,True
+2012-08-31,India,Cameroon,0.0,1.0,Nehru Cup,New Delhi,India,False
+2012-09-02,India,Cameroon,2.0,2.0,Nehru Cup,New Delhi,India,False
+2012-09-25,Taiwan,Macau,1.0,0.0,Philippine Peace Cup,Manila,Philippines,True
+2012-09-25,Abkhazia,Artsakh,1.0,1.0,Friendly,Sukhumi,Georgia,False
+2012-10-13,Namibia,Rwanda,0.0,0.0,Friendly,Windhoek,Namibia,False
+2012-10-21,Artsakh,Abkhazia,3.0,0.0,Friendly,Stepanakert,Azerbaijan,False
+2012-11-14,Rwanda,Namibia,2.0,2.0,Friendly,Kigali,Rwanda,False
+2012-11-17,Indonesia,Cameroon,0.0,0.0,Friendly,Jakarta,Indonesia,False
+2012-12-29,Basque Country,Bolivia,6.0,1.0,Friendly,San Sebastián,Spain,False
+2013-01-02,Catalonia,Nigeria,1.0,1.0,Friendly,Cornellà de Llobregat,Spain,False
+2013-01-12,Namibia,Morocco,1.0,2.0,Friendly,Johannesburg,South Africa,True
+2013-02-13,Provence,Monaco,6.0,1.0,Friendly,Saint-Zacharie,France,False
+2013-03-08,Sealand,Alderney,2.0,1.0,Friendly,Godalming,England,True
+2013-03-16,Senegal,Libya,0.0,4.0,Friendly,Casablanca,Morocco,True
+2013-03-16,Alderney,Jersey,2.0,9.0,Muratti Vase,Alderney,Alderney,False
+2013-03-22,Kazakhstan,Germany,0.0,3.0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2013-03-23,Namibia,Malawi,0.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2013-03-24,Equatorial Guinea,Cape Verde,0.0,3.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2013-05-18,Guernsey,Jersey,2.0,1.0,Muratti Vase,Guernsey,Guernsey,False
+2013-05-25,Namibia,Zambia,0.0,0.0,Friendly,Windhoek,Namibia,False
+2013-05-28,Brittany,Mali,1.0,0.0,Friendly,Nantes,France,False
+2013-06-05,Malawi,Namibia,0.0,0.0,FIFA World Cup qualification,Blantyre,Malawi,False
+2013-06-07,Madrid,Andalusia,1.0,2.0,Friendly,Madrid,Spain,False
+2013-06-08,Botswana,Ethiopia,3.0,0.0,FIFA World Cup qualification,Lobatse,Botswana,False
+2013-06-08,Cape Verde,Equatorial Guinea,3.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2013-06-09,Togo,Cameroon,0.0,3.0,FIFA World Cup qualification,Lomé,Togo,False
+2013-06-12,Namibia,Nigeria,1.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2013-06-23,Quebec,Tibet,21.0,0.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,True
+2013-06-24,Western Sahara,Kurdistan,0.0,6.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,True
+2013-06-24,Provence,Tibet,22.0,0.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,False
+2013-06-25,Provence,Quebec,1.0,3.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,False
+2013-06-27,Quebec,Kurdistan,0.0,1.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,True
+2013-06-28,Western Sahara,Tibet,2.0,12.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,True
+2013-06-28,Provence,Kurdistan,0.0,1.0,"International Tournament of Peoples, Cultures and Tribes",Marseille,France,False
+2013-06-29,Libya,Burkina Faso,2.0,1.0,Friendly,Misrata,Libya,False
+2013-06-29,Saugeais,Raetia,1.0,1.0,Friendly,La Chaux,France,False
+2013-07-04,Sealand,Tamil Eelam,3.0,5.0,Tynwald Hill Tournament,St John's,Isle of Man,True
+2013-07-05,Sealand,Occitania,0.0,8.0,Tynwald Hill Tournament,St John's,Isle of Man,True
+2013-07-06,Namibia,Mauritius,2.0,1.0,COSAFA Cup,Lusaka,Zambia,True
+2013-07-06,Raetia,Alderney,3.0,2.0,Tynwald Hill Tournament,St John's,Isle of Man,True
+2013-07-06,Tamil Eelam,Occitania,0.0,5.0,Tynwald Hill Tournament,St John's,Isle of Man,True
+2013-07-07,Raetia,Tamil Eelam,0.0,5.0,Tynwald Hill Tournament,St John's,Isle of Man,True
+2013-07-07,Sealand,Alderney,2.0,2.0,Tynwald Hill Tournament,St John's,Isle of Man,True
+2013-07-08,Namibia,Seychelles,4.0,2.0,COSAFA Cup,Lusaka,Zambia,True
+2013-07-13,South Africa,Namibia,2.0,1.0,COSAFA Cup,Lusaka,Zambia,True
+2013-07-14,Frøya,Falkland Islands,1.0,2.0,Island Games,Hamilton,Bermuda,True
+2013-07-15,Greenland,Frøya,12.0,0.0,Island Games,Hamilton,Bermuda,True
+2013-07-16,Namibia,Mozambique,0.0,1.0,COSAFA Cup,Kitwe,Zambia,True
+2013-07-17,Bermuda,Frøya,8.0,0.0,Island Games,Hamilton,Bermuda,False
+2013-07-18,Falkland Islands,Frøya,6.0,0.0,Island Games,Hamilton,Bermuda,True
+2013-08-30,Botswana,Uganda,1.0,3.0,Friendly,Gaborone,Botswana,False
+2013-09-07,Tunisia,Cape Verde,3.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2013-09-08,Kenya,Namibia,1.0,0.0,FIFA World Cup qualification,Nairobi,Kenya,False
+2013-09-23,Abkhazia,South Ossetia,3.0,0.0,Friendly,Sukhumi,Georgia,False
+2013-11-19,Cambodia,Guam,0.0,2.0,Friendly,Phnom Penh,Cambodia,False
+2013-11-19,Namibia,Mozambique,0.0,0.0,Friendly,Windhoek,Namibia,False
+2013-11-24,Singapore,Cambodia,1.0,0.0,Friendly,Hougang,Singapore,False
+2013-12-08,Zambia,Burundi,4.0,3.0,CECAFA Cup,Mombasa,Kenya,True
+2013-12-14,Libya,Mali,1.0,0.0,Friendly,El Jadida,Morocco,True
+2013-12-28,Basque Country,Peru,6.0,0.0,Friendly,Bilbao,Spain,False
+2013-12-28,Galicia,Occitania,1.0,7.0,Friendly,Lugo,Spain,False
+2013-12-30,Catalonia,Cape Verde,4.0,1.0,Friendly,Barcelona,Spain,False
+2014-01-04,Namibia,Ghana,0.0,1.0,Friendly,Windhoek,Namibia,False
+2014-01-04,Nigeria,Ethiopia,2.0,1.0,Friendly,Abuja,Nigeria,False
+2014-01-07,Zimbabwe,Gabon,2.0,0.0,Friendly,Johannesburg,South Africa,True
+2014-02-23,Sealand,Chagos Islands,4.0,2.0,Friendly,Godalming,England,True
+2014-03-05,Namibia,Tanzania,1.0,1.0,Friendly,Windhoek,Namibia,False
+2014-03-15,Alderney,Guernsey,0.0,4.0,Muratti Vase,Alderney,Alderney,False
+2014-04-06,Ellan Vannin,Monaco,10.0,0.0,Friendly,Douglas,Isle of Man,False
+2014-05-05,Sealand,Chagos Islands,1.0,1.0,Friendly,Godalming,England,True
+2014-05-10,Palestine,Jordan,1.0,0.0,Palestine International Championship,Hebron,Palestine,False
+2014-05-11,Jersey,Guernsey,1.0,4.0,Muratti Vase,Jersey,Jersey,False
+2014-05-11,Pakistan,Sri Lanka,3.0,0.0,Palestine International Championship,Al-Ram,Palestine,True
+2014-05-14,Jordan,Pakistan,1.0,0.0,Palestine International Championship,Nablus,Palestine,True
+2014-05-14,Palestine,Sri Lanka,3.0,0.0,Palestine International Championship,Nablus,Palestine,False
+2014-05-17,Namibia,Congo,1.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2014-05-17,Somaliland,Sealand,2.0,2.0,Friendly,London,England,True
+2014-05-17,Sri Lanka,Jordan,0.0,4.0,Palestine International Championship,Al-Ram,Palestine,True
+2014-05-17,Palestine,Pakistan,3.0,0.0,Palestine International Championship,Al-Ram,Palestine,False
+2014-05-20,Palestine,Jordan,1.0,0.0,Palestine International Championship,Hebron,Palestine,False
+2014-05-25,Thailand,Kuwait,1.0,1.0,Friendly,Bangkok,Thailand,False
+2014-05-29,Franconia,Raetia,4.0,2.0,Friendly,Lohr am Main,Germany,False
+2014-06-01,Congo,Namibia,3.0,0.0,African Cup of Nations qualification,Pointe-Noire,Congo,False
+2014-06-01,Iraqi Kurdistan,Arameans Suryoye,1.0,2.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-01,Abkhazia,Occitania,1.0,1.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-01,Darfur,Padania,0.0,20.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-01,Ellan Vannin,Artsakh,3.0,2.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-02,Tamil Eelam,Arameans Suryoye,0.0,2.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-02,Sápmi,Abkhazia,1.0,2.0,CONIFA World Football Cup,Östersund,Sweden,False
+2014-06-02,Darfur,South Ossetia,0.0,19.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-02,Ellan Vannin,County of Nice,4.0,2.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-03,Tamil Eelam,Iraqi Kurdistan,0.0,9.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-03,Sápmi,Occitania,0.0,1.0,CONIFA World Football Cup,Östersund,Sweden,False
+2014-06-03,South Ossetia,Padania,1.0,3.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-03,Artsakh,County of Nice,0.0,1.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-04,Padania,County of Nice,1.0,2.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-04,Abkhazia,South Ossetia,0.0,0.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-04,Arameans Suryoye,Occitania,0.0,0.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-04,Ellan Vannin,Iraqi Kurdistan,1.0,1.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-05,Sápmi,Tamil Eelam,4.0,2.0,CONIFA World Football Cup,Östersund,Sweden,False
+2014-06-05,Darfur,Artsakh,0.0,12.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-05,Padania,Abkhazia,3.0,3.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-05,Occitania,Iraqi Kurdistan,2.0,2.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-06,County of Nice,South Ossetia,3.0,0.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-06,Arameans Suryoye,Ellan Vannin,1.0,4.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-07,Sápmi,Artsakh,1.0,5.0,CONIFA World Football Cup,Östersund,Sweden,False
+2014-06-07,Tamil Eelam,Darfur,10.0,0.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-07,Abkhazia,Occitania,0.0,1.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-07,Padania,Iraqi Kurdistan,1.0,1.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-08,South Ossetia,Arameans Suryoye,1.0,4.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-06-08,County of Nice,Ellan Vannin,0.0,0.0,CONIFA World Football Cup,Östersund,Sweden,True
+2014-08-09,Raetia,Sealand,1.0,6.0,Friendly,Chur,Switzerland,False
+2014-08-10,Seborga,Sealand,2.0,3.0,Friendly,Ospedaletti,Italy,False
+2014-08-26,Saint Lucia,Martinique,0.0,2.0,Friendly,Gros Islet,Saint Lucia,False
+2014-08-28,Saint Lucia,Martinique,0.0,1.0,Friendly,Gros Islet,Saint Lucia,False
+2014-09-30,Botswana,Zimbabwe,1.0,0.0,Friendly,Gaborone,Botswana,False
+2014-10-14,Serbia,Albania,0.0,3.0,UEFA Euro qualification,Belgrade,Serbia,False
+2014-10-15,Eswatini,Zimbabwe,0.0,2.0,Friendly,Lobamba,Swaziland,False
+2014-10-25,Zambia,Ivory Coast,1.0,1.0,Friendly,Lusaka,Zambia,False
+2014-11-08,Székely Land,Raetia,3.0,0.0,Friendly,Sepsiszentgyörgy,Romania,False
+2014-11-16,Morocco,Zimbabwe,2.0,1.0,Friendly,Agadir,Morocco,False
+2014-11-30,South Africa,Ivory Coast,2.0,0.0,Friendly,Nelspruit,South Africa,False
+2014-12-28,Basque Country,Catalonia,1.0,1.0,Friendly,Bilbao,Spain,False
+2014-12-30,Occitania,Ellan Vannin,5.0,1.0,Friendly,Toulouse,France,False
+2015-01-05,China,Oman,4.0,1.0,Friendly,Penrith,Australia,True
+2015-01-11,Nigeria,Ivory Coast,0.0,1.0,Friendly,Abu Dhabi,United Arab Emirates,True
+2015-01-13,Botswana,Burkina Faso,0.0,2.0,Friendly,Nelspruit,South Africa,True
+2015-01-17,Yemen,Nigeria,0.0,2.0,Friendly,Dubai,United Arab Emirates,True
+2015-03-12,Timor-Leste,Mongolia,0.0,3.0,FIFA World Cup qualification,Dili,Timor-Leste,False
+2015-03-17,Mongolia,Timor-Leste,3.0,0.0,FIFA World Cup qualification,Ulaanbaatar,Mongolia,False
+2015-03-25,Botswana,Lesotho,2.0,0.0,Friendly,Gaborone,Botswana,False
+2015-03-28,Alderney,Jersey,0.0,5.0,Muratti Vase,Alderney,Alderney,False
+2015-05-05,Abkhazia,Luhansk PR,1.0,0.0,Friendly,Sukhumi,Georgia,False
+2015-05-14,Abkhazia,Donetsk PR,1.0,0.0,Friendly,Sukhumi,Georgia,False
+2015-05-16,Guernsey,Jersey,2.0,3.0,Muratti Vase,Guernsey,Guernsey,False
+2015-05-17,Namibia,Seychelles,0.0,0.0,COSAFA Cup,Saulspoort,South Africa,True
+2015-05-19,Namibia,Mauritius,2.0,0.0,COSAFA Cup,Saulspoort,South Africa,True
+2015-05-21,Namibia,Zimbabwe,4.0,1.0,COSAFA Cup,Saulspoort,South Africa,True
+2015-05-24,Zambia,Namibia,0.0,0.0,COSAFA Cup,Saulspoort,South Africa,True
+2015-05-28,Namibia,Madagascar,3.0,2.0,COSAFA Cup,Saulspoort,South Africa,True
+2015-05-29,Corsica,Burkina Faso,1.0,0.0,Friendly,Bastia,France,False
+2015-05-30,Namibia,Mozambique,2.0,0.0,COSAFA Cup,Saulspoort,South Africa,True
+2015-05-30,Alderney,Felvidék,1.0,2.0,Niamh Challenge Cup,Douglas,Isle of Man,True
+2015-05-30,Ellan Vannin,Panjab,8.0,1.0,Niamh Challenge Cup,Douglas,Isle of Man,False
+2015-05-31,Ellan Vannin,Felvidék,3.0,1.0,Niamh Challenge Cup,Douglas,Isle of Man,False
+2015-05-31,Panjab,Alderney,9.0,1.0,Friendly,Douglas,Isle of Man,True
+2015-06-06,Guinea,Chad,2.0,1.0,Friendly,Saint-Leu-la-Forêt,France,True
+2015-06-11,Malaysia,Timor-Leste,3.0,0.0,FIFA World Cup qualification,Kuala Lumpur,Malaysia,False
+2015-06-11,Yemen,Korea DPR,0.0,3.0,FIFA World Cup qualification,Doha,Qatar,True
+2015-06-14,Barbados,Aruba,0.0,3.0,FIFA World Cup qualification,Bridgetown,Barbados,False
+2015-06-14,Niger,Namibia,1.0,0.0,African Cup of Nations qualification,Niamey,Niger,False
+2015-06-16,Timor-Leste,United Arab Emirates,0.0,3.0,FIFA World Cup qualification,Shah Alam,Malaysia,True
+2015-06-17,Székely Land,County of Nice,2.0,3.0,CONIFA European Football Cup,Debrecen,Hungary,False
+2015-06-17,Padania,Romani people,3.0,2.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-18,Székely Land,Felvidék,1.0,3.0,CONIFA European Football Cup,Debrecen,Hungary,False
+2015-06-18,Romani people,Ellan Vannin,1.0,3.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-19,Felvidék,County of Nice,1.0,4.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-19,Padania,Ellan Vannin,1.0,0.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-19,Székely Land,Romani people,2.0,4.0,CONIFA European Football Cup,Debrecen,Hungary,False
+2015-06-20,County of Nice,Ellan Vannin,3.0,1.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-20,Padania,Felvidék,5.0,0.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-21,Ellan Vannin,Felvidék,1.0,1.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-21,County of Nice,Padania,1.0,4.0,CONIFA European Football Cup,Debrecen,Hungary,True
+2015-06-28,Greenland,Menorca,2.0,2.0,Island Games,Grouville,Jersey,True
+2015-06-28,Saare County,Åland Islands,1.0,2.0,Island Games,Grouville,Jersey,True
+2015-06-28,Gibraltar,Gotland,2.0,1.0,Island Games,St. Peter,Jersey,True
+2015-06-28,Ynys Môn,Guernsey,2.0,5.0,Island Games,St. Peter,Jersey,True
+2015-06-28,Falkland Islands,Hitra,2.0,1.0,Island Games,St. John,Jersey,True
+2015-06-28,Shetland,Isle of Wight,0.0,0.0,Island Games,St. Lawrence,Jersey,True
+2015-06-28,Western Isles,Isle of Man,0.0,9.0,Island Games,St. Lawrence,Jersey,True
+2015-06-28,Jersey,Alderney,6.0,0.0,Island Games,St Helier,Jersey,False
+2015-06-29,Isle of Man,Alderney,7.0,0.0,Island Games,St. Ouen,Jersey,True
+2015-06-29,Jersey,Western Isles,3.0,0.0,Island Games,St Helier,Jersey,False
+2015-06-29,Åland Islands,Greenland,0.0,2.0,Island Games,St. Clement,Jersey,True
+2015-06-29,Menorca,Saare County,3.0,0.0,Island Games,St. Clement,Jersey,True
+2015-06-29,Guernsey,Gotland,3.0,0.0,Island Games,St. Brelade,Jersey,True
+2015-06-29,Gibraltar,Ynys Môn,1.0,1.0,Island Games,St Helier,Jersey,True
+2015-06-29,Isle of Wight,Falkland Islands,3.0,0.0,Island Games,St. Ouen,Jersey,True
+2015-06-29,Hitra,Shetland,1.0,4.0,Island Games,St. Brelade,Jersey,True
+2015-06-30,Åland Islands,Menorca,1.0,3.0,Island Games,St. Clement,Jersey,True
+2015-06-30,Greenland,Saare County,2.0,1.0,Island Games,Grouville,Jersey,True
+2015-06-30,Gotland,Ynys Môn,2.0,3.0,Island Games,St. Peter,Jersey,True
+2015-06-30,Gibraltar,Guernsey,0.0,4.0,Island Games,St Helier,Jersey,True
+2015-06-30,Isle of Wight,Hitra,3.0,1.0,Island Games,St. Lawrence,Jersey,True
+2015-06-30,Falkland Islands,Shetland,0.0,5.0,Island Games,St. Peter,Jersey,True
+2015-06-30,Jersey,Isle of Man,1.0,2.0,Island Games,St. John,Jersey,False
+2015-06-30,Alderney,Western Isles,2.0,3.0,Island Games,St. Peter,Jersey,True
+2015-07-02,Hitra,Alderney,5.0,1.0,Island Games,St. Ouen,Jersey,True
+2015-07-02,Gotland,Saare County,2.0,3.0,Island Games,St. Ouen,Jersey,True
+2015-07-02,Falkland Islands,Western Isles,1.0,2.0,Island Games,St. Brelade,Jersey,True
+2015-07-02,Gibraltar,Åland Islands,0.0,0.0,Island Games,St. Brelade,Jersey,True
+2015-07-02,Jersey,Ynys Môn,1.0,0.0,Island Games,St. Clement,Jersey,False
+2015-07-02,Isle of Wight,Greenland,1.0,2.0,Island Games,St. Clement,Jersey,True
+2015-07-02,Menorca,Guernsey,1.0,2.0,Island Games,St Helier,Jersey,True
+2015-07-02,Shetland,Isle of Man,1.0,3.0,Island Games,St Helier,Jersey,True
+2015-07-03,Menorca,Shetland,1.0,0.0,Island Games,St. Peter,Jersey,True
+2015-07-03,Guernsey,Isle of Man,3.0,0.0,Island Games,St Helier,Jersey,True
+2015-07-09,Luhansk PR,Donetsk PR,3.0,1.0,Friendly,Luhansk,Ukraine,False
+2015-07-31,Seychelles,Madagascar,3.0,0.0,Indian Ocean Island Games,Réunion,Réunion,True
+2015-08-02,Comoros,Mauritius,0.0,3.0,Indian Ocean Island Games,Réunion,Réunion,True
+2015-08-04,Réunion,Comoros,3.0,0.0,Indian Ocean Island Games,Réunion,Réunion,False
+2015-08-08,Donetsk PR,Luhansk PR,4.0,1.0,Friendly,Donetsk,Ukraine,False
+2015-08-30,Niger,Burkina Faso,0.0,0.0,Friendly,Niamey,Niger,False
+2015-09-05,Argentina,Bolivia,7.0,0.0,Friendly,Houston,United States,True
+2015-09-05,Namibia,Senegal,0.0,2.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2015-09-06,Raetia,Franconia,6.0,0.0,Benedikt Fontana Cup,Chur,Switzerland,False
+2015-09-08,Malaysia,Saudi Arabia,0.0,3.0,FIFA World Cup qualification,Shah Alam,Malaysia,False
+2015-10-07,Sudan,Mauritania,1.0,1.0,FIFA World Cup qualification,Juba,South Sudan,False
+2015-10-08,Timor-Leste,Palestine,0.0,3.0,FIFA World Cup qualification,Dili,Timor-Leste,False
+2015-10-09,Gambia,Namibia,1.0,1.0,FIFA World Cup qualification,Bakau,Gambia,False
+2015-10-13,Timor-Leste,Malaysia,0.0,3.0,FIFA World Cup qualification,Dili,Timor-Leste,False
+2015-10-13,Namibia,Gambia,2.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2015-11-06,Angola,Namibia,1.0,0.0,Friendly,Luanda,Angola,False
+2015-11-07,Namibia,Zambia,0.0,0.0,Friendly,Luanda,Angola,True
+2015-11-12,Namibia,Guinea,0.0,1.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2015-11-14,Hong Kong,Macau,2.0,0.0,Friendly,Siu Sai Wan,Hong Kong,False
+2015-11-15,DR Congo,Burundi,3.0,0.0,FIFA World Cup qualification,Kinshasa,DR Congo,False
+2015-11-15,Guinea,Namibia,2.0,0.0,FIFA World Cup qualification,Casablanca,Morocco,True
+2015-11-17,Myanmar,Kuwait,3.0,0.0,FIFA World Cup qualification,Bangkok,Thailand,True
+2015-12-20,Panjab,Chagos Islands,4.0,1.0,Friendly,Sutton Coldfield,England,True
+2015-12-26,Catalonia,Basque Country,0.0,1.0,Friendly,Barcelona,Spain,False
+2016-01-06,Rwanda,Cameroon,1.0,1.0,Friendly,Gisenyi,Rwanda,False
+2016-01-10,Rwanda,DR Congo,1.0,0.0,Friendly,Gisenyi,Rwanda,False
+2016-01-13,Uganda,Cameroon,0.0,0.0,Friendly,Njeru,Uganda,False
+2016-02-27,Egypt,Burkina Faso,2.0,0.0,Friendly,Alexandria,Egypt,False
+2016-03-13,Tamil Eelam,Romani people,4.0,1.0,ConIFA Challenger Cup,Remscheid,Germany,True
+2016-03-26,Burundi,Namibia,1.0,3.0,African Cup of Nations qualification,Bujumbura,Burundi,False
+2016-03-26,Zimbabwe,Eswatini,4.0,0.0,African Cup of Nations qualification,Harare,Zimbabwe,False
+2016-03-29,Namibia,Burundi,1.0,3.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2016-04-02,Alderney,Guernsey,0.0,1.0,Muratti Vase,Alderney,Alderney,False
+2016-04-24,Panjab,Jersey,0.0,2.0,Friendly,Kidderminster,England,False
+2016-05-14,Jersey,Guernsey,1.0,0.0,Muratti Vase,Jersey,Jersey,False
+2016-05-16,Romani people,Padania,0.0,2.0,Friendly,Milan,Italy,True
+2016-05-20,Galicia,Venezuela,1.0,1.0,Friendly,A Coruña,Spain,False
+2016-05-21,Abkhazia,Donetsk PR,0.0,0.0,Friendly,Sukhumi,Georgia,False
+2016-05-27,Corsica,Basque Country,1.0,1.0,Friendly,Ajaccio,France,False
+2016-05-28,Costa Rica,Venezuela,2.0,1.0,Friendly,San José,Costa Rica,False
+2016-05-29,Abkhazia,Chagos Islands,9.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-05-29,Iraqi Kurdistan,Székely Land,3.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-29,Padania,Northern Cyprus,1.0,2.0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-29,Sápmi,Somaliland,5.0,0.0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-30,Chagos Islands,Western Armenia,0.0,12.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-30,United Koreans in Japan,Székely Land,1.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-30,Raetia,Padania,0.0,6.0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-30,Sápmi,Panjab,0.0,1.0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-31,Abkhazia,Western Armenia,1.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-05-31,United Koreans in Japan,Iraqi Kurdistan,0.0,3.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-05-31,Northern Cyprus,Raetia,7.0,0.0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-05-31,Somaliland,Panjab,0.0,5.0,CONIFA World Football Cup,Gagra,Georgia,True
+2016-06-01,United Koreans in Japan,Northern Cyprus,1.0,1.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-01,Abkhazia,Sápmi,2.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-02,Iraqi Kurdistan,Padania,2.0,2.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-02,Western Armenia,Panjab,2.0,3.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-02,Chagos Islands,Somaliland,2.0,3.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-02,Székely Land,Raetia,7.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03,Sierra Leone,Sudan,1.0,0.0,African Cup of Nations qualification,Freetown,Sierra Leone,False
+2016-06-03,United Koreans in Japan,Sápmi,1.0,2.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03,Iraqi Kurdistan,Western Armenia,0.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03,Chagos Islands,Raetia,3.0,3.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-03,Somaliland,Székely Land,7.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04,Namibia,Niger,1.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2016-06-04,Abkhazia,Northern Cyprus,2.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-04,Padania,Panjab,1.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04,United Koreans in Japan,Iraqi Kurdistan,1.0,1.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-04,Sápmi,Western Armenia,3.0,0.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-05,Central African Republic,Angola,3.0,0.0,African Cup of Nations qualification,Bangui,Central African Republic,False
+2016-06-05,Padania,Northern Cyprus,0.0,2.0,CONIFA World Football Cup,Sukhumi,Georgia,True
+2016-06-05,Abkhazia,Panjab,1.0,1.0,CONIFA World Football Cup,Sukhumi,Georgia,False
+2016-06-18,Namibia,Botswana,1.0,1.0,COSAFA Cup,Windhoek,Namibia,False
+2016-06-21,Namibia,Mozambique,3.0,0.0,COSAFA Cup,Windhoek,Namibia,False
+2016-06-24,Namibia,Zambia,1.0,0.0,COSAFA Cup,Windhoek,Namibia,False
+2016-08-01,Felvidék,Kárpátalja,1.0,1.0,Hungary Heritage Cup,Szarvas,Hungary,True
+2016-08-01,Délvidék,Székely Land,3.0,1.0,Hungary Heritage Cup,Szarvas,Hungary,True
+2016-08-03,Délvidék,Felvidék,1.0,2.0,Hungary Heritage Cup,Szarvas,Hungary,True
+2016-08-13,Donetsk PR,Luhansk PR,1.0,1.0,Friendly,Donetsk,Ukraine,False
+2016-08-25,Barawa,Tamil Eelam,0.0,5.0,World Unity Cup,London,England,False
+2016-08-26,Barawa,Chagos Islands,2.0,3.0,World Unity Cup,London,England,False
+2016-08-28,Chagos Islands,Tamil Eelam,1.0,5.0,World Unity Cup,London,England,True
+2016-09-01,Bolivia,Peru,0.0,3.0,FIFA World Cup qualification,La Paz,Bolivia,False
+2016-09-03,Senegal,Namibia,2.0,0.0,African Cup of Nations qualification,Dakar,Senegal,False
+2016-09-05,Albania,North Macedonia,2.0,1.0,FIFA World Cup qualification,Shkodër,Albania,False
+2016-09-06,Chile,Bolivia,3.0,0.0,FIFA World Cup qualification,Santiago,Chile,False
+2016-11-07,Tahiti,Solomon Islands,3.0,0.0,FIFA World Cup qualification,Pirae,Tahiti,False
+2016-11-26,Ryūkyū,United Koreans in Japan,0.0,9.0,Friendly,Nakagusuku,Japan,True
+2016-12-28,Catalonia,Tunisia,3.0,3.0,Friendly,Girona,Spain,False
+2016-12-30,Basque Country,Tunisia,3.0,1.0,Friendly,Bilbao,Spain,False
+2017-01-26,Brazil,Colombia,1.0,0.0,Friendly,Rio de Janeiro,Brazil,False
+2017-03-12,Raetia,Tamil Eelam,0.0,5.0,Friendly,Trübbach,Switzerland,True
+2017-03-25,Alderney,Jersey,1.0,2.0,Muratti Vase,Alderney,Alderney,False
+2017-04-23,Jersey,Panjab,0.0,2.0,Friendly,St Helier,Jersey,False
+2017-05-04,Burkina Faso,Benin,1.0,1.0,Friendly,Ouagadougou,Burkina Faso,False
+2017-05-07,Saint Kitts and Nevis,Barbados,2.0,1.0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2017-05-11,Senegal,Mauritania,2.0,0.0,Friendly,Dakar,Senegal,False
+2017-05-13,Egypt,Libya,1.0,0.0,Friendly,Cairo,Egypt,False
+2017-05-13,Guernsey,Jersey,2.0,1.0,Muratti Vase,Guernsey,Guernsey,False
+2017-05-21,Benin,Burkina Faso,2.0,2.0,Friendly,Cotonou,Benin,False
+2017-05-25,Ghana,Benin,1.0,1.0,Friendly,Accra,Ghana,False
+2017-05-26,Corsica,Nigeria,1.0,1.0,Friendly,Ajaccio,France,False
+2017-05-28,El Salvador,Honduras,2.0,2.0,Friendly,"Washington, D.C.",United States,True
+2017-05-28,Mexico,Croatia,1.0,2.0,Friendly,Los Angeles,United States,True
+2017-05-31,Ivory Coast,Benin,1.0,1.0,Friendly,Abidjan,Ivory Coast,False
+2017-06-04,Northern Cyprus,Kárpátalja,1.0,0.0,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-05,Abkhazia,South Ossetia,2.0,1.0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,True
+2017-06-05,Padania,Ellan Vannin,1.0,0.0,CONIFA European Football Cup,Morphou,Northern Cyprus,True
+2017-06-05,Felvidék,Székely Land,1.0,0.0,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-06,Northern Cyprus,South Ossetia,8.0,0.0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,False
+2017-06-06,Kárpátalja,Abkhazia,2.0,2.0,CONIFA European Football Cup,Nicosia,Northern Cyprus,True
+2017-06-06,Székely Land,Padania,1.0,1.0,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-06,Ellan Vannin,Felvidék,1.0,0.0,CONIFA European Football Cup,Morphou,Northern Cyprus,True
+2017-06-07,Northern Cyprus,Abkhazia,0.0,0.0,CONIFA European Football Cup,Morphou,Northern Cyprus,False
+2017-06-07,South Ossetia,Kárpátalja,1.0,4.0,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-07,Ellan Vannin,Székely Land,2.0,4.0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,True
+2017-06-07,Padania,Felvidék,2.0,0.0,CONIFA European Football Cup,Nicosia,Northern Cyprus,True
+2017-06-09,South Ossetia,Felvidék,0.0,2.0,CONIFA European Football Cup,Famagusta,Northern Cyprus,True
+2017-06-09,Kárpátalja,Ellan Vannin,3.0,3.0,CONIFA European Football Cup,Morphou,Northern Cyprus,True
+2017-06-09,Northern Cyprus,Székely Land,2.0,1.0,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-09,Padania,Abkhazia,0.0,0.0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,True
+2017-06-10,Guinea-Bissau,Namibia,1.0,0.0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2017-06-10,Székely Land,Abkhazia,3.0,1.0,CONIFA European Football Cup,Kyrenia,Northern Cyprus,True
+2017-06-10,Northern Cyprus,Padania,1.0,1.0,CONIFA European Football Cup,Nicosia,Northern Cyprus,False
+2017-06-25,Menorca,Orkney,1.0,0.0,Island Games,Stenkyrka,Sweden,True
+2017-06-25,Alderney,Jersey,0.0,3.0,Island Games,Väskinde,Sweden,True
+2017-06-25,Gotland,Frøya,7.0,1.0,Island Games,Visby,Sweden,False
+2017-06-25,Western Isles,Greenland,0.0,3.0,Island Games,Dalhem,Sweden,True
+2017-06-25,Guernsey,Åland Islands,1.0,1.0,Island Games,Dalhem,Sweden,True
+2017-06-25,Saare County,Shetland,4.0,5.0,Island Games,Hemse,Sweden,True
+2017-06-25,Isle of Man,Hitra,5.0,0.0,Island Games,Fårösund,Sweden,True
+2017-06-25,Ynys Môn,Falkland Islands,3.0,0.0,Island Games,Säve,Sweden,True
+2017-06-26,Jersey,Menorca,3.0,3.0,Island Games,Visby,Sweden,True
+2017-06-26,Orkney,Alderney,3.0,0.0,Island Games,Hemse,Sweden,True
+2017-06-26,Gotland,Western Isles,8.0,0.0,Island Games,Dalhem,Sweden,False
+2017-06-26,Frøya,Greenland,2.0,2.0,Island Games,Hemse,Sweden,True
+2017-06-26,Shetland,Guernsey,0.0,3.0,Island Games,Stenkyrka,Sweden,True
+2017-06-26,Åland Islands,Saare County,0.0,0.0,Island Games,Fardhem,Sweden,True
+2017-06-26,Falkland Islands,Isle of Man,2.0,5.0,Island Games,Säve,Sweden,True
+2017-06-26,Hitra,Ynys Môn,1.0,5.0,Island Games,Väskinde,Sweden,True
+2017-06-27,Menorca,Alderney,6.0,0.0,Island Games,Fårösund,Sweden,True
+2017-06-27,Orkney,Jersey,0.0,3.0,Island Games,Väskinde,Sweden,True
+2017-06-27,Gotland,Greenland,0.0,1.0,Island Games,Visby,Sweden,False
+2017-06-27,Frøya,Western Isles,2.0,4.0,Island Games,Säve,Sweden,True
+2017-06-27,Guernsey,Saare County,1.0,1.0,Island Games,Dalhem,Sweden,True
+2017-06-27,Åland Islands,Shetland,2.0,1.0,Island Games,Visby,Sweden,True
+2017-06-27,Isle of Man,Ynys Môn,4.0,0.0,Island Games,Stenkyrka,Sweden,True
+2017-06-27,Hitra,Falkland Islands,2.0,1.0,Island Games,Fardhem,Sweden,True
+2017-06-29,Falkland Islands,Alderney,0.0,3.0,Island Games,Säve,Sweden,True
+2017-06-29,Saare County,Frøya,4.0,2.0,Island Games,Fardhem,Sweden,True
+2017-06-29,Hitra,Western Isles,1.0,1.0,Island Games,Stenkyrka,Sweden,True
+2017-06-29,Orkney,Shetland,3.0,1.0,Island Games,Dalhem,Sweden,True
+2017-06-29,Ynys Môn,Åland Islands,0.0,2.0,Island Games,Fårösund,Sweden,True
+2017-06-29,Gotland,Jersey,2.0,3.0,Island Games,Visby,Sweden,False
+2017-06-29,Greenland,Menorca,1.0,1.0,Island Games,Väskinde,Sweden,True
+2017-06-29,Guernsey,Isle of Man,3.0,4.0,Island Games,Fardhem,Sweden,True
+2017-06-30,Menorca,Guernsey,0.0,1.0,Island Games,Väskinde,Sweden,True
+2017-06-30,Greenland,Isle of Man,0.0,6.0,Island Games,Visby,Sweden,True
+2017-07-01,Gambia,Guinea-Bissau,0.0,0.0,Friendly,Bakau,Gambia,False
+2017-07-01,Namibia,Lesotho,0.0,0.0,COSAFA Cup,Rustenburg,South Africa,True
+2017-07-04,Namibia,Eswatini,1.0,0.0,COSAFA Cup,Saulspoort,South Africa,True
+2017-07-07,South Africa,Namibia,1.0,0.0,COSAFA Cup,Saulspoort,South Africa,False
+2017-07-08,Guinea-Bissau,Gambia,0.0,1.0,Friendly,Bissau,Guinea-Bissau,False
+2017-07-16,Burkina Faso,Korea DPR,3.0,3.0,King's Cup,Bangkok,Thailand,True
+2017-07-16,Thailand,Belarus,0.0,0.0,King's Cup,Bangkok,Thailand,False
+2017-08-05,Zambia,Ethiopia,0.0,0.0,Friendly,Lusaka,Zambia,False
+2017-08-07,Rwanda,Sudan,2.0,1.0,Friendly,Kigali,Rwanda,False
+2017-08-31,Kenya,Mauritania,1.0,1.0,Friendly,Agadir,Morocco,True
+2017-08-31,Abkhazia,Donetsk PR,1.0,2.0,Friendly,Sukhumi,Georgia,False
+2017-09-02,Croatia,Kosovo,1.0,0.0,FIFA World Cup qualification,Zagreb,Croatia,False
+2017-11-10,Algeria,Nigeria,3.0,0.0,FIFA World Cup qualification,Constantine,Algeria,False
+2017-11-11,Namibia,Zimbabwe,3.0,1.0,Friendly,Windhoek,Namibia,False
+2017-11-18,Fiji,Estonia,0.0,2.0,Friendly,Suva,Fiji,False
+2017-11-22,Vanuatu,Estonia,0.0,1.0,Friendly,Port Vila,Vanuatu,False
+2017-12-02,Indonesia,Brunei,4.0,0.0,Friendly,Banda Aceh,Indonesia,False
+2017-12-02,Kyrgyzstan,Mongolia,3.0,0.0,Friendly,Banda Aceh,Indonesia,True
+2017-12-03,Saint Kitts and Nevis,Grenada,1.0,0.0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2017-12-04,Brunei,Kyrgyzstan,0.0,4.0,Friendly,Banda Aceh,Indonesia,True
+2017-12-04,Indonesia,Mongolia,3.0,2.0,Friendly,Banda Aceh,Indonesia,False
+2017-12-06,Indonesia,Kyrgyzstan,0.0,1.0,Friendly,Banda Aceh,Indonesia,False
+2017-12-12,New Caledonia,Solomon Islands,0.0,0.0,Pacific Mini Games,Port Vila,Vanuatu,True
+2018-01-11,Denmark,Sweden,0.0,1.0,Friendly,Abu Dhabi,United Arab Emirates,True
+2018-01-11,Indonesia,Iceland,0.0,6.0,Friendly,Sleman,Indonesia,False
+2018-01-28,Yorkshire,Ellan Vannin,1.0,1.0,Friendly,Fitzwilliam,England,False
+2018-03-21,Tahiti,New Caledonia,0.0,0.0,Friendly,Pirae,Tahiti,False
+2018-03-24,Tahiti,New Caledonia,4.0,3.0,Friendly,Pirae,Tahiti,False
+2018-03-24,Alderney,Guernsey,0.0,2.0,Muratti Vase,Alderney,Alderney,False
+2018-03-25,Yorkshire,Chagos Islands,6.0,0.0,Friendly,Fitzwilliam,England,False
+2018-03-27,Namibia,Lesotho,2.0,1.0,Friendly,Windhoek,Namibia,False
+2018-04-08,Barawa,Chagos Islands,4.0,1.0,Friendly,London,England,False
+2018-04-15,Barawa,Yorkshire,2.0,7.0,Friendly,London,England,False
+2018-04-18,Trinidad and Tobago,Panama,0.0,1.0,Friendly,Couva,Trinidad and Tobago,False
+2018-04-29,Ellan Vannin,Panjab,2.0,1.0,Friendly,Sandbach,England,True
+2018-04-29,Saint Barthélemy,Saint Martin,3.0,2.0,Friendly,Saint-Jean,Saint Barthélemy,False
+2018-04-30,Antigua and Barbuda,Jamaica,0.0,2.0,Friendly,St. John's,Antigua and Barbuda,False
+2018-05-06,Barawa,Surrey,1.0,3.0,Friendly,London,England,False
+2018-05-12,Jersey,Guernsey,1.0,0.0,Muratti Vase,Jersey,Jersey,False
+2018-05-25,Kenya,Eswatini,0.0,1.0,Friendly,Machakos,Kenya,False
+2018-05-31,Ellan Vannin,Cascadia,4.0,1.0,CONIFA World Football Cup,Sutton,England,True
+2018-05-31,Barawa,Tamil Eelam,4.0,0.0,CONIFA World Football Cup,Bromley,England,False
+2018-05-31,Abkhazia,Tibet,3.0,0.0,CONIFA World Football Cup,Enfield,England,True
+2018-05-31,Northern Cyprus,Kárpátalja,1.0,1.0,CONIFA World Football Cup,Enfield,England,True
+2018-05-31,Székely Land,Tuvalu,4.0,0.0,CONIFA World Football Cup,Haringey,England,True
+2018-05-31,Padania,Matabeleland,6.0,1.0,CONIFA World Football Cup,Sutton,England,True
+2018-05-31,United Koreans in Japan,Western Armenia,0.0,0.0,CONIFA World Football Cup,Carshalton,England,True
+2018-05-31,Panjab,Kabylia,8.0,0.0,CONIFA World Football Cup,Slough,England,True
+2018-06-02,Zambia,Namibia,0.0,0.0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-02,Lesotho,Eswatini,1.0,0.0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-02,Ellan Vannin,Tamil Eelam,2.0,0.0,CONIFA World Football Cup,Carshalton,England,True
+2018-06-02,Barawa,Cascadia,1.0,2.0,CONIFA World Football Cup,Carshalton,England,False
+2018-06-02,Abkhazia,Kárpátalja,0.0,2.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-02,Northern Cyprus,Tibet,3.0,1.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-02,Székely Land,Matabeleland,5.0,0.0,CONIFA World Football Cup,Haringey,England,True
+2018-06-02,Padania,Tuvalu,8.0,0.0,CONIFA World Football Cup,Haringey,England,True
+2018-06-02,United Koreans in Japan,Kabylia,0.0,0.0,CONIFA World Football Cup,Bracknell,England,True
+2018-06-02,Panjab,Western Armenia,0.0,1.0,CONIFA World Football Cup,Slough,England,True
+2018-06-03,Tamil Eelam,Cascadia,0.0,6.0,CONIFA World Football Cup,Haringey,England,True
+2018-06-03,Barawa,Ellan Vannin,2.0,0.0,CONIFA World Football Cup,Rotherhithe,England,False
+2018-06-03,Abkhazia,Northern Cyprus,2.0,2.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-03,Kárpátalja,Tibet,5.0,1.0,CONIFA World Football Cup,Bracknell,England,True
+2018-06-03,Padania,Székely Land,3.0,1.0,CONIFA World Football Cup,Bedfont,England,True
+2018-06-03,Tuvalu,Matabeleland,1.0,3.0,CONIFA World Football Cup,Haringey,England,True
+2018-06-03,Panjab,United Koreans in Japan,1.0,1.0,CONIFA World Football Cup,Slough,England,True
+2018-06-03,Western Armenia,Kabylia,4.0,0.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-05,South Africa,Namibia,4.0,1.0,COSAFA Cup,Polokwane,South Africa,False
+2018-06-05,Eswatini,Botswana,0.0,2.0,COSAFA Cup,Polokwane,South Africa,True
+2018-06-05,Matabeleland,Kabylia,0.0,0.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-05,Abkhazia,Tamil Eelam,6.0,0.0,CONIFA World Football Cup,Aveley,England,True
+2018-06-05,United Koreans in Japan,Tuvalu,5.0,0.0,CONIFA World Football Cup,Bracknell,England,True
+2018-06-05,Barawa,Northern Cyprus,0.0,8.0,CONIFA World Football Cup,Sutton,England,False
+2018-06-05,Padania,Panjab,2.0,0.0,CONIFA World Football Cup,Bracknell,England,True
+2018-06-05,Kárpátalja,Cascadia,3.0,1.0,CONIFA World Football Cup,Sutton,England,True
+2018-06-05,Western Armenia,Székely Land,0.0,4.0,CONIFA World Football Cup,Bromley,England,True
+2018-06-07,Tamil Eelam,Tuvalu,4.0,3.0,CONIFA World Football Cup,Sutton,England,True
+2018-06-07,Tibet,Kabylia,1.0,8.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-07,Abkhazia,United Koreans in Japan,2.0,0.0,CONIFA World Football Cup,Bromley,England,True
+2018-06-07,Barawa,Panjab,0.0,5.0,CONIFA World Football Cup,Sutton,England,False
+2018-06-07,Cascadia,Western Armenia,4.0,0.0,CONIFA World Football Cup,Bromley,England,True
+2018-06-07,Northern Cyprus,Padania,3.0,2.0,CONIFA World Football Cup,Carshalton,England,True
+2018-06-07,Kárpátalja,Székely Land,4.0,2.0,CONIFA World Football Cup,Carshalton,England,True
+2018-06-09,Matabeleland,Tamil Eelam,1.0,0.0,CONIFA World Football Cup,Aveley,England,True
+2018-06-09,Tibet,United Koreans in Japan,1.0,1.0,CONIFA World Football Cup,Rotherhithe,England,True
+2018-06-09,Kabylia,Abkhazia,0.0,2.0,CONIFA World Football Cup,Aveley,England,True
+2018-06-09,Barawa,Western Armenia,0.0,7.0,CONIFA World Football Cup,Haringey,England,False
+2018-06-09,Panjab,Cascadia,3.0,3.0,CONIFA World Football Cup,Rotherhithe,England,True
+2018-06-09,Padania,Székely Land,0.0,0.0,CONIFA World Football Cup,Enfield,England,True
+2018-06-09,Northern Cyprus,Kárpátalja,0.0,0.0,CONIFA World Football Cup,Enfield,England,True
+2018-08-18,Grenada,Jamaica,1.0,5.0,Friendly,St. George's,Grenada,False
+2018-08-25,Anguilla,Saint Martin,1.0,2.0,Friendly,The Valley,Anguilla,False
+2018-09-06,Guyana,Barbados,3.0,0.0,CONCACAF Nations League qualification,Leonora,Guyana,False
+2018-09-08,Namibia,Zambia,1.0,1.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2018-09-09,Eswatini,Tunisia,0.0,2.0,African Cup of Nations qualification,Manzini,Eswatini,False
+2018-09-12,Brazil,El Salvador,5.0,0.0,Friendly,Landover,United States,True
+2018-09-30,Botswana,Namibia,1.0,0.0,Friendly,Gaborone,Botswana,False
+2018-10-12,Egypt,Eswatini,4.0,1.0,African Cup of Nations qualification,Cairo,Egypt,False
+2018-10-12,Basque Country,Venezuela,4.0,2.0,Friendly,Vitoria-Gasteiz,Spain,False
+2018-10-13,Mozambique,Namibia,1.0,2.0,African Cup of Nations qualification,Maputo,Mozambique,False
+2018-10-16,Eswatini,Egypt,0.0,2.0,African Cup of Nations qualification,Manzini,Eswatini,False
+2018-10-16,Namibia,Mozambique,1.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2018-10-21,Parishes of Jersey,Yorkshire,2.0,1.0,Friendly,St. Peter,Jersey,False
+2018-11-17,Namibia,Guinea-Bissau,0.0,0.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2018-11-18,Yorkshire,Panjab,5.0,4.0,Friendly,Ossett,England,False
+2018-11-18,Eswatini,Niger,1.0,2.0,African Cup of Nations qualification,Manzini,Eswatini,False
+2019-03-04,Barbados,Grenada,3.0,0.0,Friendly,Kingstown,Saint Vincent and the Grenadines,True
+2019-03-21,North Macedonia,Latvia,3.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-03-22,Saint Vincent and the Grenadines,Bonaire,2.0,1.0,CONCACAF Nations League qualification,Arnos Vale,Saint Vincent and the Grenadines,False
+2019-03-22,Tunisia,Eswatini,4.0,0.0,African Cup of Nations qualification,Radès,Tunisia,False
+2019-03-23,Zambia,Namibia,4.0,1.0,African Cup of Nations qualification,Lusaka,Zambia,False
+2019-03-23,Vatican City,Raetia,2.0,2.0,Friendly,Rome,Italy,False
+2019-03-23,Alderney,Jersey,0.0,2.0,Muratti Vase,Alderney,Alderney,False
+2019-03-24,Slovenia,North Macedonia,1.0,1.0,UEFA Euro qualification,Ljubljana,Slovenia,False
+2019-03-24,El Salvador,Jamaica,2.0,0.0,CONCACAF Nations League qualification,San Salvador,El Salvador,False
+2019-03-25,Catalonia,Venezuela,2.0,1.0,Friendly,Girona,Spain,False
+2019-05-04,Yorkshire,Somaliland,6.0,2.0,Friendly,Athersley,England,False
+2019-05-11,Guernsey,Jersey,0.0,0.0,Muratti Vase,Guernsey,Guernsey,False
+2019-05-25,Eswatini,Mauritius,2.0,2.0,COSAFA Cup,Durban,South Africa,True
+2019-05-25,Kernow,Barawa,5.0,0.0,Friendly,Bodmin,England,False
+2019-05-25,Cascadia,Chagos Islands,6.0,3.0,Friendly,Kent,United States,False
+2019-05-26,Mozambique,Namibia,1.0,2.0,COSAFA Cup,Durban,South Africa,True
+2019-05-27,Eswatini,Comoros,2.0,2.0,COSAFA Cup,Durban,South Africa,True
+2019-05-28,Namibia,Malawi,1.0,2.0,COSAFA Cup,Durban,South Africa,True
+2019-05-29,Panama,Basque Country,0.0,0.0,Friendly,Panama City,Panama,False
+2019-05-30,Namibia,Seychelles,3.0,0.0,COSAFA Cup,Durban,South Africa,True
+2019-06-01,Yorkshire,Parishes of Jersey,1.0,0.0,Atlantic Heritage Cup,Ossett,England,False
+2019-06-02,Abkhazia,Chameria,3.0,1.0,CONIFA European Football Cup,Askeran,Azerbaijan,True
+2019-06-02,Artsakh,Sápmi,3.0,2.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,False
+2019-06-02,Padania,Székely Land,4.0,0.0,CONIFA European Football Cup,Martakert,Azerbaijan,True
+2019-06-02,Western Armenia,South Ossetia,1.0,2.0,CONIFA European Football Cup,Martuni,Azerbaijan,True
+2019-06-02,Parishes of Jersey,Chagos Islands,9.0,2.0,Atlantic Heritage Cup,Harrogate,England,False
+2019-06-03,Vanuatu,Tahiti,2.0,0.0,Friendly,Port Vila,Vanuatu,False
+2019-06-03,Artsakh,Chameria,1.0,4.0,CONIFA European Football Cup,Martuni,Azerbaijan,False
+2019-06-03,Sápmi,Abkhazia,0.0,1.0,CONIFA European Football Cup,Martakert,Azerbaijan,True
+2019-06-03,Székely Land,Western Armenia,0.0,5.0,CONIFA European Football Cup,Askeran,Azerbaijan,True
+2019-06-03,South Ossetia,Padania,2.0,1.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-04,Artsakh,Abkhazia,1.0,1.0,CONIFA European Football Cup,Martuni,Azerbaijan,False
+2019-06-04,Chameria,Sápmi,4.0,0.0,CONIFA European Football Cup,Martakert,Azerbaijan,True
+2019-06-04,South Ossetia,Székely Land,2.0,2.0,CONIFA European Football Cup,Askeran,Azerbaijan,True
+2019-06-04,Padania,Western Armenia,1.0,1.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-06,Slovakia,Jordan,5.0,1.0,Friendly,Trnava,Slovakia,False
+2019-06-06,Tajikistan,Afghanistan,1.0,1.0,Friendly,Dushanbe,Tajikistan,False
+2019-06-06,Abkhazia,Western Armenia,1.0,1.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-06,South Ossetia,Chameria,0.0,0.0,CONIFA European Football Cup,Askeran,Azerbaijan,True
+2019-06-06,Padania,Sápmi,4.0,0.0,CONIFA European Football Cup,Martakert,Azerbaijan,True
+2019-06-06,Artsakh,Székely Land,2.0,1.0,CONIFA European Football Cup,Martuni,Azerbaijan,False
+2019-06-07,North Macedonia,Poland,0.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-06-08,Abkhazia,Chameria,0.0,0.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-08,Sápmi,Székely Land,3.0,2.0,CONIFA European Football Cup,Askeran,Azerbaijan,True
+2019-06-08,Artsakh,Padania,2.0,0.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,False
+2019-06-09,Western Armenia,South Ossetia,0.0,1.0,CONIFA European Football Cup,Stepanakert,Azerbaijan,True
+2019-06-10,North Macedonia,Austria,1.0,4.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-06-11,Sri Lanka,Macau,3.0,0.0,FIFA World Cup qualification,Colombo,Sri Lanka,False
+2019-06-12,Ynys Môn,Saint Helena,7.0,2.0,Friendly,Anglesey,Wales,False
+2019-06-15,Tanzania,Zimbabwe,1.0,1.0,Friendly,Cairo,Egypt,True
+2019-06-16,Jersey,Orkney,5.0,0.0,Inter Games,Anglesey,Wales,True
+2019-06-16,Ynys Môn,Western Isles,2.0,1.0,Inter Games,Anglesey,Wales,False
+2019-06-16,Alderney,Hitra,2.0,4.0,Inter Games,Anglesey,Wales,True
+2019-06-16,Saint Helena,Shetland,1.0,6.0,Inter Games,Anglesey,Wales,True
+2019-06-17,Ynys Môn,Orkney,3.0,1.0,Inter Games,Anglesey,Wales,False
+2019-06-17,Jersey,Western Isles,7.0,0.0,Inter Games,Anglesey,Wales,True
+2019-06-17,Isle of Man,Hitra,7.0,1.0,Inter Games,Anglesey,Wales,True
+2019-06-17,Guernsey,Shetland,2.0,1.0,Inter Games,Anglesey,Wales,True
+2019-06-18,Ynys Môn,Jersey,1.0,0.0,Inter Games,Anglesey,Wales,False
+2019-06-18,Western Isles,Orkney,1.0,2.0,Inter Games,Anglesey,Wales,True
+2019-06-18,Isle of Man,Alderney,6.0,1.0,Inter Games,Anglesey,Wales,True
+2019-06-18,Guernsey,Saint Helena,9.0,0.0,Inter Games,Anglesey,Wales,True
+2019-06-20,Western Isles,Saint Helena,2.0,1.0,Inter Games,Anglesey,Wales,True
+2019-06-20,Orkney,Alderney,1.0,2.0,Inter Games,Anglesey,Wales,True
+2019-06-20,Jersey,Hitra,3.0,1.0,Inter Games,Anglesey,Wales,True
+2019-06-20,Ynys Môn,Shetland,2.0,1.0,Inter Games,Anglesey,Wales,False
+2019-06-20,Isle of Man,Guernsey,2.0,3.0,Inter Games,Anglesey,Wales,True
+2019-06-21,Shetland,Isle of Man,0.0,5.0,Inter Games,Anglesey,Wales,True
+2019-06-21,Ynys Môn,Guernsey,2.0,1.0,Inter Games,Anglesey,Wales,False
+2019-06-23,Morocco,Namibia,1.0,0.0,African Cup of Nations,Cairo,Egypt,True
+2019-06-25,Raetia,Franconia,3.0,4.0,Friendly,Chur,Switzerland,False
+2019-06-28,South Africa,Namibia,1.0,0.0,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Namibia,Ivory Coast,1.0,4.0,African Cup of Nations,Cairo,Egypt,True
+2019-07-21,Equatorial Guinea,Liberia,1.0,1.0,Friendly,Malabo,Equatorial Guinea,False
+2019-08-09,South Ossetia,Luhansk PR,2.0,0.0,Friendly,Tskhinvali,Georgia,False
+2019-08-28,Belize,Saint Vincent and the Grenadines,1.0,1.0,Friendly,Belmopan,Belize,False
+2019-08-28,Taiwan,Guam,3.0,0.0,Friendly,Kaohsiung,Taiwan,False
+2019-08-29,United Arab Emirates,Dominican Republic,4.0,0.0,Friendly,Riffa,Bahrain,True
+2019-08-30,Belize,Saint Vincent and the Grenadines,1.0,0.0,Friendly,Belmopan,Belize,False
+2019-09-04,Djibouti,Eswatini,2.0,1.0,FIFA World Cup qualification,Djibouti,Djibouti,False
+2019-09-04,Eritrea,Namibia,1.0,2.0,FIFA World Cup qualification,Asmara,Eritrea,False
+2019-09-05,Israel,North Macedonia,1.0,1.0,UEFA Euro qualification,Beer Sheva,Israel,False
+2019-09-05,French Guiana,Belize,3.0,0.0,CONCACAF Nations League,Cayenne,French Guiana,False
+2019-09-06,Nicaragua,Saint Vincent and the Grenadines,1.0,1.0,CONCACAF Nations League,Managua,Nicaragua,False
+2019-09-09,Latvia,North Macedonia,0.0,2.0,UEFA Euro qualification,Riga,Latvia,False
+2019-09-10,Namibia,Eritrea,2.0,0.0,FIFA World Cup qualification,Windhoek,Namibia,False
+2019-09-10,Eswatini,Djibouti,0.0,0.0,FIFA World Cup qualification,Manzini,Eswatini,False
+2019-09-18,DR Congo,Rwanda,2.0,3.0,Friendly,Kinshasa,DR Congo,False
+2019-10-10,North Macedonia,Slovenia,2.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-10-12,Ivory Coast,DR Congo,3.0,1.0,Friendly,Amiens,France,False
+2019-10-13,Poland,North Macedonia,2.0,0.0,UEFA Euro qualification,Warsaw,Poland,False
+2019-10-19,West Papua,East Turkestan,2.0,8.0,Friendly,The Hague,Netherlands,True
+2019-11-09,Namibia,Zambia,0.0,2.0,Friendly,Windhoek,Namibia,False
+2019-11-13,Namibia,Chad,2.0,1.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2019-11-13,Guinea-Bissau,Eswatini,3.0,0.0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2019-11-16,Austria,North Macedonia,2.0,1.0,UEFA Euro qualification,Vienna,Austria,False
+2019-11-17,Guinea,Namibia,2.0,0.0,African Cup of Nations qualification,Conakry,Guinea,False
+2019-11-17,Eswatini,Senegal,1.0,4.0,African Cup of Nations qualification,Manzini,Eswatini,False
+2019-11-18,Niger,Madagascar,2.0,6.0,African Cup of Nations qualification,Niamey,Niger,False
+2019-11-19,North Macedonia,Israel,1.0,0.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2019-12-08,Luhansk PR,South Ossetia,4.0,3.0,Friendly,Luhansk,Ukraine,False
+2019-12-14,Tamil Eelam,East Turkestan,3.0,0.0,CONIFA World Cup qualification,Cergy,France,True
+2019-12-29,Chagos Islands,Panjab,0.0,6.0,Friendly,Horsham,England,True
+2020-09-05,North Macedonia,Armenia,2.0,1.0,UEFA Nations League,Skopje,North Macedonia,False
+2020-09-08,Georgia,North Macedonia,1.0,1.0,UEFA Nations League,Tbilisi,Georgia,False
+2020-10-08,South Africa,Namibia,1.0,1.0,Friendly,Rustenburg,South Africa,False
+2020-10-08,North Macedonia,Kosovo,2.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2020-10-11,Estonia,North Macedonia,3.0,3.0,UEFA Nations League,Tallinn,Estonia,False
+2020-10-13,Cameroon,Sudan,0.0,0.0,Friendly,Yaoundé,Cameroon,False
+2020-10-14,North Macedonia,Georgia,1.0,1.0,UEFA Nations League,Skopje,North Macedonia,False
+2020-11-12,Georgia,North Macedonia,0.0,1.0,UEFA Euro qualification,Tbilisi,Georgia,False
+2020-11-12,Congo,Eswatini,2.0,0.0,African Cup of Nations qualification,Brazzaville,Congo,False
+2020-11-13,Mali,Namibia,1.0,0.0,African Cup of Nations qualification,Bamako,Mali,False
+2020-11-15,Romania,Norway,3.0,0.0,UEFA Nations League,Bucharest,Romania,False
+2020-11-15,North Macedonia,Estonia,2.0,1.0,UEFA Nations League,Skopje,North Macedonia,False
+2020-11-16,Basque Country,Costa Rica,2.0,1.0,Friendly,Eibar,Spain,False
+2020-11-16,Eswatini,Congo,0.0,0.0,African Cup of Nations qualification,Manzini,Eswatini,False
+2020-11-17,Switzerland,Ukraine,3.0,0.0,UEFA Nations League,Lucerne,Switzerland,False
+2020-11-17,Namibia,Mali,1.0,2.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2020-11-18,Armenia,North Macedonia,1.0,0.0,UEFA Nations League,Nicosia,Cyprus,True
+2021-03-24,Chad,Namibia,0.0,3.0,African Cup of Nations qualification,N'Djamena,Chad,False
+2021-03-25,Romania,North Macedonia,3.0,2.0,FIFA World Cup qualification,Bucharest,Romania,False
+2021-03-26,Eswatini,Guinea-Bissau,1.0,3.0,African Cup of Nations qualification,Manzini,Eswatini,False
+2021-03-28,North Macedonia,Liechtenstein,5.0,0.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2021-03-28,Namibia,Guinea,2.0,1.0,African Cup of Nations qualification,Windhoek,Namibia,False
+2021-03-28,Mali,Chad,3.0,0.0,African Cup of Nations qualification,Bamako,Mali,False
+2021-03-30,Senegal,Eswatini,1.0,1.0,African Cup of Nations qualification,Thiès,Senegal,False
+2021-03-31,Germany,North Macedonia,1.0,2.0,FIFA World Cup qualification,Duisburg,Germany,False
+2021-06-01,North Macedonia,Slovenia,1.0,1.0,Friendly,Skopje,North Macedonia,False
+2021-06-04,North Macedonia,Kazakhstan,4.0,0.0,Friendly,Skopje,North Macedonia,False
+2021-06-08,Mozambique,Eswatini,1.0,1.0,Friendly,Maputo,Mozambique,False
+2021-06-13,Austria,North Macedonia,3.0,1.0,UEFA Euro,Bucharest,Romania,True
+2021-06-17,Ukraine,North Macedonia,2.0,1.0,UEFA Euro,Bucharest,Romania,True
+2021-06-21,Netherlands,North Macedonia,3.0,0.0,UEFA Euro,Amsterdam,Netherlands,False
+2021-06-27,El Salvador,Guatemala,0.0,0.0,Friendly,Los Angeles,United States,True
+2021-07-03,Cuba,French Guiana,0.0,3.0,Gold Cup qualification,Fort Lauderdale,United States,True
+2021-07-06,Eswatini,Lesotho,3.0,1.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-07,Senegal,Namibia,1.0,2.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-08,South Africa,Eswatini,1.0,0.0,COSAFA Cup,Port Elizabeth,South Africa,False
+2021-07-10,Zambia,Eswatini,0.0,1.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-11,Namibia,Zimbabwe,2.0,0.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-13,Malawi,Namibia,1.0,1.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-14,Eswatini,Botswana,1.0,1.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-14,Mozambique,Namibia,1.0,0.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-16,Senegal,Eswatini,2.0,2.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-07-18,Eswatini,Mozambique,1.0,1.0,COSAFA Cup,Port Elizabeth,South Africa,True
+2021-09-02,Namibia,Congo,1.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-09-02,North Macedonia,Armenia,0.0,0.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2021-09-05,Togo,Namibia,0.0,1.0,FIFA World Cup qualification,Lomé,Togo,False
+2021-09-05,Iceland,North Macedonia,2.0,2.0,FIFA World Cup qualification,Reykjavík,Iceland,False
+2021-09-08,North Macedonia,Romania,0.0,0.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2021-10-08,Liechtenstein,North Macedonia,0.0,4.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2021-10-09,Senegal,Namibia,4.0,1.0,FIFA World Cup qualification,Thiès,Senegal,False
+2021-10-11,North Macedonia,Germany,0.0,4.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2021-10-12,Namibia,Senegal,1.0,3.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2021-11-11,Congo,Namibia,1.0,1.0,FIFA World Cup qualification,Brazzaville,Congo,False
+2021-11-11,Armenia,North Macedonia,0.0,5.0,FIFA World Cup qualification,Yerevan,Armenia,False
+2021-11-14,Nicaragua,Cuba,2.0,0.0,Friendly,Managua,Nicaragua,False
+2021-11-14,North Macedonia,Iceland,3.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2021-11-15,Namibia,Togo,0.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2022-01-20,Korea Republic,Moldova,4.0,0.0,Friendly,Antalya,Turkey,True
+2022-03-23,Somalia,Eswatini,0.0,3.0,African Cup of Nations qualification,Dar es Salaam,Tanzania,True
+2022-03-24,Italy,North Macedonia,0.0,1.0,FIFA World Cup qualification,Palermo,Italy,False
+2022-03-24,Mauritius,São Tomé and Príncipe,3.0,0.0,African Cup of Nations qualification,Saint Pierre,Mauritius,False
+2022-03-25,Alderney,Jersey,1.0,6.0,Muratti Vase,Alderney,Alderney,False
+2022-03-27,Eswatini,Somalia,2.0,1.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2022-03-29,Portugal,North Macedonia,2.0,0.0,FIFA World Cup qualification,Porto,Portugal,False
+2022-04-22,Elba Island,Vatican City,4.0,2.0,Friendly,Capoliveri,Italy,False
+2022-04-23,Alderney,Guernsey,0.0,2.0,Muratti Vase,Alderney,Alderney,False
+2022-05-13,Guernsey,Jersey,1.0,2.0,Muratti Vase,Guernsey,Guernsey,False
+2022-05-21,Yoruba Nation,Matabeleland,1.0,1.0,CONIFA Africa Football Cup,Johannesburg,South Africa,True
+2022-05-21,Jersey,Guernsey,1.0,0.0,Muratti Vase,Jersey,Jersey,False
+2022-05-22,Biafra,Matabeleland,0.0,1.0,CONIFA Africa Football Cup,Johannesburg,South Africa,True
+2022-05-23,Yoruba Nation,Biafra,0.0,1.0,CONIFA Africa Football Cup,Johannesburg,South Africa,True
+2022-05-24,Mozambique,Eswatini,0.0,1.0,Friendly,Maputo,Mozambique,False
+2022-05-25,Biafra,Matabeleland,1.0,0.0,CONIFA Africa Football Cup,Johannesburg,South Africa,True
+2022-06-02,Bulgaria,North Macedonia,1.0,1.0,UEFA Nations League,Razgrad,Bulgaria,False
+2022-06-03,Togo,Eswatini,2.0,2.0,African Cup of Nations qualification,Lomé,Togo,False
+2022-06-04,Namibia,Burundi,1.0,1.0,African Cup of Nations qualification,Johannesburg,South Africa,True
+2022-06-05,Gibraltar,North Macedonia,0.0,2.0,UEFA Nations League,Gibraltar,Gibraltar,False
+2022-06-07,Eswatini,Burkina Faso,1.0,3.0,African Cup of Nations qualification,Johannesburg,South Africa,True
+2022-06-09,North Macedonia,Georgia,0.0,3.0,UEFA Nations League,Skopje,North Macedonia,False
+2022-06-12,North Macedonia,Gibraltar,4.0,0.0,UEFA Nations League,Skopje,North Macedonia,False
+2022-06-17,Mapuche,Maule Sur,0.0,1.0,CONIFA South America Football Cup,Linares,Chile,True
+2022-06-18,Mapuche,Aymara,3.0,1.0,CONIFA South America Football Cup,Linares,Chile,True
+2022-06-19,Aymara,Maule Sur,0.0,1.0,CONIFA South America Football Cup,Linares,Chile,True
+2022-07-06,Mauritius,Eswatini,0.0,3.0,COSAFA Cup,Durban,South Africa,True
+2022-07-08,Malawi,Eswatini,1.0,1.0,COSAFA Cup,Durban,South Africa,True
+2022-07-10,Eswatini,Lesotho,2.0,0.0,COSAFA Cup,Durban,South Africa,True
+2022-07-12,Madagascar,Namibia,0.0,2.0,COSAFA Cup,KwaMashu,South Africa,True
+2022-07-13,Senegal,Eswatini,1.0,1.0,COSAFA Cup,KwaMashu,South Africa,True
+2022-07-15,Botswana,Eswatini,2.0,0.0,COSAFA Cup,Clermont,South Africa,True
+2022-07-15,Namibia,Mozambique,1.0,0.0,COSAFA Cup,Durban,South Africa,True
+2022-07-16,Elba Island,Raetia,5.0,0.0,Friendly,Capoliveri,Italy,False
+2022-07-17,Namibia,Zambia,0.0,1.0,COSAFA Cup,Durban,South Africa,True
+2022-08-07,Raetia,Tibet,3.0,3.0,Friendly,Chur,Switzerland,False
+2022-09-23,Georgia,North Macedonia,2.0,0.0,UEFA Nations League,Tbilisi,Georgia,False
+2022-09-26,North Macedonia,Bulgaria,0.0,1.0,UEFA Nations League,Skopje,North Macedonia,False
+2022-10-22,Saudi Arabia,North Macedonia,1.0,0.0,Friendly,Abu Dhabi,United Arab Emirates,True
+2022-11-07,Qatar,Panama,2.0,1.0,Friendly,Marbella,Spain,True
+2022-11-13,Syria,Algeria,0.0,1.0,Friendly,Sharjah,United Arab Emirates,True
+2022-11-13,West Papua,Raetia,1.0,1.0,Friendly,The Hague,Netherlands,True
+2022-11-16,Dominican Republic,Cuba,2.0,4.0,Friendly,Santiago de los Caballeros,Dominican Republic,False
+2022-11-17,North Macedonia,Finland,1.0,1.0,Friendly,Skopje,North Macedonia,False
+2022-11-20,North Macedonia,Azerbaijan,1.0,3.0,Friendly,Skopje,North Macedonia,False
+2023-03-21,Tahiti,New Caledonia,0.0,2.0,Friendly,Pirae,Tahiti,False
+2023-03-23,North Macedonia,Malta,2.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2023-03-24,Tahiti,New Caledonia,2.0,1.0,Friendly,Pirae,Tahiti,False
+2023-03-24,Cape Verde,Eswatini,0.0,0.0,African Cup of Nations qualification,Praia,Cape Verde,False
+2023-03-24,Cameroon,Namibia,1.0,1.0,African Cup of Nations qualification,Yaoundé,Cameroon,False
+2023-03-27,North Macedonia,Faroe Islands,1.0,0.0,Friendly,Skopje,North Macedonia,False
+2023-03-28,Eswatini,Cape Verde,0.0,1.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2023-03-28,Namibia,Cameroon,2.0,1.0,African Cup of Nations qualification,Soweto,South Africa,True
+2023-06-13,Curaçao,Costa Rica,0.0,0.0,Friendly,Fort Lauderdale,United States,True
+2023-06-16,North Macedonia,Ukraine,2.0,3.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2023-06-17,Ticino,Raetia,1.0,8.0,CONIFA World Football Cup qualification,Tenero-Contra,Switzerland,False
+2023-06-18,Eswatini,Togo,0.0,2.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2023-06-19,England,North Macedonia,7.0,0.0,UEFA Euro qualification,Manchester,England,False
+2023-06-20,Burundi,Namibia,3.0,2.0,African Cup of Nations qualification,Dar es Salaam,Tanzania,True
+2023-06-30,Székely Land,Chameria,3.0,2.0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,False
+2023-07-01,Chameria,Two Sicilies,3.0,1.0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,True
+2023-07-02,Székely Land,Two Sicilies,7.0,0.0,CONIFA World Football Cup qualification,Miercurea Ciuc,Hungary,False
+2023-07-05,Eswatini,Botswana,0.0,1.0,COSAFA Cup,Durban,South Africa,True
+2023-07-05,South Africa,Namibia,1.0,1.0,COSAFA Cup,Durban,South Africa,False
+2023-07-08,Namibia,Eswatini,1.0,2.0,COSAFA Cup,Durban,South Africa,True
+2023-07-09,Åland Islands,Isle of Wight,0.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-09,Guernsey,Western Isles,1.0,0.0,Island Games,Saint Sampson,Guernsey,False
+2023-07-09,Isle of Man,Falkland Islands,3.0,0.0,Island Games,Saint Martin,Guernsey,True
+2023-07-09,Ynys Môn,Shetland,2.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-09,Orkney,Greenland,2.0,2.0,Island Games,Saint Martin,Guernsey,True
+2023-07-09,Jersey,Gozo,1.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-09,Menorca,Saint Helena,5.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-10,Western Isles,Isle of Wight,0.0,1.0,Island Games,Saint Martin,Guernsey,True
+2023-07-10,Guernsey,Åland Islands,4.0,1.0,Island Games,Saint Sampson,Guernsey,False
+2023-07-10,Falkland Islands,Ynys Môn,1.0,5.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-10,Shetland,Isle of Man,3.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-10,Greenland,Frøya,2.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-10,Gozo,Saint Helena,3.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-10,Jersey,Menorca,4.0,0.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-11,Guernsey,Isle of Wight,1.0,2.0,Island Games,Saint Sampson,Guernsey,False
+2023-07-11,Åland Islands,Western Isles,0.0,2.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-11,Falkland Islands,Shetland,1.0,4.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-11,Isle of Man,Ynys Môn,1.0,2.0,Island Games,Saint Martin,Guernsey,True
+2023-07-11,Frøya,Orkney,2.0,3.0,Island Games,St. Peter Port,Guernsey,True
+2023-07-11,Menorca,Gozo,0.0,1.0,Island Games,Saint Martin,Guernsey,True
+2023-07-11,Saint Helena,Jersey,0.0,5.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-11,Namibia,Botswana,0.0,0.0,COSAFA Cup,Durban,South Africa,True
+2023-07-11,South Africa,Eswatini,2.0,1.0,COSAFA Cup,KwaMashu,South Africa,False
+2023-07-13,Frøya,Saint Helena,4.0,2.0,Island Games,Saint Martin,Guernsey,True
+2023-07-13,Åland Islands,Falkland Islands,1.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-13,Western Isles,Menorca,2.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-13,Orkney,Isle of Man,0.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-13,Shetland,Greenland,5.0,1.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-13,Guernsey,Gozo,1.0,0.0,Island Games,Saint Martin,Guernsey,False
+2023-07-13,Isle of Wight,Jersey,2.0,3.0,Island Games,Saint Sampson,Guernsey,True
+2023-07-14,Ynys Môn,Jersey,2.0,5.0,Island Games,St. Peter Port,Guernsey,True
+2023-07-16,Kernow,Sápmi,2.0,1.0,CONIFA World Football Cup qualification,Falmouth,England,False
+2023-08-04,Tamil Eelam,Hmong,3.0,0.0,CONIFA Asia Cup,Alcochete,Portugal,True
+2023-08-05,Hmong,Tibet,5.0,4.0,CONIFA Asia Cup,Alcochete,Portugal,True
+2023-08-06,Tibet,Tamil Eelam,1.0,3.0,CONIFA Asia Cup,Alcochete,Portugal,True
+2023-08-06,Raetia,Ticino,5.0,1.0,Friendly,Domat/Ems,Switzerland,False
+2023-08-08,Tamil Eelam,Hmong,3.0,1.0,CONIFA Asia Cup,Alcochete,Portugal,True
+2023-09-04,Mozambique,Benin,3.0,2.0,African Cup of Nations qualification,Maputo,Mozambique,False
+2023-09-08,Burkina Faso,Eswatini,0.0,0.0,African Cup of Nations qualification,Marrakesh,Morocco,True
+2023-09-09,South Africa,Namibia,0.0,0.0,Friendly,Johannesburg,South Africa,False
+2023-09-09,North Macedonia,Italy,1.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2023-09-12,Malta,North Macedonia,0.0,2.0,UEFA Euro qualification,Ta' Qali,Malta,False
+2023-10-13,South Africa,Eswatini,0.0,0.0,Friendly,Johannesburg,South Africa,False
+2023-10-14,Ukraine,North Macedonia,2.0,0.0,UEFA Euro qualification,Prague,Czech Republic,True
+2023-10-16,Botswana,Eswatini,2.0,1.0,Friendly,Lobatse,Botswana,False
+2023-10-17,North Macedonia,Armenia,3.0,1.0,Friendly,Strumica,North Macedonia,False
+2023-10-23,United Arab Emirates,Kuwait,1.0,0.0,Friendly,Dubai,United Arab Emirates,False
+2023-11-15,Equatorial Guinea,Namibia,0.0,3.0,FIFA World Cup qualification,Malabo,Equatorial Guinea,False
+2023-11-17,Eswatini,Libya,0.0,1.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2023-11-17,Italy,North Macedonia,5.0,2.0,UEFA Euro qualification,Rome,Italy,False
+2023-11-17,Papua New Guinea,Tuvalu,3.0,0.0,Pacific Games,Honiara,Solomon Islands,True
+2023-11-20,Liberia,Equatorial Guinea,3.0,0.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2023-11-20,North Macedonia,England,1.0,1.0,UEFA Euro qualification,Skopje,North Macedonia,False
+2023-11-21,Eswatini,Cape Verde,0.0,2.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2023-11-21,São Tomé and Príncipe,Namibia,0.0,2.0,FIFA World Cup qualification,Agadir,Morocco,True
+2023-11-27,Cook Islands,Papua New Guinea,0.0,3.0,Pacific Games,Honiara,Solomon Islands,True
+2023-11-30,Samoa,Cook Islands,3.0,0.0,Pacific Games,Honiara,Solomon Islands,True
+2024-01-08,Ghana,Namibia,0.0,0.0,Friendly,Kumasi,Ghana,False
+2024-01-16,Tunisia,Namibia,0.0,1.0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-21,South Africa,Namibia,4.0,0.0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-24,Namibia,Mali,0.0,0.0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-27,Angola,Namibia,3.0,0.0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-02-03,Costa Rica,El Salvador,2.0,0.0,Friendly,San José,Costa Rica,False
+2024-03-20,Somalia,Eswatini,0.0,3.0,African Cup of Nations qualification,El Jadida,Morocco,True
+2024-03-22,North Macedonia,Moldova,1.0,1.0,Friendly,Antalya,Turkey,True
+2024-03-25,Montenegro,North Macedonia,1.0,0.0,Friendly,Antalya,Turkey,True
+2024-03-26,Eswatini,Somalia,2.0,2.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2024-04-14,Trinidad and Tobago,Guyana,2.0,1.0,Friendly,Port of Spain,Trinidad and Tobago,False
+2024-04-16,Trinidad and Tobago,Guyana,2.0,0.0,Friendly,Port of Spain,Trinidad and Tobago,False
+2024-04-26,Grenada,Saint Vincent and the Grenadines,0.0,3.0,Friendly,Carriacou,Grenada,False
+2024-04-26,Guatemala,Nicaragua,1.0,1.0,Friendly,San Jose,United States,True
+2024-05-21,Galicia,Panama,0.0,2.0,Friendly,Vigo,Spain,False
+2024-05-21,Basque Country,Uruguay,1.0,1.0,Friendly,Bilbao,Spain,False
+2024-06-03,Croatia,North Macedonia,3.0,0.0,Friendly,Rijeka,Croatia,False
+2024-06-05,Namibia,Liberia,1.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-07,Angola,Eswatini,1.0,0.0,FIFA World Cup qualification,Luanda,Angola,False
+2024-06-09,Namibia,Tunisia,0.0,0.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2024-06-10,Czech Republic,North Macedonia,2.0,1.0,Friendly,Hradec Králové,Czech Republic,False
+2024-06-11,Mauritius,Eswatini,2.0,1.0,FIFA World Cup qualification,Saint Pierre,Mauritius,False
+2024-06-11,Cuba,Cayman Islands,3.0,0.0,FIFA World Cup qualification,Santiago de Cuba,Cuba,False
+2024-07-27,Jordan,Korea DPR,0.0,0.0,Friendly,Amman,Jordan,False
+2024-09-02,Fiji,Hong Kong,1.0,1.0,Tri-Nations Series,Suva,Fiji,False
+2024-09-05,Guinea-Bissau,Eswatini,1.0,0.0,African Cup of Nations qualification,Bissau,Guinea-Bissau,False
+2024-09-07,Cameroon,Namibia,1.0,0.0,African Cup of Nations qualification,Douala,Cameroon,False
+2024-09-07,Faroe Islands,North Macedonia,1.0,1.0,UEFA Nations League,Toftir,Faroe Islands,False
+2024-09-10,Eswatini,Mali,0.0,1.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2024-09-10,Namibia,Kenya,1.0,2.0,African Cup of Nations qualification,Johannesburg,South Africa,True
+2024-09-10,North Macedonia,Armenia,2.0,0.0,UEFA Nations League,Skopje,North Macedonia,False
+2024-10-10,Namibia,Zimbabwe,0.0,1.0,African Cup of Nations qualification,Johannesburg,South Africa,True
+2024-10-10,Latvia,North Macedonia,0.0,3.0,UEFA Nations League,Riga,Latvia,False
+2024-10-11,Mozambique,Eswatini,1.0,1.0,African Cup of Nations qualification,Maputo,Mozambique,False
+2024-10-13,Armenia,North Macedonia,0.0,2.0,UEFA Nations League,Yerevan,Armenia,False
+2024-10-14,Eswatini,Mozambique,0.0,3.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2024-10-14,Zimbabwe,Namibia,3.0,1.0,African Cup of Nations qualification,Johannesburg,South Africa,True
+2024-11-13,Namibia,Cameroon,0.0,0.0,African Cup of Nations qualification,Johannesburg,South Africa,True
+2024-11-14,North Macedonia,Latvia,1.0,0.0,UEFA Nations League,Skopje,North Macedonia,False
+2024-11-15,Russia,Brunei,2.0,1.0,Friendly,Krasnodar,Russia,False
+2024-11-15,Eswatini,Guinea-Bissau,1.0,1.0,African Cup of Nations qualification,Mbombela,South Africa,True
+2024-11-17,North Macedonia,Faroe Islands,1.0,0.0,UEFA Nations League,Skopje,North Macedonia,False
+2024-11-19,Mali,Eswatini,6.0,0.0,African Cup of Nations qualification,Bamako,Mali,False
+2024-11-19,Kenya,Namibia,0.0,0.0,African Cup of Nations qualification,Polokwane,South Africa,True
+2025-01-03,Zanzibar,Tanzania,1.0,0.0,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-01-04,Burkina Faso,Kenya,1.0,1.0,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-06,Zanzibar,Burkina Faso,0.0,1.0,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-01-07,Tanzania,Kenya,0.0,2.0,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-09,Tanzania,Burkina Faso,0.0,2.0,Mapinduzi Cup,Gombani,Zanzibar,True
+2025-01-10,Zanzibar,Kenya,1.0,0.0,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-01-13,Zanzibar,Burkina Faso,2.0,1.0,Mapinduzi Cup,Gombani,Zanzibar,False
+2025-01-22,Uzbekistan,Jordan,0.0,0.0,Friendly,Doha,Qatar,True
+2025-02-07,Jamaica,Trinidad and Tobago,1.0,0.0,Friendly,Montego Bay,Jamaica,False
+2025-02-10,Jamaica,Trinidad and Tobago,1.0,1.0,Friendly,Kingston,Jamaica,False
+2025-02-13,Oman,Sudan,0.0,0.0,Friendly,Muscat,Oman,False
+2025-03-19,Eswatini,Cameroon,0.0,0.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2025-03-20,Malawi,Namibia,0.0,1.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2025-03-21,South Africa,Lesotho,0.0,3.0,FIFA World Cup qualification,Polokwane,South Africa,False
+2025-03-22,Liechtenstein,North Macedonia,0.0,3.0,FIFA World Cup qualification,Vaduz,Liechtenstein,False
+2025-03-23,Eswatini,Mauritius,3.0,3.0,FIFA World Cup qualification,Mbombela,South Africa,True
+2025-03-24,Namibia,Equatorial Guinea,1.0,1.0,FIFA World Cup qualification,Johannesburg,South Africa,True
+2025-03-25,North Macedonia,Wales,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-05-09,Dominica,Barbados,0.0,0.0,Friendly,Roseau,Dominica,False
+2025-05-21,Saint Kitts and Nevis,Saint Vincent and the Grenadines,1.0,3.0,Friendly,Old Road Town,Saint Kitts and Nevis,False
+2025-05-25,Anguilla,Saint Kitts and Nevis,2.0,4.0,Friendly,Quartier-d'Orleans,Saint Martin,True
+2025-05-30,Saint Vincent and the Grenadines,British Virgin Islands,1.0,1.0,Friendly,Kingstown,Saint Vincent and the Grenadines,False
+2025-06-01,Grenada,Anguilla,2.0,0.0,Friendly,St. George's,Grenada,False
+2025-06-01,El Salvador,Guatemala,1.0,1.0,Friendly,Chattanooga,United States,True
+2025-06-06,North Macedonia,Belgium,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-06-09,Algeria,Rwanda,2.0,0.0,Friendly,Blida,Algeria,False
+2025-06-09,Kazakhstan,North Macedonia,0.0,1.0,FIFA World Cup qualification,Astana,Kazakhstan,False
+2025-07-01,Tamil Eelam,Tibet,4.0,0.0,CONIFA Asia Cup,London,England,True
+2025-07-02,Tamil Eelam,East Turkestan,2.0,1.0,CONIFA Asia Cup,London,England,True
+2025-07-03,Tibet,East Turkestan,4.0,6.0,CONIFA Asia Cup,London,England,True
+2025-07-04,Tamil Eelam,East Turkestan,5.0,0.0,CONIFA Asia Cup,London,England,True
+2025-07-13,Hitra,Isle of Man,2.0,7.0,Island Games,Finstown,Scotland,True
+2025-07-13,Orkney,Frøya,3.0,0.0,Island Games,Kirkwall,Scotland,False
+2025-07-13,Gozo,Shetland,0.0,0.0,Island Games,Kirkwall,Scotland,True
+2025-07-14,Orkney,Hitra,3.0,2.0,Island Games,Kirkwall,Scotland,False
+2025-07-14,Isle of Man,Frøya,10.0,1.0,Island Games,Dounby,Scotland,True
+2025-07-14,Jersey,Gozo,2.0,0.0,Island Games,Holm,Scotland,True
+2025-07-14,Ynys Môn,Western Isles,1.0,0.0,Island Games,Rendall,Scotland,True
+2025-07-15,Orkney,Isle of Man,1.0,3.0,Island Games,Kirkwall,Scotland,False
+2025-07-15,Frøya,Hitra,0.0,6.0,Island Games,Finstown,Scotland,True
+2025-07-15,Jersey,Shetland,2.0,2.0,Island Games,Kirkwall,Scotland,True
+2025-07-17,Hitra,Frøya,3.0,0.0,Island Games,Holm,Scotland,True
+2025-07-17,Gozo,Western Isles,3.0,3.0,Island Games,Dounby,Scotland,True
+2025-07-17,Orkney,Shetland,3.0,2.0,Island Games,Stromness,Scotland,False
+2025-07-17,Isle of Man,Ynys Môn,0.0,1.0,Island Games,Kirkwall,Scotland,True
+2025-07-18,Isle of Man,Jersey,3.0,2.0,Island Games,Kirkwall,Scotland,True
+2025-08-24,Qatar,Lebanon,2.0,2.0,Friendly,Doha,Qatar,False
+2025-09-04,Saudi Arabia,North Macedonia,2.0,1.0,Friendly,Prague,Czech Republic,True
+2025-09-04,Cameroon,Eswatini,3.0,0.0,FIFA World Cup qualification,Yaoundé,Cameroon,False
+2025-09-05,Namibia,Malawi,1.0,2.0,FIFA World Cup qualification,Francistown,Botswana,True
+2025-09-07,North Macedonia,Liechtenstein,5.0,0.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-09-08,Libya,Eswatini,2.0,0.0,FIFA World Cup qualification,Benghazi,Libya,False
+2025-09-09,Namibia,São Tomé and Príncipe,3.0,0.0,FIFA World Cup qualification,Francistown,Botswana,True
+2025-10-04,Saint Kitts and Nevis,Saint Martin,5.0,0.0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2025-10-05,Saint Kitts and Nevis,Saint Martin,2.0,1.0,Friendly,Basseterre,Saint Kitts and Nevis,False
+2025-10-08,Eswatini,Angola,2.0,2.0,FIFA World Cup qualification,Lobamba,Eswatini,False
+2025-10-09,Grenada,British Virgin Islands,4.0,1.0,Friendly,St. George's,Grenada,False
+2025-10-09,Malawi,Equatorial Guinea,3.0,0.0,FIFA World Cup qualification,Lilongwe,Malawi,False
+2025-10-09,Liberia,Namibia,3.0,1.0,FIFA World Cup qualification,Monrovia,Liberia,False
+2025-10-10,Uzbekistan,Kuwait,2.0,0.0,Friendly,Tashkent,Uzbekistan,False
+2025-10-10,Belgium,North Macedonia,0.0,0.0,FIFA World Cup qualification,Ghent,Belgium,False
+2025-10-13,Cape Verde,Eswatini,3.0,0.0,FIFA World Cup qualification,Praia,Cape Verde,False
+2025-10-13,Tunisia,Namibia,3.0,0.0,FIFA World Cup qualification,Radès,Tunisia,False
+2025-10-13,North Macedonia,Kazakhstan,1.0,1.0,FIFA World Cup qualification,Skopje,North Macedonia,False
+2025-11-13,North Macedonia,Latvia,0.0,0.0,Friendly,Skopje,North Macedonia,False
+2025-11-14,Comoros,Namibia,1.0,0.0,Friendly,Iconi,Comoros,False
+2025-11-15,Basque Country,Palestine,3.0,0.0,Friendly,Bilbao,Spain,False
+2025-11-17,Comoros,Namibia,4.0,0.0,Friendly,Iconi,Comoros,False
+2025-11-18,Mali,Jordan,3.0,2.0,Friendly,Radès,Tunisia,True
+2025-11-18,Wales,North Macedonia,7.0,1.0,FIFA World Cup qualification,Cardiff,Wales,False
+2026-01-18,Morocco,Senegal,3.0,0.0,African Cup of Nations,Rabat,Morocco,False
+2026-03-25,Kazakhstan,Namibia,2.0,0.0,FIFA Series,Astana,Kazakhstan,False
+2026-03-26,Denmark,North Macedonia,4.0,0.0,FIFA World Cup qualification,Copenhagen,Denmark,False
+2026-03-28,Namibia,Comoros,0.0,0.0,FIFA Series,Astana,Kazakhstan,True
+2026-03-31,Republic of Ireland,North Macedonia,0.0,0.0,Friendly,Dublin,Republic of Ireland,False
+2026-05-29,Bosnia and Herzegovina,North Macedonia,0.0,0.0,Friendly,Sarajevo,Bosnia and Herzegovina,False
+2026-06-01,Turkey,North Macedonia,4.0,0.0,Friendly,Istanbul,Turkey,False
+2026-06-01,Maldives,Pakistan,0.0,3.0,Diamond Jubilee International Football Tournament,Malé,Maldives,False
+2026-06-04,Guatemala,Czech Republic,1.0,5.0,Friendly,Harrison,United States,True
+2026-06-06,Bermuda,Cape Verde,3.0,0.0,Friendly,East Hartford,United States,True
+2026-06-06,Jamaica,South Africa,0.0,1.0,Friendly,Pachuca,Mexico,True
+2026-07-02,Spain,Austria,,,FIFA World Cup,Inglewood,United States,True
+2026-07-02,Portugal,Croatia,,,FIFA World Cup,Toronto,Canada,True
+2026-07-02,Switzerland,Algeria,,,FIFA World Cup,Vancouver,Canada,True
+2026-07-03,Australia,Egypt,,,FIFA World Cup,Arlington,United States,True
+2026-07-03,Argentina,Cape Verde,,,FIFA World Cup,Miami Gardens,United States,True
+2026-07-03,Colombia,Ghana,,,FIFA World Cup,Kansas City,United States,True
+2026-07-04,Canada,Morocco,,,FIFA World Cup,Houston,United States,True
+2026-07-04,Paraguay,France,,,FIFA World Cup,Philadelphia,United States,True
+2026-07-05,Brazil,Norway,,,FIFA World Cup,East Rutherford,United States,True
+2026-07-05,Mexico,England,,,FIFA World Cup,Mexico City,Mexico,False
+2026-07-06,United States,Belgium,,,FIFA World Cup,Seattle,United States,False

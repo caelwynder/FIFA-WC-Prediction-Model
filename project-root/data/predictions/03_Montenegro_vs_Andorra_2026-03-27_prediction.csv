@@ -1,0 +1,3 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Montenegro,Andorra,Friendly,Random Forest,H,0.83667,0.11,0.05333,Home Win
+2026-03-27,Montenegro,Andorra,Friendly,XGBoost,H,0.97816,0.01461,0.00723,Home Win

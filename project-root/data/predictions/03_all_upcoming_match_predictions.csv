@@ -1,0 +1,79 @@
+date,home_team,away_team,tournament,model,predicted_class,home_win_prob,draw_prob,away_win_prob,predicted_label
+2026-03-27,Algeria,Guatemala,Friendly,Random Forest,H,0.75,0.20333,0.04667,Home Win
+2026-03-27,Algeria,Guatemala,Friendly,XGBoost,H,0.92398,0.06731,0.00872,Home Win
+2026-03-27,Argentina,Mauritania,Friendly,Random Forest,H,0.96,0.04,0.0,Home Win
+2026-03-27,Argentina,Mauritania,Friendly,XGBoost,H,0.99707,0.00204,0.00089,Home Win
+2026-03-27,Australia,Cameroon,Friendly,Random Forest,H,0.66333,0.26,0.07667,Home Win
+2026-03-27,Australia,Cameroon,Friendly,XGBoost,H,0.63977,0.32205,0.03818,Home Win
+2026-03-27,Austria,Ghana,Friendly,Random Forest,H,0.80667,0.15,0.04333,Home Win
+2026-03-27,Austria,Ghana,Friendly,XGBoost,H,0.93596,0.04485,0.01919,Home Win
+2026-03-27,Azerbaijan,Saint Lucia,Friendly,Random Forest,H,0.90667,0.06667,0.02667,Home Win
+2026-03-27,Azerbaijan,Saint Lucia,Friendly,XGBoost,H,0.96811,0.02787,0.00402,Home Win
+2026-03-27,Chile,Cape Verde,Friendly,Random Forest,H,0.74,0.21,0.05,Home Win
+2026-03-27,Chile,Cape Verde,Friendly,XGBoost,H,0.88687,0.10538,0.00775,Home Win
+2026-03-27,China,Curaçao,Friendly,Random Forest,H,0.78333,0.11667,0.1,Home Win
+2026-03-27,China,Curaçao,Friendly,XGBoost,H,0.97309,0.02326,0.00365,Home Win
+2026-03-27,England,Uruguay,Friendly,Random Forest,H,0.57667,0.34,0.08333,Home Win
+2026-03-27,England,Uruguay,Friendly,XGBoost,H,0.68103,0.20506,0.11391,Home Win
+2026-03-27,Greece,Paraguay,Friendly,Random Forest,D,0.16,0.77,0.07,Draw
+2026-03-27,Greece,Paraguay,Friendly,XGBoost,D,0.03459,0.92381,0.04159,Draw
+2026-03-27,Indonesia,Saint Kitts and Nevis,Friendly,Random Forest,H,0.88667,0.07333,0.04,Home Win
+2026-03-27,Indonesia,Saint Kitts and Nevis,Friendly,XGBoost,H,0.96432,0.03061,0.00507,Home Win
+2026-03-27,Iran,Nigeria,Friendly,Random Forest,D,0.24667,0.67333,0.08,Draw
+2026-03-27,Iran,Nigeria,Friendly,XGBoost,D,0.40592,0.5235,0.07058,Draw
+2026-03-27,Jordan,Costa Rica,Friendly,Random Forest,H,0.78667,0.14667,0.06667,Home Win
+2026-03-27,Jordan,Costa Rica,Friendly,XGBoost,H,0.96662,0.0177,0.01568,Home Win
+2026-03-27,Kenya,Estonia,Friendly,Random Forest,H,0.71,0.14,0.15,Home Win
+2026-03-27,Kenya,Estonia,Friendly,XGBoost,H,0.92967,0.03448,0.03586,Home Win
+2026-03-27,Montenegro,Andorra,Friendly,Random Forest,H,0.83667,0.11,0.05333,Home Win
+2026-03-27,Montenegro,Andorra,Friendly,XGBoost,H,0.97816,0.01461,0.00723,Home Win
+2026-03-27,Morocco,Ecuador,Friendly,Random Forest,D,0.24,0.53,0.23,Draw
+2026-03-27,Morocco,Ecuador,Friendly,XGBoost,D,0.15871,0.70345,0.13784,Draw
+2026-03-27,Netherlands,Norway,Friendly,Random Forest,D,0.27667,0.50333,0.22,Draw
+2026-03-27,Netherlands,Norway,Friendly,XGBoost,D,0.29671,0.55395,0.14934,Draw
+2026-03-27,New Zealand,Finland,Friendly,Random Forest,D,0.33333,0.58,0.08667,Draw
+2026-03-27,New Zealand,Finland,Friendly,XGBoost,H,0.53445,0.43079,0.03475,Home Win
+2026-03-27,Russia,Nicaragua,Friendly,Random Forest,H,0.98667,0.01333,0.0,Home Win
+2026-03-27,Russia,Nicaragua,Friendly,XGBoost,H,0.98901,0.00885,0.00214,Home Win
+2026-03-27,Saudi Arabia,Egypt,Friendly,Random Forest,D,0.35333,0.59667,0.05,Draw
+2026-03-27,Saudi Arabia,Egypt,Friendly,XGBoost,H,0.70623,0.2569,0.03688,Home Win
+2026-03-27,Solomon Islands,Bulgaria,Friendly,Random Forest,A,0.11,0.26667,0.62333,Away Win
+2026-03-27,Solomon Islands,Bulgaria,Friendly,XGBoost,A,0.01254,0.06863,0.91884,Away Win
+2026-03-27,South Africa,Panama,Friendly,Random Forest,D,0.15333,0.75667,0.09,Draw
+2026-03-27,South Africa,Panama,Friendly,XGBoost,D,0.08434,0.7732,0.14246,Draw
+2026-03-27,Spain,Serbia,Friendly,Random Forest,H,0.59,0.33,0.08,Home Win
+2026-03-27,Spain,Serbia,Friendly,XGBoost,H,0.85593,0.12245,0.02162,Home Win
+2026-03-27,Switzerland,Germany,Friendly,Random Forest,D,0.24667,0.52,0.23333,Draw
+2026-03-27,Switzerland,Germany,Friendly,XGBoost,D,0.311,0.51104,0.17797,Draw
+2026-03-27,Venezuela,Trinidad and Tobago,Friendly,Random Forest,H,0.71667,0.12667,0.15667,Home Win
+2026-03-27,Venezuela,Trinidad and Tobago,Friendly,XGBoost,H,0.91221,0.05883,0.02896,Home Win
+2026-03-28,Canada,Iceland,Friendly,Random Forest,H,0.86667,0.09,0.04333,Home Win
+2026-03-28,Canada,Iceland,Friendly,XGBoost,H,0.94449,0.0409,0.01461,Home Win
+2026-03-28,Hungary,Slovenia,Friendly,Random Forest,D,0.21333,0.68333,0.10333,Draw
+2026-03-28,Hungary,Slovenia,Friendly,XGBoost,D,0.21053,0.7581,0.03137,Draw
+2026-03-28,Korea Republic,Ivory Coast,Friendly,Random Forest,H,0.65333,0.27333,0.07333,Home Win
+2026-03-28,Korea Republic,Ivory Coast,Friendly,XGBoost,H,0.87028,0.10283,0.02689,Home Win
+2026-03-28,San Marino,Faroe Islands,Friendly,Random Forest,A,0.03,0.06333,0.90667,Away Win
+2026-03-28,San Marino,Faroe Islands,Friendly,XGBoost,A,0.00711,0.01046,0.98243,Away Win
+2026-03-28,Scotland,Japan,Friendly,Random Forest,D,0.29,0.54667,0.16333,Draw
+2026-03-28,Scotland,Japan,Friendly,XGBoost,D,0.20719,0.63832,0.15449,Draw
+2026-03-28,Senegal,Peru,Friendly,Random Forest,H,0.55667,0.31333,0.13,Home Win
+2026-03-28,Senegal,Peru,Friendly,XGBoost,H,0.66726,0.28762,0.04512,Home Win
+2026-03-28,United States,Belgium,Friendly,Random Forest,D,0.31,0.52333,0.16667,Draw
+2026-03-28,United States,Belgium,Friendly,XGBoost,D,0.20477,0.6723,0.12294,Draw
+2026-03-28,Zambia,Malawi,Friendly,Random Forest,H,0.71333,0.17667,0.11,Home Win
+2026-03-28,Zambia,Malawi,Friendly,XGBoost,H,0.95065,0.03925,0.01009,Home Win
+2026-03-29,Armenia,Belarus,Friendly,Random Forest,D,0.14667,0.7,0.15333,Draw
+2026-03-29,Armenia,Belarus,Friendly,XGBoost,D,0.01919,0.92846,0.05235,Draw
+2026-03-29,Aruba,Liechtenstein,Friendly,Random Forest,H,0.48667,0.44,0.07333,Home Win
+2026-03-29,Aruba,Liechtenstein,Friendly,XGBoost,H,0.73142,0.22764,0.04094,Home Win
+2026-03-29,Colombia,France,Friendly,Random Forest,D,0.33,0.41,0.26,Draw
+2026-03-29,Colombia,France,Friendly,XGBoost,H,0.40259,0.21818,0.37923,Home Win
+2026-03-29,Haiti,Tunisia,Friendly,Random Forest,D,0.04333,0.91,0.04667,Draw
+2026-03-29,Haiti,Tunisia,Friendly,XGBoost,D,0.02427,0.95468,0.02105,Draw
+2026-03-29,Lithuania,Georgia,Friendly,Random Forest,A,0.07333,0.28667,0.64,Away Win
+2026-03-29,Lithuania,Georgia,Friendly,XGBoost,D,0.01332,0.5826,0.40407,Draw
+2026-03-29,Macau,Tanzania,Friendly,Random Forest,A,0.05667,0.16333,0.78,Away Win
+2026-03-29,Macau,Tanzania,Friendly,XGBoost,A,0.00389,0.01343,0.98268,Away Win
+2026-03-29,Mexico,Portugal,Friendly,Random Forest,D,0.37333,0.45667,0.17,Draw
+2026-03-29,Mexico,Portugal,Friendly,XGBoost,A,0.2811,0.32086,0.39804,Away Win

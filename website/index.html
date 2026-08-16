@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>World Cup 2026 — The Predicted Bracket</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='0.9em' font-size='90'%3E%F0%9F%8F%86%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Archivo:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --pitch-990: #0A1510;
+    --pitch-950: #0D1A14;
+    --card: #10201A;
+    --raised: #16291F;
+    --lifted: #1C332A;
+    --line: rgba(237, 243, 236, 0.09);
+    --line-strong: rgba(237, 243, 236, 0.16);
+    --chalk: #EDF3EC;
+    --dim: #8FA89A;
+    --faint: #5C7265;
+    --gold: #E8B84B;
+    --gold-deep: #B98E2E;
+    --gold-glow: rgba(232, 184, 75, 0.14);
+    --home: #1baf7a;
+    --draw: #5E6E64;
+    --away: #d95926;
+    --font-display: "Barlow Condensed", sans-serif;
+    --font-body: "Archivo", sans-serif;
+    --font-mono: "IBM Plex Mono", monospace;
+    --tile-w: 176px;
+    --row-h: 56px;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    *, *::before, *::after { animation: none !important; transition: none !important; }
+  }
+
+  body {
+    background:
+      /* mowing stripes */
+      repeating-linear-gradient(90deg, rgba(255,255,255,0.012) 0 120px, rgba(0,0,0,0.05) 120px 240px),
+      radial-gradient(ellipse 90% 55% at 50% -10%, #14261D 0%, transparent 60%),
+      var(--pitch-990);
+    color: var(--chalk);
+    font-family: var(--font-body);
+    font-size: 15px;
+    line-height: 1.7;
+    min-height: 100vh;
+  }
+
+  /* ---------- header ---------- */
+  header { max-width: 1720px; margin: 0 auto; padding: 56px 32px 16px; }
+  .eyebrow {
+    font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.22em;
+    color: var(--gold); text-transform: uppercase;
+  }
+  h1 {
+    font-family: var(--font-display); font-weight: 700; text-transform: uppercase;
+    font-size: clamp(44px, 6vw, 84px); letter-spacing: -0.015em; line-height: 0.95;
+    margin-top: 10px;
+  }
+  h1 .thin { font-weight: 500; color: var(--dim); }
+  .sub { max-width: 680px; color: var(--dim); margin-top: 18px; font-size: 15px; }
+  .sub strong { color: var(--chalk); font-weight: 600; }
+
+  .hint-row { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 24px; }
+  .hint {
+    display: inline-flex; align-items: center; gap: 8px;
+    border: 1px solid var(--line-strong); border-radius: 999px;
+    padding: 7px 16px; font-size: 13px; color: var(--dim); background: var(--card);
+  }
+  .hint .dot { width: 8px; height: 8px; border-radius: 2px; background: var(--gold); flex: none; }
+  button.clear-btn {
+    display: none; align-items: center; gap: 8px;
+    border: 1px solid var(--gold-deep); border-radius: 999px; cursor: pointer;
+    padding: 7px 16px; font-size: 13px; color: var(--gold);
+    background: var(--gold-glow); font-family: var(--font-body);
+  }
+  button.clear-btn.visible { display: inline-flex; }
+  button.clear-btn:hover { background: rgba(232, 184, 75, 0.24); }
+
+  /* ---------- bracket ---------- */
+  .chart-scroller { overflow-x: auto; padding: 40px 24px 8px; }
+  .fit-box { position: relative; margin: 0 auto; }
+  .bracket {
+    display: flex; align-items: center; justify-content: flex-start;
+    gap: 24px; min-width: max-content;
+    transform-origin: top left;
+  }
+
+  .strip-caption {
+    display: flex; justify-content: center; align-items: center; flex-wrap: wrap;
+    gap: 10px 22px; padding: 14px 24px 8px;
+    font-family: var(--font-mono); font-size: 11px; color: var(--dim);
+  }
+  .strip-caption .key { display: inline-flex; align-items: center; gap: 7px; }
+  .strip-caption .swatch { width: 9px; height: 9px; border-radius: 2px; flex: none; }
+  .strip-caption .note { color: var(--faint); }
+
+  .wing { display: grid; grid-auto-rows: var(--row-h); column-gap: 0; }
+  .wing.left  { grid-template-columns: var(--tile-w) 22px var(--tile-w) 22px var(--tile-w) 22px var(--tile-w); }
+  .wing.right { grid-template-columns: var(--tile-w) 22px var(--tile-w) 22px var(--tile-w) 22px var(--tile-w); }
+
+  .round-label {
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.18em;
+    color: var(--faint); text-transform: uppercase; text-align: center;
+    align-self: end; padding-bottom: 10px; white-space: nowrap;
+  }
+
+  /* connectors: elbow linking two feeder midpoints to the next tile */
+  .conn { position: relative; }
+  .conn::before {
+    content: ""; position: absolute; top: 25%; bottom: 25%; width: 55%;
+    border-top: 1.5px solid var(--line-strong); border-bottom: 1.5px solid var(--line-strong);
+  }
+  .conn::after {
+    content: ""; position: absolute; top: 50%; width: 45%;
+    border-top: 1.5px solid var(--line-strong);
+  }
+  .wing.left  .conn::before { left: 0; border-right: 1.5px solid var(--line-strong); border-radius: 0 4px 4px 0; }
+  .wing.left  .conn::after  { right: 0; }
+  .wing.right .conn::before { right: 0; border-left: 1.5px solid var(--line-strong); border-radius: 4px 0 0 4px; }
+  .wing.right .conn::after  { left: 0; }
+
+  /* ---------- match tile ---------- */
+  .match {
+    align-self: center; width: var(--tile-w);
+    background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+    padding: 8px 0 0; overflow: hidden;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.4), 0 6px 18px -8px rgba(0,0,0,0.5);
+    transition: border-color 0.15s ease;
+  }
+  .match.on-path { border-color: var(--gold-deep); box-shadow: 0 1px 2px rgba(0,0,0,0.4), 0 0 0 1px var(--gold-glow), 0 8px 24px -8px rgba(94, 66, 5, 0.55); }
+
+  .match .meta {
+    display: flex; justify-content: space-between; align-items: baseline; gap: 10px;
+    padding: 0 10px 6px; font-family: var(--font-mono); font-size: 9.5px;
+    letter-spacing: 0.08em; color: var(--faint); text-transform: uppercase; white-space: nowrap;
+  }
+  .match .meta span:first-child { overflow: hidden; text-overflow: ellipsis; min-width: 0; }
+  .match .meta span:last-child { flex: none; }
+  .match .meta .manual-tag { color: var(--gold); letter-spacing: 0.14em; cursor: pointer; }
+
+  .team-row {
+    display: flex; align-items: center; gap: 7px; width: 100%;
+    padding: 5px 10px; border: 0; background: none; cursor: pointer;
+    font-family: inherit; color: var(--dim); text-align: left;
+    border-left: 3px solid transparent;
+  }
+  .team-row:hover { background: var(--raised); }
+  .team-row:focus-visible { outline: 2px solid var(--gold); outline-offset: -2px; border-radius: 4px; }
+  .team-row .flag { font-size: 15px; flex: none; line-height: 1; }
+  .team-row .name {
+    font-family: var(--font-display); font-weight: 600; font-size: 15.5px;
+    text-transform: uppercase; letter-spacing: 0.015em; line-height: 1.15;
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex: 1;
+  }
+  .team-row .pct  { font-family: var(--font-mono); font-size: 11.5px; flex: none; min-width: 34px; text-align: right; }
+  .team-row.winner { color: var(--chalk); border-left-color: var(--gold); background: linear-gradient(90deg, var(--gold-glow), transparent 70%); }
+  .team-row.winner .pct { color: var(--gold); font-weight: 600; }
+  .team-row .pct.pk { font-size: 10px; letter-spacing: 0.04em; }
+
+  /* probability strip: home | draw | away with 2px surface gaps */
+  .prob-strip { display: flex; height: 6px; margin-top: 6px; background: var(--pitch-950); gap: 2px; }
+  .prob-strip .seg-h { background: var(--home); border-radius: 0 2px 2px 0; }
+  .prob-strip .seg-d { background: var(--draw); border-radius: 2px; }
+  .prob-strip .seg-a { background: var(--away); border-radius: 2px 0 0 2px; }
+
+  /* ---------- center / final ---------- */
+  .center-col { display: flex; flex-direction: column; align-items: center; gap: 20px; width: 236px; flex: none; position: relative; }
+  .center-col::before {
+    content: ""; position: absolute; inset: -60px -40px; pointer-events: none;
+    background: radial-gradient(circle at 50% 38%, rgba(232,184,75,0.07), transparent 62%);
+  }
+  .final-label {
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.24em;
+    color: var(--gold); text-transform: uppercase;
+  }
+  .center-col .match { width: 210px; background: var(--raised); }
+
+  .champion-card {
+    width: 210px; text-align: center; padding: 22px 16px 20px;
+    background: linear-gradient(180deg, var(--lifted), var(--card));
+    border: 1px solid var(--gold-deep); border-radius: 12px;
+    box-shadow: 0 0 0 1px var(--gold-glow), 0 18px 44px -16px rgba(0,0,0,0.7);
+  }
+  .champion-card .trophy { width: 34px; height: 34px; margin: 0 auto 10px; display: block; }
+  .champion-card .label {
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.24em;
+    color: var(--gold); text-transform: uppercase;
+  }
+  .champion-card .champ-flag { font-size: 40px; line-height: 1.3; display: block; margin-top: 6px; }
+  .champion-card .champ-name {
+    display: block; font-family: var(--font-display); font-weight: 700; font-size: 30px;
+    text-transform: uppercase; line-height: 1; letter-spacing: 0.01em;
+  }
+  .champion-card .champ-sub { display: block; font-family: var(--font-mono); font-size: 11px; color: var(--dim); margin-top: 8px; }
+
+  /* ---------- trophy odds ---------- */
+  .odds-section { max-width: 860px; margin: 72px auto 0; padding: 0 32px; }
+  .odds-section h2 {
+    font-family: var(--font-display); font-weight: 700; font-size: 40px;
+    text-transform: uppercase; letter-spacing: -0.01em; line-height: 1;
+  }
+  .odds-section .odds-sub { color: var(--dim); margin-top: 8px; max-width: 620px; }
+
+  .odds-table { margin-top: 26px; border: 1px solid var(--line); border-radius: 14px; background: var(--card); overflow: hidden; }
+  .odds-head, .odds-row {
+    display: grid; grid-template-columns: 34px 1fr 90px repeat(5, 62px);
+    gap: 8px; align-items: center; padding: 9px 18px;
+  }
+  .odds-head {
+    font-family: var(--font-mono); font-size: 10px; letter-spacing: 0.14em;
+    text-transform: uppercase; color: var(--faint); border-bottom: 1px solid var(--line);
+    padding-top: 12px; padding-bottom: 12px;
+  }
+  .odds-row { border-bottom: 1px solid var(--line); }
+  .odds-row:last-child { border-bottom: 0; }
+  .odds-row .o-flag { font-size: 16px; }
+  .odds-row .o-name { font-family: var(--font-display); font-weight: 600; font-size: 16.5px; text-transform: uppercase; color: var(--chalk); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .odds-row .o-bar { height: 8px; background: var(--pitch-950); border-radius: 4px; overflow: hidden; }
+  .odds-row .o-bar div { height: 100%; background: var(--gold); border-radius: 4px; min-width: 2px; }
+  .odds-row .o-pct { font-family: var(--font-mono); font-size: 11.5px; color: var(--dim); text-align: right; }
+  .odds-row .o-pct.champ { color: var(--gold); font-weight: 600; }
+  .odds-note { margin-top: 12px; font-size: 12.5px; color: var(--faint); font-family: var(--font-mono); }
+
+  @media (max-width: 720px) {
+    .odds-section { padding: 0 20px; }
+    .odds-head, .odds-row { grid-template-columns: 28px 1fr 60px repeat(2, 52px); }
+    .odds-head span:nth-child(4), .odds-head span:nth-child(5), .odds-head span:nth-child(6),
+    .odds-row span:nth-child(4), .odds-row span:nth-child(5), .odds-row span:nth-child(6) { display: none; }
+  }
+
+  /* ---------- head-to-head ---------- */
+  .h2h-section { max-width: 860px; margin: 72px auto 0; padding: 0 32px 96px; }
+  .h2h-section h2 {
+    font-family: var(--font-display); font-weight: 700; font-size: 40px;
+    text-transform: uppercase; letter-spacing: -0.01em; line-height: 1;
+  }
+  .h2h-section .h2h-sub { color: var(--dim); margin-top: 8px; max-width: 560px; }
+
+  .h2h-controls {
+    display: grid; grid-template-columns: 1fr auto 1fr; gap: 16px; align-items: end;
+    margin-top: 28px;
+  }
+  .vs-mark {
+    font-family: var(--font-display); font-weight: 700; font-size: 26px;
+    color: var(--faint); padding-bottom: 8px; text-transform: uppercase;
+  }
+
+  .combo { position: relative; }
+  .combo label {
+    display: block; font-family: var(--font-mono); font-size: 10px;
+    letter-spacing: 0.18em; text-transform: uppercase; color: var(--faint); margin-bottom: 8px;
+  }
+  .combo input {
+    width: 100%; padding: 13px 40px 13px 46px;
+    background: var(--card); border: 1px solid var(--line-strong); border-radius: 10px;
+    color: var(--chalk); font-family: var(--font-body); font-size: 15px;
+  }
+  .combo input::placeholder { color: var(--faint); }
+  .combo input:focus { outline: 2px solid var(--gold); outline-offset: -1px; }
+  .combo .lead-flag { position: absolute; left: 15px; bottom: 12px; font-size: 18px; pointer-events: none; }
+  .combo .caret { position: absolute; right: 15px; bottom: 19px; width: 9px; height: 9px; pointer-events: none;
+    border-right: 1.5px solid var(--faint); border-bottom: 1.5px solid var(--faint); transform: rotate(45deg); }
+  .combo ul {
+    position: absolute; z-index: 30; top: calc(100% + 6px); left: 0; right: 0;
+    max-height: 288px; overflow-y: auto; list-style: none;
+    background: var(--raised); border: 1px solid var(--line-strong); border-radius: 10px;
+    box-shadow: 0 24px 48px -12px rgba(0,0,0,0.8); display: none;
+  }
+  .combo ul.open { display: block; }
+  .combo li {
+    display: flex; align-items: center; gap: 10px; padding: 10px 15px; cursor: pointer;
+    font-size: 14.5px; color: var(--dim);
+  }
+  .combo li .flag { font-size: 16px; }
+  .combo li:hover, .combo li.active { background: var(--lifted); color: var(--chalk); }
+  .combo li.empty { color: var(--faint); cursor: default; font-style: italic; }
+
+  /* result card */
+  .h2h-result { margin-top: 28px; display: none; }
+  .h2h-result.visible { display: block; animation: rise 0.35s ease both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+  .result-card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 30px 34px 26px; box-shadow: 0 18px 44px -18px rgba(0,0,0,0.7);
+  }
+  .result-verdict {
+    display: flex; align-items: baseline; justify-content: space-between; gap: 16px;
+    flex-wrap: wrap; padding-bottom: 22px; border-bottom: 1px solid var(--line);
+  }
+  .result-verdict .who {
+    font-family: var(--font-display); font-weight: 700; font-size: 34px;
+    text-transform: uppercase; line-height: 1; color: var(--gold);
+  }
+  .result-verdict .who .flag { font-size: 28px; margin-right: 8px; }
+  .result-verdict .conf { font-family: var(--font-mono); font-size: 13px; color: var(--dim); }
+  .result-verdict .conf strong { color: var(--chalk); font-size: 16px; }
+
+  .score-line { display: flex; align-items: center; justify-content: center; gap: 26px; margin: 26px 0 8px; }
+  .score-line .side { flex: 1; display: flex; flex-direction: column; gap: 2px; }
+  .score-line .side.right { text-align: right; }
+  .score-line .side .t-name { font-family: var(--font-display); font-weight: 600; font-size: 20px; text-transform: uppercase; color: var(--chalk); }
+  .score-line .side .t-tag { font-family: var(--font-mono); font-size: 11px; color: var(--faint); }
+  .score-line .nums {
+    font-family: var(--font-mono); font-weight: 600; font-size: 42px; letter-spacing: 0.02em;
+    color: var(--chalk); white-space: nowrap;
+  }
+  .score-line .nums .dash { color: var(--faint); padding: 0 8px; }
+  .goals-caption { text-align: center; font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); }
+
+  .big-strip { display: flex; height: 14px; gap: 2px; background: var(--pitch-950); border-radius: 7px; overflow: hidden; margin-top: 26px; }
+  .big-strip div { min-width: 3px; }
+  .big-strip .seg-h { background: var(--home); }
+  .big-strip .seg-d { background: var(--draw); }
+  .big-strip .seg-a { background: var(--away); }
+  .strip-legend { display: flex; justify-content: space-between; margin-top: 10px; font-family: var(--font-mono); font-size: 12px; color: var(--dim); flex-wrap: wrap; gap: 8px; }
+  .strip-legend .key { display: inline-flex; align-items: center; gap: 7px; }
+  .strip-legend .swatch { width: 9px; height: 9px; border-radius: 2px; flex: none; }
+  .strip-legend strong { color: var(--chalk); font-weight: 500; }
+
+  .h2h-note { margin-top: 14px; font-size: 12.5px; color: var(--faint); font-family: var(--font-mono); }
+
+  footer {
+    border-top: 1px solid var(--line); padding: 26px 32px 40px;
+    font-family: var(--font-mono); font-size: 11.5px; color: var(--faint);
+    display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  }
+
+  .loading { text-align: center; padding: 120px 0; color: var(--faint); font-family: var(--font-mono); }
+
+  @media (max-width: 720px) {
+    header { padding: 40px 20px 8px; }
+    .h2h-section { padding: 0 20px 72px; }
+    .h2h-controls { grid-template-columns: 1fr; }
+    .vs-mark { text-align: center; padding: 0; }
+    .score-line { gap: 14px; }
+    .score-line .nums { font-size: 30px; }
+    .result-card { padding: 22px 20px 20px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <p class="eyebrow">International Football · Machine Prediction</p>
+  <h1>World Cup 2026<br><span class="thin">The Predicted Bracket</span></h1>
+  <p class="sub">
+    Every knockout match simulated by a gradient-boosted model trained on
+    <strong>23,955 internationals</strong>. Team form is frozen at the final group-stage whistle —
+    <strong>June 27, 2026</strong> — so each round below is a pure forecast.
+    Holdout accuracy <strong>60.1%</strong>, above the ~52% research benchmark for internationals.
+  </p>
+  <div class="hint-row">
+    <span class="hint"><span class="dot"></span>Tap a team to set the real winner — every later round re-predicts</span>
+    <button class="clear-btn" id="clearOverrides">Clear my edits</button>
+  </div>
+</header>
+
+<div class="chart-scroller">
+  <div class="fit-box" id="fitBox">
+    <div class="bracket" id="bracket">
+      <p class="loading">Loading predictions…</p>
+    </div>
+  </div>
+</div>
+<div class="strip-caption">
+  <span class="key"><span class="swatch" style="background:var(--home)"></span>top side wins</span>
+  <span class="key"><span class="swatch" style="background:var(--draw)"></span>draw after 90 minutes</span>
+  <span class="key"><span class="swatch" style="background:var(--away)"></span>bottom side wins</span>
+  <span class="note">draw-topped matches go to the penalty model — PK n% = shootout win chance · n.n–n.n = estimated goals</span>
+</div>
+
+<section class="odds-section">
+  <h2>Trophy Odds</h2>
+  <p class="odds-sub">Exact chance of surviving each round — every possible path through the
+  bracket weighted by the models, not just the single displayed line. Winners you set by hand
+  condition these odds.</p>
+  <div class="odds-table" id="oddsTable"></div>
+  <p class="odds-note">Computed by dynamic programming over the bracket · outcome model + penalty model per match</p>
+</section>
+
+<section class="h2h-section">
+  <h2>Head to Head</h2>
+  <p class="h2h-sub">Pick any two sides at the 2026 World Cup and see how the model calls it.</p>
+
+  <div class="h2h-controls">
+    <div class="combo" id="combo1">
+      <label for="teamInput1">Team 1</label>
+      <span class="lead-flag" id="flag1">🏳️</span>
+      <input id="teamInput1" type="text" placeholder="Search a team…" autocomplete="off"
+             role="combobox" aria-expanded="false" aria-label="Team 1">
+      <span class="caret"></span>
+      <ul id="list1" role="listbox"></ul>
+    </div>
+    <div class="vs-mark">vs</div>
+    <div class="combo" id="combo2">
+      <label for="teamInput2">Team 2</label>
+      <span class="lead-flag" id="flag2">🏳️</span>
+      <input id="teamInput2" type="text" placeholder="Search a team…" autocomplete="off"
+             role="combobox" aria-expanded="false" aria-label="Team 2">
+      <span class="caret"></span>
+      <ul id="list2" role="listbox"></ul>
+    </div>
+  </div>
+
+  <div class="h2h-result" id="h2hResult">
+    <div class="result-card">
+      <div class="result-verdict">
+        <span class="who" id="verdictWho"></span>
+        <span class="conf" id="verdictConf"></span>
+      </div>
+      <div class="score-line">
+        <div class="side">
+          <span class="t-name" id="sideName1"></span>
+          <span class="t-tag">Team 1</span>
+        </div>
+        <div class="nums"><span id="goals1"></span><span class="dash">–</span><span id="goals2"></span></div>
+        <div class="side right">
+          <span class="t-name" id="sideName2"></span>
+          <span class="t-tag">Team 2</span>
+        </div>
+      </div>
+      <p class="goals-caption">Estimated goals</p>
+      <div class="big-strip" id="bigStrip" role="img" aria-label="Outcome probabilities"></div>
+      <div class="strip-legend" id="stripLegend"></div>
+    </div>
+    <p class="h2h-note">Neutral venue · World Cup match weighting · form as of June 27, 2026</p>
+  </div>
+</section>
+
+<footer>
+  <span id="footerModel"></span>
+  <span id="footerGen"></span>
+</footer>
+
+<script>
+(async function () {
+  const data = await fetch("./data.json").then(r => r.json());
+  const FLAGS = Object.fromEntries(data.teams.map(t => [t.name, t.flag]));
+  const ROUND_NAMES = ["Round of 32", "Round of 16", "Quarterfinals", "Semifinals", "Final"];
+  const STORE_KEY = "wc26-overrides";
+
+  let overrides = {};
+  try { overrides = JSON.parse(localStorage.getItem(STORE_KEY)) || {}; } catch (e) {}
+  const saveOverrides = () => localStorage.setItem(STORE_KEY, JSON.stringify(overrides));
+
+  const keyOf = m => `${m.round}:${m.slot}:${m.home}|${m.away}`;
+  // Tandem models: when the outcome model's top call is a draw, the match is
+  // decided by the penalty shootout model (pred[5] = P(home wins shootout)).
+  const goesToPens = m => m.pred[1] >= m.pred[0] && m.pred[1] >= m.pred[2];
+  const predictedWinner = m => goesToPens(m)
+    ? (m.pred[5] >= 0.5 ? m.home : m.away)
+    : (m.pred[0] >= m.pred[2] ? m.home : m.away);
+  const winnerOf = m => {
+    const ov = overrides[keyOf(m)];
+    return (ov === m.home || ov === m.away) ? ov : predictedWinner(m);
+  };
+  const isOverridden = m => {
+    const ov = overrides[keyOf(m)];
+    return (ov === m.home || ov === m.away) && ov !== predictedWinner(m) ? true : ov != null;
+  };
+
+  // ---- bracket computation: round 0 fixed, later rounds derived ----
+  function computeRounds() {
+    const rounds = [data.r32.map((f, i) => ({ ...f, round: 0, slot: i }))];
+    for (let r = 1; r < 5; r++) {
+      const prev = rounds[r - 1];
+      const cur = [];
+      for (let i = 0; i < prev.length / 2; i++) {
+        const home = winnerOf(prev[2 * i]);
+        const away = winnerOf(prev[2 * i + 1]);
+        cur.push({ round: r, slot: i, home, away, pred: data.pairs[`${home}|${away}`] });
+      }
+      rounds.push(cur);
+    }
+    return rounds;
+  }
+
+  // ---- exact tournament odds (bracket DP, conditioned on overrides) ----
+  const matchAdvanceProb = pred => pred[0] + pred[1] * pred[5]; // win + draw*shootout
+
+  function computeOdds(rounds) {
+    const seedTeams = [];
+    data.r32.forEach(f => { seedTeams.push(f.home, f.away); });
+    let reach = new Array(32).fill(1);
+    const perRound = [];
+
+    for (let r = 0; r < 5; r++) {
+      const block = 2 ** (r + 1), half = block / 2;
+
+      // a manual winner pins its match: winner enters and leaves with prob 1
+      rounds[r].forEach((m, slot) => {
+        const ov = overrides[keyOf(m)];
+        if (ov === m.home || ov === m.away) {
+          const base = slot * block;
+          for (let i = base; i < base + block; i++) reach[i] = seedTeams[i] === ov ? 1 : 0;
+        }
+      });
+
+      const next = new Array(32).fill(0);
+      for (let i = 0; i < 32; i++) {
+        if (!reach[i]) continue;
+        const base = Math.floor(i / block) * block;
+        const upper = (i - base) < half;
+        const lo = upper ? base + half : base, hi = upper ? base + block : base + half;
+        let p = 0;
+        for (let j = lo; j < hi; j++) {
+          if (!reach[j]) continue;
+          let w;
+          if (r === 0) {
+            const wh = matchAdvanceProb(data.r32[Math.floor(i / 2)].pred);
+            w = upper ? wh : 1 - wh;
+          } else {
+            w = upper
+              ? matchAdvanceProb(data.pairs[`${seedTeams[i]}|${seedTeams[j]}`])
+              : 1 - matchAdvanceProb(data.pairs[`${seedTeams[j]}|${seedTeams[i]}`]);
+          }
+          p += reach[j] * w;
+        }
+        next[i] = reach[i] * p;
+      }
+
+      rounds[r].forEach((m, slot) => {
+        const ov = overrides[keyOf(m)];
+        if (ov === m.home || ov === m.away) {
+          const base = slot * block;
+          for (let i = base; i < base + block; i++) next[i] = seedTeams[i] === ov ? 1 : 0;
+        }
+      });
+
+      perRound.push([...next]);
+      reach = next;
+    }
+    return { seedTeams, perRound }; // perRound[0..4] = P(reach R16, QF, SF, Final, Champion)
+  }
+
+  function renderOdds(rounds) {
+    const { seedTeams, perRound } = computeOdds(rounds);
+    const rows = seedTeams
+      .map((t, i) => ({ team: t, odds: perRound.map(pr => pr[i]) }))
+      .sort((a, b) => b.odds[4] - a.odds[4])
+      .slice(0, 12);
+    const fmtO = p => (p >= 0.995 ? "100%" : p < 0.001 ? "<1%" : (p * 100).toFixed(p >= 0.1 ? 0 : 1) + "%");
+    const maxChamp = Math.max(rows[0].odds[4], 1e-9);
+
+    document.getElementById("oddsTable").innerHTML =
+      `<div class="odds-head"><span></span><span>Team</span><span></span>
+        <span>R16</span><span>QF</span><span>SF</span><span>Final</span><span>Champion</span></div>` +
+      rows.map(r => `
+        <div class="odds-row">
+          <span class="o-flag">${FLAGS[r.team]}</span>
+          <span class="o-name">${r.team}</span>
+          <span class="o-bar" role="img" aria-label="${r.team} ${fmtO(r.odds[4])} to win the trophy">
+            <div style="width:${(r.odds[4] / maxChamp) * 100}%"></div></span>
+          <span class="o-pct">${fmtO(r.odds[0])}</span>
+          <span class="o-pct">${fmtO(r.odds[1])}</span>
+          <span class="o-pct">${fmtO(r.odds[2])}</span>
+          <span class="o-pct">${fmtO(r.odds[3])}</span>
+          <span class="o-pct champ">${fmtO(r.odds[4])}</span>
+        </div>`).join("");
+  }
+
+  // ---- champion path ----
+  function championPath(rounds) {
+    const champ = winnerOf(rounds[4][0]);
+    const onPath = new Set();
+    rounds.forEach(round => round.forEach(m => {
+      if (winnerOf(m) === champ) onPath.add(keyOf(m));
+    }));
+    return { champ, onPath };
+  }
+
+  const fmtPct = p => Math.round(p * 100) + "%";
+  const fmtDate = d => new Date(d + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric" }).toUpperCase();
+
+  function teamRowHTML(m, side, isWinner) {
+    const team = side === "h" ? m.home : m.away;
+    const pct = side === "h" ? m.pred[0] : m.pred[2];
+    const pens = isWinner && goesToPens(m) && predictedWinner(m) === team;
+    const penPct = side === "h" ? m.pred[5] : 1 - m.pred[5];
+    const pctHTML = pens
+      ? `<span class="pct pk" title="Draw predicted — wins the shootout ${fmtPct(penPct)}">PK ${fmtPct(penPct)}</span>`
+      : `<span class="pct">${fmtPct(pct)}</span>`;
+    return `<button class="team-row ${isWinner ? "winner" : ""}" aria-pressed="${isWinner}"
+      data-key="${keyOf(m)}" data-team="${team}"
+      title="Set ${team} as the real winner">
+      <span class="flag">${FLAGS[team]}</span>
+      <span class="name">${team}</span>
+      ${pctHTML}
+    </button>`;
+  }
+
+  const ROUND_SHORT = ["R32", "R16", "QF", "SF", "FINAL"];
+
+  function matchHTML(m, onPath) {
+    const w = winnerOf(m);
+    const manual = overrides[keyOf(m)] != null;
+    const meta = m.round === 0
+      ? `${fmtDate(m.date)} · ${m.city.toUpperCase()}`
+      : (m.round === 4 ? "FOR THE TROPHY" : `${ROUND_SHORT[m.round]} · MATCH ${m.slot + 1}`);
+    const [pH, pD, pA] = m.pred;
+    const metaRight = manual
+      ? `<span class="manual-tag" data-reset="${keyOf(m)}" title="Back to the model's pick">✕ MANUAL</span>`
+      : `<span>${m.pred[3].toFixed(1)}–${m.pred[4].toFixed(1)}</span>`;
+    return `<div class="match ${onPath.has(keyOf(m)) ? "on-path" : ""}" data-key="${keyOf(m)}">
+      <div class="meta"><span>${meta}</span>${metaRight}</div>
+      ${teamRowHTML(m, "h", w === m.home)}
+      ${teamRowHTML(m, "a", w === m.away)}
+      <div class="prob-strip" title="${m.home} ${fmtPct(pH)} · Draw ${fmtPct(pD)} · ${m.away} ${fmtPct(pA)}">
+        <div class="seg-h" style="width:${pH * 100}%"></div>
+        <div class="seg-d" style="width:${pD * 100}%"></div>
+        <div class="seg-a" style="width:${pA * 100}%"></div>
+      </div>
+    </div>`;
+  }
+
+  // ---- wing renderer: 4 round-columns in a grid, elbow connectors between ----
+  // grid rows: 17 (1 label row + 16 body rows of --row-h)
+  function wingHTML(rounds, side, onPath) {
+    // rounds: [8 matches, 4, 2, 1] for this wing
+    const colOfRound = side === "left" ? [1, 3, 5, 7] : [7, 5, 3, 1];
+    const connCol = r => (side === "left" ? colOfRound[r] + 1 : colOfRound[r] - 1);
+    let html = `<div class="wing ${side}">`;
+
+    rounds.forEach((round, r) => {
+      const span = 16 / round.length;
+      html += `<div class="round-label" style="grid-column:${colOfRound[r]};grid-row:1">${ROUND_NAMES[r]}${r === 3 ? "" : ""}</div>`;
+      round.forEach((m, i) => {
+        html += `<div style="grid-column:${colOfRound[r]};grid-row:${2 + i * span} / span ${span};display:flex;align-items:center">${matchHTML(m, onPath)}</div>`;
+        if (r < 3 && i % 2 === 0) {
+          // connector spanning this match and the next, feeding round r+1
+          html += `<div class="conn" style="grid-column:${connCol(r)};grid-row:${2 + i * span} / span ${span * 2}"></div>`;
+        }
+      });
+    });
+
+    html += "</div>";
+    return html;
+  }
+
+  function trophySVG() {
+    return `<svg class="trophy" viewBox="0 0 24 24" fill="none" stroke="#E8B84B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M7 3h10v5a5 5 0 0 1-10 0V3z"/><path d="M7 5H4a1 1 0 0 0-1 1c0 2.2 1.8 4 4 4"/>
+      <path d="M17 5h3a1 1 0 0 1 1 1c0 2.2-1.8 4-4 4"/><path d="M12 13v4"/><path d="M8 21h8l-1-4h-6l-1 4z"/>
+    </svg>`;
+  }
+
+  function render() {
+    const rounds = computeRounds();
+    const { champ, onPath } = championPath(rounds);
+    const final = rounds[4][0];
+    const champPct = winnerOf(final) === final.home ? final.pred[0] : final.pred[2];
+    const manualAnywhere = Object.keys(overrides).length > 0;
+
+    const left = [rounds[0].slice(0, 8), rounds[1].slice(0, 4), rounds[2].slice(0, 2), [rounds[3][0]]];
+    const right = [rounds[0].slice(8), rounds[1].slice(4), rounds[2].slice(2), [rounds[3][1]]];
+
+    document.getElementById("bracket").innerHTML =
+      wingHTML(left, "left", onPath) +
+      `<div class="center-col">
+        <span class="final-label">The Final · Jul 19</span>
+        ${matchHTML(final, onPath)}
+        <div class="champion-card">
+          ${trophySVG()}
+          <span class="label">Predicted Champion</span>
+          <span class="champ-flag">${FLAGS[champ]}</span>
+          <span class="champ-name">${champ}</span>
+          <span class="champ-sub">${fmtPct(champPct)} to win the final</span>
+        </div>
+      </div>` +
+      wingHTML(right, "right", onPath);
+
+    document.getElementById("clearOverrides").classList.toggle("visible", manualAnywhere);
+
+    // wire clicks
+    document.querySelectorAll(".team-row").forEach(btn => {
+      btn.addEventListener("click", () => {
+        const key = btn.dataset.key, team = btn.dataset.team;
+        if (overrides[key] === team) delete overrides[key];
+        else overrides[key] = team;
+        pruneStaleOverrides();
+        saveOverrides();
+        render();
+      });
+    });
+    document.querySelectorAll(".manual-tag").forEach(tag => {
+      tag.addEventListener("click", e => {
+        e.stopPropagation();
+        delete overrides[tag.dataset.reset];
+        pruneStaleOverrides();
+        saveOverrides();
+        render();
+      });
+    });
+
+    fitBracket();
+    renderOdds(rounds);
+  }
+
+  // Scale the whole chart down to fit the viewport (min 0.55, then it scrolls)
+  function fitBracket() {
+    const scroller = document.querySelector(".chart-scroller");
+    const fitBox = document.getElementById("fitBox");
+    const bracket = document.getElementById("bracket");
+    bracket.style.transform = "";
+    fitBox.style.width = fitBox.style.height = "";
+    const style = getComputedStyle(scroller);
+    const avail = scroller.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight);
+    const w = bracket.scrollWidth, h = bracket.scrollHeight;
+    const scale = Math.min(1, Math.max(0.55, avail / w));
+    if (scale < 1) {
+      bracket.style.transform = `scale(${scale})`;
+      fitBox.style.width = w * scale + "px";
+      fitBox.style.height = h * scale + "px";
+    }
+  }
+  let fitTimer;
+  window.addEventListener("resize", () => { clearTimeout(fitTimer); fitTimer = setTimeout(fitBracket, 120); });
+
+  // overrides keyed by participants: when an upstream change alters who plays
+  // a match, that match's old override key no longer appears — drop it.
+  function pruneStaleOverrides() {
+    const valid = new Set();
+    computeRounds().forEach(round => round.forEach(m => valid.add(keyOf(m))));
+    for (const k of Object.keys(overrides)) if (!valid.has(k)) delete overrides[k];
+  }
+
+  document.getElementById("clearOverrides").addEventListener("click", () => {
+    overrides = {};
+    saveOverrides();
+    render();
+  });
+
+  pruneStaleOverrides();
+  render();
+
+  // ============ head-to-head ============
+  const teams = data.teams;
+  const sel = { 1: null, 2: null };
+
+  function setupCombo(n) {
+    const input = document.getElementById("teamInput" + n);
+    const list = document.getElementById("list" + n);
+    const flag = document.getElementById("flag" + n);
+    let activeIdx = -1;
+
+    function optionsFor(q) {
+      const s = q.trim().toLowerCase();
+      return teams.filter(t => t.name.toLowerCase().includes(s));
+    }
+
+    function renderList(q) {
+      const opts = optionsFor(q);
+      activeIdx = -1;
+      list.innerHTML = opts.length
+        ? opts.map(t => `<li role="option" data-team="${t.name}"><span class="flag">${t.flag}</span>${t.name}</li>`).join("")
+        : `<li class="empty">No team matches "${q}"</li>`;
+      list.querySelectorAll("li[data-team]").forEach(li => {
+        li.addEventListener("mousedown", e => { e.preventDefault(); choose(li.dataset.team); });
+      });
+    }
+
+    function open(q) { renderList(q ?? input.value); list.classList.add("open"); input.setAttribute("aria-expanded", "true"); }
+    function close() { list.classList.remove("open"); input.setAttribute("aria-expanded", "false"); }
+
+    function choose(name) {
+      sel[n] = name;
+      input.value = name;
+      flag.textContent = FLAGS[name];
+      close();
+      showResult();
+    }
+
+    input.addEventListener("focus", () => { input.select(); open(""); });
+    input.addEventListener("input", () => { sel[n] = null; flag.textContent = "🏳️"; open(input.value); });
+    input.addEventListener("blur", () => setTimeout(close, 120));
+    input.addEventListener("keydown", e => {
+      const items = [...list.querySelectorAll("li[data-team]")];
+      if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+        e.preventDefault();
+        if (!list.classList.contains("open")) open(input.value);
+        activeIdx = e.key === "ArrowDown"
+          ? Math.min(activeIdx + 1, items.length - 1)
+          : Math.max(activeIdx - 1, 0);
+        items.forEach((li, i) => li.classList.toggle("active", i === activeIdx));
+        items[activeIdx]?.scrollIntoView({ block: "nearest" });
+      } else if (e.key === "Enter") {
+        e.preventDefault();
+        if (activeIdx >= 0 && items[activeIdx]) choose(items[activeIdx].dataset.team);
+        else if (items.length === 1) choose(items[0].dataset.team);
+      } else if (e.key === "Escape") close();
+    });
+  }
+
+  function showResult() {
+    if (!sel[1] || !sel[2]) return;
+    const box = document.getElementById("h2hResult");
+    if (sel[1] === sel[2]) { box.classList.remove("visible"); return; }
+
+    const pred = data.pairs[`${sel[1]}|${sel[2]}`];
+    const [pH, pD, pA, g1, g2, penH] = pred;
+    const pens = pD >= pH && pD >= pA;
+    const winner = pens
+      ? (penH >= 0.5 ? sel[1] : sel[2])
+      : (pH >= pA ? sel[1] : sel[2]);
+    const winPct = pens ? Math.max(penH, 1 - penH) : Math.max(pH, pA);
+
+    document.getElementById("verdictWho").innerHTML =
+      `<span class="flag">${FLAGS[winner]}</span>${winner} win${pens ? " on penalties" : ""}`;
+    document.getElementById("verdictConf").innerHTML = pens
+      ? `draw predicted · shootout model <strong>${fmtPct(winPct)}</strong>`
+      : `model confidence <strong>${fmtPct(winPct)}</strong>`;
+    document.getElementById("sideName1").textContent = sel[1];
+    document.getElementById("sideName2").textContent = sel[2];
+    document.getElementById("goals1").textContent = g1.toFixed(1);
+    document.getElementById("goals2").textContent = g2.toFixed(1);
+
+    document.getElementById("bigStrip").innerHTML =
+      `<div class="seg-h" style="width:${pH * 100}%"></div>
+       <div class="seg-d" style="width:${pD * 100}%"></div>
+       <div class="seg-a" style="width:${pA * 100}%"></div>`;
+    document.getElementById("stripLegend").innerHTML =
+      `<span class="key"><span class="swatch" style="background:var(--home)"></span>${sel[1]} win <strong>${fmtPct(pH)}</strong></span>
+       <span class="key"><span class="swatch" style="background:var(--draw)"></span>Draw <strong>${fmtPct(pD)}</strong></span>
+       <span class="key"><span class="swatch" style="background:var(--away)"></span>${sel[2]} win <strong>${fmtPct(pA)}</strong></span>`;
+
+    box.classList.add("visible");
+  }
+
+  setupCombo(1);
+  setupCombo(2);
+
+  document.getElementById("footerModel").textContent = data.model + " · trained through " + data.cutoff;
+  document.getElementById("footerGen").textContent = "predictions generated " + data.generated;
+})();
+</script>
+</body>
+</html>

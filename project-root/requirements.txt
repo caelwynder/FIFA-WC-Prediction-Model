@@ -1,0 +1,12 @@
+# Pinned to the versions the pipeline was verified against (July 2026).
+# pandas is pinned hard: the 2.x -> 3.0 upgrade broke this codebase twice
+# (DataFrame.applymap removal, str-dtype NaN handling in the scrapers).
+pandas==3.0.0
+numpy==2.4.1
+scikit-learn==1.8.0
+xgboost==3.2.0
+scipy==1.17.1
+joblib==1.5.3
+requests==2.32.5
+pycountry==26.2.16
+pytest==9.1.1
