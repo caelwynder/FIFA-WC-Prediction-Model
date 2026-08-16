@@ -15,3 +15,11 @@ node_modules/
 temporary screenshots/
 project-root/logs/
 project-root/reports/
+
+# Local-only working docs and tooling (deliberately removed from the public repo,
+# still used locally — see git history if you need them back)
+CLAUDE.md
+ROADMAP.md
+WEBSITE.md
+WORKFLOW.md
+screenshot.mjs
