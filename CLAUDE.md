@@ -136,7 +136,9 @@ verified dependency versions.
 - `feature_vectors/` — upcoming-fixture feature vectors from step 3.
 - `predictions/` — model output from step 4.
 - `models/` — `rf_outcome_model.joblib`, `xgb_outcome_model.joblib` (large binary artifacts, tracked
-  in git).
+  in git). All `joblib.dump` calls use `compress=3` — uncompressed the random forest is ~207 MB,
+  over GitHub's 100 MB per-file hard limit, which blocks the push; compressed it is ~37 MB. Keep
+  `compress=3` on any new or changed model save.
 
 ## Scripts not part of the pipeline
 
